@@ -1,0 +1,65 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Participant {
+  id                      Int      @id @default(autoincrement())
+  participant_uuid        String   @unique @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  form_id                 String   @db.VarChar(10)
+  block_order             String   @db.VarChar(10)
+  participant_name        String?  @db.VarChar(100)
+  age                     Int?
+  gender                  String?  @db.VarChar(40)
+  native_language         String?  @db.VarChar(40)
+  english_proficiency     Int?
+  education_medium        String?  @db.VarChar(40)
+  ai_usage                String?  @db.VarChar(40)
+  assigned_queue          Json
+  status                  String   @default("IN_PROGRESS") @db.VarChar(20)
+  attention_checks_passed Int      @default(0)
+  consent_at              DateTime? @db.Timestamptz(6) // addition: ethics record
+  started_at              DateTime @default(now()) @db.Timestamptz(6)
+  completed_at            DateTime? @db.Timestamptz(6)
+
+  responses TrialResponse[]
+
+  @@map("participants")
+}
+
+model TrialResponse {
+  id                   Int      @id @default(autoincrement())
+  participant_uuid     String   @db.Uuid
+  trial_index          Int
+  block_number         Int
+  is_attention_check   Boolean  @default(false)
+  item_id              Int
+  condition            String   @db.VarChar(20)
+  language             String   @db.VarChar(15)
+  fidelity             String   @db.VarChar(15)
+  ft_code              String   @db.VarChar(15)
+  ai_predicted_answer  String
+  ground_truth_answer  String
+  presented_options    Json
+  trust_score          Int
+  user_selected_answer String
+  accepted_ai_answer   Boolean
+  user_correct         Boolean
+  spotted_flaw         Boolean
+  flaw_category        String?  @db.VarChar(40)
+  flaw_note            String?
+  response_time_ms     Int
+  created_at           DateTime @default(now()) @db.Timestamptz(6)
+
+  participant Participant @relation(fields: [participant_uuid], references: [participant_uuid], onDelete: Cascade)
+
+  @@unique([participant_uuid, trial_index])
+  @@index([participant_uuid], map: "idx_responses_participant")
+  @@index([item_id, condition], map: "idx_responses_item_condition")
+  @@map("responses")
+}
