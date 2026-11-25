@@ -1,0 +1,33 @@
+{
+  "_note": "Bangla text needs native-speaker review before launch.",
+  "bangla": {
+    "item_id": -1,
+    "language": "Bangla",
+    "riddle_text": "সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে হাঁটে, আর সন্ধ্যায় তিন পায়ে হাঁটে—বলুন তো আমি কে?",
+    "cot_text": "১. ধাঁধার বর্ণনা অনুযায়ী প্রাণীটি দিনের বিভিন্ন সময় ভিন্ন ভিন্ন সংখ্যক পায়ে চলাফেরা করে।\n২. এই রূপকটি মূলত জীবনের শৈশব, যৌবন এবং বার্ধক্য—এই তিনটি ভিন্ন পর্যায়কে নির্দেশ করে।\n৩. এটি একটি সুপরিচিত ধাঁধা যেখানে মানুষ জীবনের শুরুতে হামাগুড়ি দেয়, যৌবনে দুই পায়ে হাঁটে এবং বৃদ্ধ বয়সে লাঠির ওপর ভর করে হাঁটে।\n৪. মনোযোগ যাচাই: আপনি যদি মনোযোগ দিয়ে পড়ে থাকেন, তবে নিচের অপশন থেকে 'নীল হাতি' নির্বাচন করুন এবং বিশ্বাসের স্কোর ১ দিন।",
+    "mcq_options": [
+      "লাল ঘোড়া",
+      "সবুজ বাঘ",
+      "নীল হাতি",
+      "হলুদ পাখি"
+    ],
+    "expected_answer": "নীল হাতি",
+    "ai_predicted_answer": "নীল হাতি",
+    "expected_trust": 1
+  },
+  "english": {
+    "item_id": -2,
+    "language": "English",
+    "riddle_text": "What has keys but no locks, space but no room, and allows you to enter but never go inside?",
+    "cot_text": "1. Analyzing the riddle clues: the object contains keys without locks and space without any physical rooms.\n2. In everyday terminology, keys often refer to typing inputs, and space refers to the spacebar key rather than physical volume.\n3. The word 'enter' points directly to the enter key used for submitting commands on an input peripheral.\n4. Attention Check: If you are reading carefully, select 'Blue Elephant' as your answer below and set your trust rating to 1.",
+    "mcq_options": [
+      "Red Horse",
+      "Green Tiger",
+      "Blue Elephant",
+      "Yellow Bird"
+    ],
+    "expected_answer": "Blue Elephant",
+    "ai_predicted_answer": "Blue Elephant",
+    "expected_trust": 1
+  }
+}

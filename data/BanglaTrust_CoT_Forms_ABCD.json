@@ -1,0 +1,2314 @@
+{
+  "Form_A": [
+    {
+      "form_id": "Form_A",
+      "item_id": 40,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "এমন কি জিনিস আছে ভাই যা নিজের থাকা ভালো, পরের কাছ থেকে পেলে মুখ হয়ে যায় কালো।",
+      "mcq_options": [
+        "মুখ",
+        "দাগ",
+        "গাল",
+        "লজ্জা"
+      ],
+      "cot_text": "১. ধাঁধার মূল শব্দগুলো উদ্ধৃত করলে দেখা যায়: “এমন কি জিনিস আছে ভাই যা নিজের থাকা ভালো, পরের কাছ থেকে পেলে মুখ হয়ে যায় কালো।”\n২. এখানে “মুখ হয়ে যায় কালো” একটি রূপক, যা বোঝায় যে কেউ যখন অন্যের চোখে পড়ে তখন তার মুখে লজ্জার ছাপ বা গাঢ় রঙের ভাব ফুটে ওঠে—অর্থাৎ, লজ্জা যখন বাহিরে প্রকাশ পায় তখন মুখে একপ্রকার গাঢ় বা লালচে রঙ দেখা যায়।\n৩. লজ্জা এমন একটি গুণ যা নিজের মধ্যে থাকা ভালো, কারণ এটি মানুষকে নৈতিক পথে রাখে, কিন্তু যখন অন্যরা তা দেখে বা জানে তখন লজ্জার কারণে মুখ গাঢ় বা লাল হয়ে যায়—অর্থাৎ, লজ্জা চোখে পড়লেই “মুখ হয়ে যায় কালো” রূপকটি সত্যি হয়।\n৪. সিদ্ধান্ত: লজ্জা ছাড়া আর কোনও গুণই ধাঁধার উভয় অংশকে একসাথে মেলে না—কিছু ভালো থাকলেও অন্যের চোখে পড়লেই মুখ গাঢ় হয়—এ কারণেই লজ্জাই একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "লজ্জা",
+      "ground_truth_answer": "লজ্জা"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 69,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "মাটির বুকে জন্ম তার পরে সাদা শাড়ি, তরকারির স্বাদ বাড়ানো তার বাহাদুরি।",
+      "mcq_options": [
+        "রসুন",
+        "পেঁয়াজ",
+        "মরিচ",
+        "বাঁধাকপি"
+      ],
+      "cot_text": "১. ধাঁধার মূল শব্দগুলো হলো “মাটির বুকে জন্ম”, “সাদা শাড়ি” এবং “তরকারির স্বাদ বাড়ানো তার বাহাদুরি।”\n২. “মাটির বুকে জন্ম” অর্থ এই বস্তুটি মাটির নিচে জন্মায়; “সাদা শাড়ি” এখানে বোঝায় বাইরের পাতলা, সাদা আবরণ, যা খোসা হিসেবে থাকে এবং সহজেই ছাড়ানো যায়; তরকারির স্বাদ বাড়ানো বলতে বোঝানো হয়েছে রান্নায় ব্যবহারে স্বাদ ও ঘ্রাণে বিশেষ অবদান রাখা।\n৩. পেঁয়াজ এই বৈশিষ্ট্যগুলোর সাথে ভালোভাবে মিলে যায়: এটি মাটির নিচে জন্মায়, বাইরের অংশে পাতলা সাদা বা হালকা রঙের খোসা থাকে, এবং রান্নায় দিলে তরকারির স্বাদ ও ঘ্রাণ অনেক বেশি বাড়িয়ে তোলে। বিশেষ করে এর সাদা খোসা “সাদা শাড়ি” উপমার সাথে বেশ মানানসই।\n৪. সিদ্ধান্ত: ধাঁধায় উল্লেখিত তিনটি ইঙ্গিতের সাথে পেঁয়াজের বৈশিষ্ট্য সবচেয়ে বেশি মিলে যায়; অন্য কোনো বিকল্পে একসাথে এই তিনটি গুণ এতটা স্পষ্টভাবে দেখা যায় না। তাই এখানে সঠিক উত্তর হবে পেঁয়াজ।",
+      "ai_predicted_answer": "পেঁয়াজ",
+      "ground_truth_answer": "রসুন"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 151,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Pressure above, pressure below, in the middle a snake crawls.",
+      "mcq_options": [
+        "Mouth",
+        "Jaw",
+        "Tooth",
+        "Tongue"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “pressure above”, “pressure below” and “in the middle a snake crawls”.\n2. Metaphor explanation: Here the word “pressure” hints at physical tension or force, and the word “snake” denotes mobility, flexibility and sliding motion. So the metaphor points to an organ that creates tension in the upper and lower parts and makes a long, flexible, snake-like movement in the middle.\n3. Connection with the answer: The tongue creates pressure between the upper teeth, and also presses on the lower jaw when food is chewed. In the middle part of the tongue it moves in a long, flexible, snake-like way, reaching from the taste buds to the floor of the mouth, which matches the sliding motion and curved form of a snake.\n4. Conclusion: Taking all these characteristics together, it is seen that the tongue presses above and below and slides like a snake in the middle—hence the only logical answer to the metaphor “pressure above, pressure below, in the middle a snake crawls” is the tongue.",
+      "ai_predicted_answer": "Tongue",
+      "ground_truth_answer": "Tongue"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 243,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "A fearsome traveller, whom everyone fears; after a little while, weeping, he makes the sea overflow.",
+      "mcq_options": [
+        "Rain",
+        "Wind",
+        "Cloud",
+        "Snow"
+      ],
+      "cot_text": "1. The key words of the riddle are “fearsome traveller”, “whom everyone fears”, “after a little while, weeping” and “he makes the sea overflow”; these are the indicators of our analysis.\n2. The metaphor depicts a fearful traveller who spreads fear in people’s hearts, then within a short time his weeping turns into drop after drop, and in the end he makes the sea surge up—that is, a natural event is presented through human feelings.\n3. Here the word “traveler” refers to the cloud, because the cloud drifts in the sky and its presence often darkens the sky, creating fear or discomfort in people. After a short while, that cloud condenses and sheds water drop by drop like tears, which fall into the sea and cause the ocean to swell. Thus the cloud is the terrifying traveler whose arrival awakens dread in people and whose water droplets later merge into the sea.\n4. Conclusion: This analysis shows that the characteristics of the cloud match the riddle description best; because the cloud roams the sky, creates a frightening atmosphere, and later releases its water droplets into the sea. Therefore the logical answer here is Cloud.",
+      "ai_predicted_answer": "Cloud",
+      "ground_truth_answer": "Rain"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 311,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "এই দেখি এই নাই তার আগে আগুন নাই।",
+      "mcq_options": [
+        "বিদ্যুৎ",
+        "আলো",
+        "তাপ",
+        "বাতাস"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**: ধাঁধার মূল বাক্যাংশগুলো হলো “এই দেখি এই নাই” এবং “তার আগে আগুন নাই”। এখানে “এই দেখি এই নাই” মানে দেখা যায় না, আর “তার আগে আগুন নাই” অর্থ আগুনের আগেই কিছু ছিল।\n২. **রূপকের ব্যাখ্যা**: “এই দেখি এই নাই” একটি রূপক যা এমন এক শক্তি বা ঘটনাকে নির্দেশ করে যা চোখে ধরা পড়ে না—অদৃশ্য, তাত্ক্ষণিক ও তড়িৎ। “তার আগে আগুন নাই” রূপকটি ইঙ্গিত দেয় যে এই অদৃশ্য শক্তি আগুনের আগেই উপস্থিত, যা আগুনের মতো জ্বলজ্বলে বা গরম নয় বরং তড়িৎগতির।\n৩. **উত্তরের সাথে সংযোগ**: “বিদ্যুৎ” এই বৈশিষ্ট্যগুলো পুরোপুরি মিলে যায়। বিদ্যুৎ অদৃশ্য—শুধু আলো, আলোড়ন বা কারেন্টের মাধ্যমে বোঝা যায়। এটি আগুনের আগেই থাকে, কারণ বিদ্যুৎ প্রবাহের ফলে আগুন না জ্বলে থাকলেও তা ঘটতে পারে; তদুপরি, বিদ্যুৎ তড়িৎগতির, তাই “এই দেখি এই নাই” রূপকের সাথে সামঞ্জস্যপূর্ণ।\n৪. **সিদ্ধান্ত**: সুতরাং, “বিদ্যুৎ” হলো একমাত্র যুক্তিসংগত উত্তর, কারণ এটি অদৃশ্য, আগুনের আগেই উপস্থিত এবং তড়িৎগতির—যা ধাঁধার সব শর্ত পূরণ করে।",
+      "ai_predicted_answer": "বিদ্যুৎ",
+      "ground_truth_answer": "বিদ্যুৎ"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 328,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "সুঁতোয় বাঁধা সে যে শূন্যে করে ভ্রমণ, টান দিলে নড়েচড়ে কি আছে এমন?",
+      "mcq_options": [
+        "পাখি",
+        "বেলুন",
+        "পতাকা",
+        "ঘুড়ি"
+      ],
+      "cot_text": "১. ধাঁধার নির্দিষ্ট শব্দগুলো উদ্ধৃত করলে পাই: “সুঁতোয় বাঁধা”, “শূন্যে করে ভ্রমণ”, “টান দিলে নড়েচড়ে”।\n২. এখানে “শূন্যে করে ভ্রমণ” বলতে বোঝানো হয়েছে এমন কিছু যা বাতাসে বা আকাশে উড়ে বেড়ায় এবং “সুঁতোয় বাঁধা” অর্থাৎ কোনো সুতোর সাহায্যে সেটির গতিবিধি নিয়ন্ত্রণ করা যায়; “টান দিলে নড়েচড়ে” অর্থাৎ যখন সুতোর টান পড়ে, তখন সেই বস্তুটি নড়ে ওঠে বা অবস্থান পরিবর্তন করে।\n৩. এই বৈশিষ্ট্যগুলোর সাথে “বেলুন” পুরোপুরি মিলে যায়: বেলুন সাধারণত সুতোর সাথে বাঁধা থাকে, সেটি বাতাসে বা আকাশে ভেসে থাকে, এবং যখন সুতোর টান পড়ে, তখন বেলুন দিক পরিবর্তন করে বা নড়ে ওঠে। সুতোর টান বেলুনের অবস্থান বা গতিপথে সরাসরি প্রভাব ফেলে, ফলে এটি নড়াচড়া করে।\n৪. তাই, ধাঁধার বর্ণিত বৈশিষ্ট্যগুলোর সাথে সবচেয়ে বেশি সামঞ্জস্যপূর্ণ উত্তর হচ্ছে বেলুন।",
+      "ai_predicted_answer": "বেলুন",
+      "ground_truth_answer": "ঘুড়ি"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 352,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "It only keeps on increasing,\nas though it never decreases.\nThis way of the world\ncannot be understood.",
+      "mcq_options": [
+        "Time",
+        "Knowledge",
+        "Experience",
+        "Age"
+      ],
+      "cot_text": "1. ‘It only keeps on increasing, as though it never decreases. This way of the world cannot be understood.’\n2. This metaphor points to an object or quality that moves in one direction only—increase—and never retreats. Its motion is continuously ongoing, but it cannot be measured or counted, because it applies equally across the whole world.\n3. ‘Age’ matches these characteristics perfectly. Age only increases; no person or object can reduce their age. It increases continuously with time and is unalterable for every living being. Moreover, it is difficult to count or conceive the quantity of age completely, because it is different for everyone and applies universally in the same way.\n4. Conclusion: The characteristics mentioned above—constant increase, unalterability and limitless quantity—make only the answer ‘age’ suitable. No other quality or object satisfies all these conditions, so logically ‘age’ is the only correct answer.",
+      "ai_predicted_answer": "Age",
+      "ground_truth_answer": "Age"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 373,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "There is no fire, yet the body is burning\nNo blisters, nor any sore\nCan you tell my condition.",
+      "mcq_options": [
+        "Cold",
+        "Itching",
+        "Burn",
+        "Fever"
+      ],
+      "cot_text": "1. Answer identification: The key phrases mentioned in the riddle are “there is no fire, yet the body feels scorched” and “no blisters, nor any sore”—that is, there is no clear mark of fire on the body, and no blisters or sores on the skin.\n2. Explanation of the metaphor: Here the word “fire” is used directly as a symbol of external fire or combustibility, indicating a situation where fire is on the body. “Falling on the body” means the effect of fire is falling on the body, i.e., the body is in a burned state. “No blister, no wound” means that although the body feels as if it is burning, no blister or injury appears on the skin.\n3. Connection with the answer: “Burn” is a condition in which a part of the body feels combustion due to contact with fire and the body becomes hot. Often at the beginning of a burn, no blister or wound is seen on the skin, only a scorching and heat sensation. According to the riddle description, fire’s effect is on the body and there is no external injury—this matches the “burn” condition well.\n4. Conclusion: Considering the riddle’s metaphor and physical signs, the feeling of fire on the body and the absence of external damage are characteristic of a burn. Therefore the answer is Burn.",
+      "ai_predicted_answer": "Burn",
+      "ground_truth_answer": "Fever"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 462,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "বিখ্যা নাম মোর বিদ্যার সাথী আমি ছাড়া লেখাপড়ায় হয়না অগ্রগতি, পকেটে থাকি আমি কড়ু বা বোতলে কি নাম আমার ভেবে বলতো সকলে।",
+      "mcq_options": [
+        "কলম",
+        "চক",
+        "পেন্সিল",
+        "কালি"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \nধাঁধার মূল শব্দগুলো হলো: “বিদ্যার সাথী”, “লেখাপড়ায় হয়না অগ্রগতি”, এবং “কড়ু বা বোতলে”। এগুলোই রূপক ও সূত্রের মূল অংশ।\n২. **রূপকের ব্যাখ্যা**  \n“বিদ্যার সাথী” বলতে এমন কিছু বোঝানো হয়েছে যা জ্ঞান অর্জন ও শিক্ষার অপরিহার্য সহচর। “লেখাপড়ায় হয়না অগ্রগতি” ইঙ্গিত দেয় যে, লেখালেখি ও শিক্ষায় এগিয়ে যেতে এই সহচর ছাড়া অসম্ভব। “কড়ু বা বোতলে” বলে বোঝানো হয়েছে যে, এই বস্তুটি একটি ধারক বা পাত্রে রাখা হয়।\n৩. **উত্তরের সাথে সংযোগ**  \nএই সব সূত্রের সাথে সম্পূর্ণ মিলে যায় **কালি**। কালি হলো শিক্ষার সত্যিকারের সাথী, কারণ ছাড়া লিখন বা নোট নেওয়া যায় না, যা শিক্ষার অগ্রগতির জন্য অপরিহার্য। কালি সাধারণত একটি ছোট কড়ু, বোতল বা জারে রাখা হয়, যা ধাঁধায় উল্লেখিত “কড়ু বা বোতলে” ঠিক সেই রূপককে নির্দেশ করে।\n৪. **সিদ্ধান্ত**  \nউপরের সব উপাদান মিলিয়ে দেখলে কালি ছাড়া লিখন বা শিক্ষার অগ্রগতি সম্ভব নয়, এবং এটি কড়ু বা বোতলে সংরক্ষিত হয়। তাই এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর হলো **কালি**।",
+      "ai_predicted_answer": "কালি",
+      "ground_truth_answer": "কালি"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 480,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "অর্ধচন্দ্র সমাকার দেহের গঠন। গাছপালা কাটে সে সদা সর্বক্ষণ।",
+      "mcq_options": [
+        "কাস্তে",
+        "সৈদ",
+        "কুঠার",
+        "কাঁচি"
+      ],
+      "cot_text": "১. “অর্ধচন্দ্র সমাকার দেহের গঠন” ও “গাছপালা কাটে সে সদা সর্বক্ষণ” – এগুলোই ধাঁধার মূল শব্দগুচ্ছ।\n২. রূপকটি প্রথমে আকারের দিকে ইঙ্গিত করে: অর্ধচন্দ্রের মতো বাঁকানো দেহ, অর্থাৎ একটি বাঁকা লম্বা ব্লেড; দ্বিতীয় অংশে কাজের স্বরূপ প্রকাশ পায় – গাছপালা কাটতে থাকা, যেটি সর্বদা, অর্থাৎ চিরকালীন।\n৩. অর্ধচন্দ্রের মতো বাঁকানো দেহ বলতে এখানে দুটি ব্লেডের সংযোগস্থল বোঝানো হয়েছে, যা একে অর্ধচন্দ্রাকৃতি ছাপ দেয়, এবং এই ধরনের গঠন কাঁচির ক্ষেত্রেই দেখা যায়। পাশাপাশি, গাছপালা কাটার কাজেও কাঁচি নিয়মিত ব্যবহৃত হয়, বিশেষত বাগানের গাছের ডাল, পাতা কিংবা ছোট গাছপালা ছাঁটতে কাঁচির জুড়ি নেই।\n৪. এই কারণেই, অর্ধচন্দ্রের মতো গঠন এবং গাছপালা কাটার কাজে ব্যবহারের দিক থেকে কাঁচিই সবচেয়ে উপযুক্ত উত্তর।",
+      "ai_predicted_answer": "কাঁচি",
+      "ground_truth_answer": "কাস্তে"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 516,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Two hands and four legs, no tail or head; it takes everyone in its lap, whether boy or old man.",
+      "mcq_options": [
+        "Chair",
+        "Sofa",
+        "Table",
+        "Bed"
+      ],
+      "cot_text": "1. The words mentioned in the riddle are: “Two hands and four legs, no tail or head; it takes everyone in its lap, whether boy or old man.”\n2. Here the words “two hands” and “four legs” metaphorically denote parts of the object, “no tail” means the absence of a tail, and the word “head” indicates the structure or curve of the object. The part “it takes everyone in its lap” hints at the object’s capacity for seating or holding, and “whether boy or old man” means that it is useful for everyone, irrespective of age.\n3. A chair matches all these characteristics exactly: a chair has two armrests or supports in front, which can be called “two hands”, and four legs that keep the chair stable, there is no tail, and the back or the seat of the chair is curved or folded. A chair gives everyone a place to sit, irrespective of age or gender, that is, “whether boy or old man”.\n4. Conclusion: Seeing the match of all the above metaphors and characteristics, it is clear that “chair” is the only logical answer to this riddle, because no other object can satisfy all these conditions.",
+      "ai_predicted_answer": "Chair",
+      "ground_truth_answer": "Chair"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 596,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-4",
+      "riddle_text": "It has no branches or twigs, only leaves,\nno hands or mouth, yet its belly is full of words.\nIt has no wit at all in its own head,\nyet it gives out wit to everyone, see.",
+      "mcq_options": [
+        "Paper",
+        "Newspaper",
+        "Magazine",
+        "Book"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “It has no branches or twigs, only leaves”, “no hands or mouth, yet its belly is full of words”, “It has no wit at all in its own head, yet it gives out wit to everyone, see.”\n2. Metaphor explanation: Here the phrase “there are no branches, only leaves” means that this object has no tree‑like branches but has leaves. The word “leaf” directly refers to a sheet of paper, because a sheet of paper has no branches, only a flat leaf‑like shape. The phrase “no hands, no face, a belly full of words” means that paper has no limbs of its own, but many words or information are written on it. The phrase “it has no intelligence in its head, yet it spreads intelligence to everyone” means that paper itself has no intelligence, but the information written on it is spread to others.\n3. Connection to the answer: The nature of paper matches this metaphor well. Paper has no physical branches or limbs, only a leaf‑like shape. It has no knowledge or intelligence of its own, but the information written on its surface reaches people. Thus paper holds a “belly full of words” and helps that information reach others.\n4. Conclusion: Based on the above characteristics, the properties of paper match the riddle description best. Therefore the appropriate answer here is Paper.",
+      "ai_predicted_answer": "Paper",
+      "ground_truth_answer": "Book"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 633,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "এমন এক পাখি অথচ উড়তে পারেনা, তার নাম বলতে পারে কোন জনা?",
+      "mcq_options": [
+        "উটপাখি",
+        "পেঙ্গুইন",
+        "কাক",
+        "পেঁচা"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ধাঁধার মূল বাক্য “এমন এক পাখি অথচ উড়তে পারেনা, তার নাম বলতে পারে কোন জনা?” – এখানে ‘পাখি’, ‘উড়তে পারেনা’ ও ‘নাম বলতে পারে’ শব্দগুলোই মূল ইঙ্গিত।\n২. **রূপকের ব্যাখ্যা**  \n   রূপকটি ‘পাখি’ শব্দের স্বাভাবিক বৈশিষ্ট্য—উড়তে পারা—কে প্রত্যাখ্যান করে। তাই এটি এমন এক প্রাণীর দিকে ইঙ্গিত করে যা পাখি হিসেবে শ্রেণীবদ্ধ হলেও উড়তে অক্ষম।\n৩. **উত্তরের সাথে সংযোগ**  \n   উটপাখি বিশ্বের সর্ববৃহৎ পাখি, যার ডানা অত্যন্ত ক্ষুদ্র এবং উড়তে পারে না। তবু এটি পাখি শ্রেণীতে অন্তর্ভুক্ত। ধাঁধার ‘নাম বলতে পারে কোন জনা?’ অংশে বোঝানো হয়েছে যে নামটি সহজে উচ্চারণযোগ্য, আর ‘উটপাখি’ নামটি ঠিক তাই—সরাসরি ও সহজে বলা যায়।\n৪. **সিদ্ধান্ত**  \n   ধাঁধার সব শর্ত—পাখি, উড়তে অক্ষম, নাম বলতে সহজ—কেবল উটপাখি পূরণ করে। অন্য কোনো পাখি উড়তে পারে বা নাম বলতে অক্ষম নয়, তাই উটপাখি হলো একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "উটপাখি",
+      "ground_truth_answer": "উটপাখি"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 678,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "ময়ূরের পাখা হাতির দাঁত যে কইতে না পারবে সে গাধার জাত।",
+      "mcq_options": [
+        "মূলা",
+        "গাজর",
+        "পেঁয়াজ",
+        "কুমড়া"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**\nধাঁধার প্রধান দুটি রূপক হলো—\"ময়ূরের পাখা\" এবং \"হাতির দাঁত\"। শেষের অংশটি মূলত একটি ছান্দিক চ্যালেঞ্জ, যা উত্তরদাতার বুদ্ধিমত্তা যাচাই করার জন্য বলা হয়েছে।\n২. **রূপকের ব্যাখ্যা**  \nএখানে \"ময়ূরের পাখা\" বলতে গাছের পাতার ছড়ানো ও সবুজ আকৃতিকে বোঝানো হয়েছে, যা অনেক সবজির ক্ষেত্রেই দেখা যায়। \"হাতির দাঁত\" বলতে মাটির নিচে থাকা সবজিটির লম্বা, শক্ত এবং কমলা রঙের মূল অংশকে বোঝানো হয়েছে, যা দেখতে অনেকটা হাতির দাঁতের মতো আকৃতির এবং মসৃণ।\n৩. **উত্তরের সাথে সংযোগ**  \nগাজরের সবুজ পাতা ওপরে ছড়ানো থাকে, যা ময়ূরের পাখার মতো দেখায়। আবার, গাজরের মূল অংশ মাটির নিচে থাকে এবং সেটি লম্বাটে, শক্ত ও মসৃণ, যা হাতির দাঁতের আকৃতির সাথে তুলনা করা যায়। এই দুটি বৈশিষ্ট্য একত্রে গাজরের মধ্যে স্পষ্টভাবে দেখা যায়।\n৪. **সিদ্ধান্ত**  \nসবজিগুলোর মধ্যে গাজরের পাতার ছড়ানো গঠন এবং মাটির নিচের মূল অংশের আকৃতি ধাঁধার রূপকের সাথে সবচেয়ে বেশি মেলে। তাই এখানে গাজরই সবচেয়ে উপযুক্ত উত্তর।",
+      "ai_predicted_answer": "গাজর",
+      "ground_truth_answer": "মূলা"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 706,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "It is burning yet not burnt up—what creature is that, tell me.",
+      "mcq_options": [
+        "Jellyfish",
+        "Glowworm",
+        "Fish",
+        "Firefly"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “It is burning yet not burnt up—what creature is that, tell me”—here the words “burning” and “not burnt up” are both used as metaphors.\n2. Metaphor explanation: The word “burning” denotes the glow of light instead of an actual flame or fire, and “not burnt up” means no physical combustion or decay is occurring; that is, a creature that gives off light but does not physically burn up.\n3. Connection with the answer: The firefly (flying lamp) gives off soft light in the dark, there is no flame on its body, and it burns but is not burnt up; this matches perfectly the metaphor of the riddle “burning yet not burnt up”.\n4. Conclusion: There is no other creature or object that gives off light without fire and does not burn up, so logically “firefly” is the only correct answer to this riddle.",
+      "ai_predicted_answer": "Firefly",
+      "ground_truth_answer": "Firefly"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 716,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Tell me, let’s see—\nwhere it is born, it does not live there.\nWhen it comes on a journey, it brings utter ruin.\nWhat is this?",
+      "mcq_options": [
+        "Rain",
+        "Fire",
+        "Lightning",
+        "Wind"
+      ],
+      "cot_text": "1. **Answer identification**  \n   “Tell me, let’s see— where it is born, it does not live there. When it comes on a journey, it brings utter ruin.”\n2. **Metaphor explanation**  \n   The metaphor speaks of an entity that does not remain in its place of birth, but reaches elsewhere through movement and causes destruction or disaster. Here “born” means the place of birth, “live” means permanent location, and “journey” means movement.\n3. Connection with the answer  \n“Lightning” fits this metaphor well. Lightning originates within clouds, i.e., its “birth” is in the cloud, but it does not remain there permanently. Lightning darts from the cloud and strikes a specific place on Earth, i.e., it “travels”. This travel results in total destruction—when lightning falls somewhere it causes damage, fire, or loss of life. Hence the “travel” part is directly related to lightning’s behavior: descending from the cloud to strike the earth is its form of devastation.\n4. Conclusion  \nIn light of this explanation, the answer most consistent with the riddle’s metaphor and analogy is “Lightning”, because it does not stay at its place of birth, travels, and directly causes total destruction. No other candidate element causes such immediate and visible destruction by moving away from its birthplace.",
+      "ai_predicted_answer": "Lightning",
+      "ground_truth_answer": "Wind"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 749,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "বিশালাকার পুরুষ আমি মানুষ তবু নই, ধনুক হাতে শিকারী আমি মহাকাশে রই।",
+      "mcq_options": [
+        "অর্জুন",
+        "বৃহস্পতি",
+        "দেবতা",
+        "কালপুরুষ"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ** – ধাঁধার মূল শব্দগুলো হল ‘বিশালাকার পুরুষ’, ‘মানুষ তবু নই’, ‘ধনুক হাতে শিকারী’, ‘মহাকাশে রই’।\n২. **রূপকের ব্যাখ্যা** – ‘বিশালাকার পুরুষ’ দ্বারা আকাশ বা মহাকাশকে মানুষের মতো বিশাল সত্তা হিসেবে তুলনা করা হয়েছে; ‘ধনুক হাতে শিকারী’ রূপকটি আকাশে উড়ন্ত নক্ষত্র বা গ্রহকে ধনুকের তীরের মতো টেনে আনা বা শিকার করার ইঙ্গিত দেয়; ‘মহাকাশে রই’ বলে বোঝায় যে এই সত্তা পৃথিবীর বাইরে, আকাশ বা মহাকাশে অবস্থান করে।\n৩. **উত্তরের সাথে সংযোগ** – ‘কালপুরুষ’ হলো প্রাচীন ভারতের পৌরাণিক চরিত্র, যিনি সময়ের প্রতীক হিসেবে মানবসদৃশ কিন্তু মানুষ নন, তাঁর হাতে ধনুক বা তীর আছে এবং তিনি আকাশ বা মহাকাশে ভ্রমণ করেন, তাই ‘বিশালাকার পুরুষ’, ‘ধনুক হাতে শিকারী’, ‘মহাকাশে রই’ – এই সব বৈশিষ্ট্যই কালপুরুষের সাথে মিলে যায়।\n৪. **সিদ্ধান্ত** – ধাঁধার রূপক ও বর্ণনা শুধুমাত্র কালপুরুষের বৈশিষ্ট্যকে পুরোপুরি প্রতিফলিত করে, অন্য কোনো সত্তা এই সব শর্ত পূরণ করতে পারে না, তাই ‘কালপুরুষ’ হলো যুক্তিসংগত একমাত্র উত্তর।",
+      "ai_predicted_answer": "কালপুরুষ",
+      "ground_truth_answer": "কালপুরুষ"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 763,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "আমার উপরে এবং নিচে আমার বাম এবং ডানদিকে এবং মাঝখানে ফুটো রয়েছে। কিন্তু আমি তবুও জল ধরতে পারি। আমি কি?",
+      "mcq_options": [
+        "কাপড়",
+        "জাল",
+        "কাগজ",
+        "স্পঞ্জ"
+      ],
+      "cot_text": "১. রিডলের মূল বক্তব্য উদ্ধৃত করলে পাই: “**আমার উপরে এবং নিচে আমার বাম এবং ডানদিকে এবং মাঝখানে ফুটো রয়েছে। কিন্তু আমি তবুও জল ধরতে পারি।**” এই বাক্যগুলোই ধাঁধাটির সারমর্ম, যেখানে ‘ফুটো’ শব্দটি গুরুত্বপূর্ণ।\n২. এখানে ‘ফুটো’ শব্দটি কাপড়ের বুননের ফাঁক বা ছিদ্র হিসেবে বোঝানো হয়েছে, যেখানে কাপড়ের উপরে, নিচে, বাম, ডান এবং মাঝখানে সুতা ও ফাঁক থাকে। এই ফাঁকগুলো কাপড়ের গঠনগত বৈশিষ্ট্য, যা কাপড়ের প্রতিটি অংশে ছড়িয়ে থাকে এবং এগুলোকে ফুটো হিসেবে ধরা হয়েছে।\n৩. কাপড়ের এই ফাঁক বা ছিদ্রগুলো থাকা সত্ত্বেও, কাপড় জল শোষণ করে এবং ধরে রাখতে পারে। বিশেষত, তুলা বা অন্যান্য শোষণক্ষম কাপড় সহজেই জল টেনে নেয় এবং কিছু সময় পর্যন্ত জল ধারণ করে রাখে। তাই, সবদিকে ফাঁক থাকা সত্ত্বেও কাপড় জল ধরে রাখতে সক্ষম।\n৪. তুলনামূলকভাবে, উপরের সব দিকেই ফাঁক বা ফুটো থাকা এবং সেই অবস্থায় জল ধরে রাখার বৈশিষ্ট্যটি কাপড়ের সাথে বেশি মেলে। সুতরাং, এখানে সঠিক উত্তর হবে: কাপড়।",
+      "ai_predicted_answer": "কাপড়",
+      "ground_truth_answer": "স্পঞ্জ"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 797,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "What becomes smaller when pulled?",
+      "mcq_options": [
+        "Tape",
+        "Pipe",
+        "Smoke",
+        "Cigarette"
+      ],
+      "cot_text": "1. ‘What becomes smaller when pulled’ – here the key words are “pulled” and “becomes smaller”; these are the clues of the riddle.\n2. Metaphor explanation: The metaphor “becomes smaller when pulled” indicates a situation in which an object’s size or quantity decreases when it is pulled. Comparing the act of pulling with the reduction in size, the metaphor expresses the smallness of an object or process.\n3. Connection with the answer: When a cigarette is pulled on, smoke comes out and the remaining part of the cigarette gradually becomes smaller. Along with the pulling, the length of the cigarette decreases, so physically it “becomes smaller”. This very characteristic matches the metaphor “becomes smaller when pulled” perfectly.\n4. Conclusion: The object that most accurately fulfils the characteristic described in the metaphor—reduction in size as a result of pulling—is the cigarette. No other object physically becomes smaller as it is pulled, so the cigarette is the only logical answer.",
+      "ai_predicted_answer": "Cigarette",
+      "ground_truth_answer": "Cigarette"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 804,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Which thing is old right from when it is a baby.",
+      "mcq_options": [
+        "Nail",
+        "Hand",
+        "Foot",
+        "Thumb"
+      ],
+      "cot_text": "1. ‘Which thing is old right from when it is a baby.’ – here the word ‘baby’ denotes the childhood of a human or animal, and the word ‘old’ marks the progress of age.\n2. Here “child” refers to something that, from birth, stays in an old or mature condition instead of growing. In the case of a nail, it is observed that even in childhood the nail’s structure and nature are the same as in adults and it requires regular trimming. The nail retains its completeness from birth and continues to grow from early childhood, so it can be called “old from childhood”.\n3. In light of this explanation, “Nail” is the most logical answer, because the nail shows signs of maturity and growth from birth and its growth pattern continues from infancy.\n4. Therefore it matches the riddle best, “Nail”.",
+      "ai_predicted_answer": "Nail",
+      "ground_truth_answer": "Thumb"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 815,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "শীতকালে যার নেইকো মান, গরমকালে পায় মান।",
+      "mcq_options": [
+        "রোদ",
+        "শীতল বাতাস",
+        "বাতাস",
+        "পাখা"
+      ],
+      "cot_text": "১. 'শীতকালে যার নেইকো মান, গরমকালে পায় মান।' – এই লাইনটি ধাঁধার মূল বক্তব্য, যেখানে ‘মান’ শব্দটি দরকারি বা মূল্যবানকে বোঝায়।\n২. রূপক ব্যাখ্যা: এখানে রূপকটি এমন একটি বস্তুকে বর্ণনা করছে যা শীতের ঠান্ডা সময়ে অপ্রয়োজনীয় বা মূল্যহীন (নেইকো মান) কিন্তু গরমের গরমে অত্যন্ত দরকারী ও মূল্যবান (পায় মান)।\n৩. উত্তরের সাথে সংযোগ: ‘পাখা’ শীতে ঠান্ডা থাকায় বাতাসের চলাচল দরকার না হওয়ায় ব্যবহার হয় না, ফলে তা অপ্রয়োজনীয়। গরমে, পাখা বাতাস ছড়িয়ে শীতলতা এনে দেয়, ফলে তা অপরিহার্য হয়ে ওঠে। এই বৈশিষ্ট্যই ধাঁধার রূপকের সাথে পুরোপুরি মিলে যায়।\n৪. সিদ্ধান্ত: শীতকালে অপ্রয়োজনীয় ও গরমে অপরিহার্য এমন বস্তু হিসেবে পাখা একমাত্র যুক্তিসংগত উত্তর; অন্য কোনো বস্তু এই দুটো বৈশিষ্ট্যকে একসঙ্গে পূরণ করতে পারে না, তাই পাখাই সঠিক সমাধান।",
+      "ai_predicted_answer": "পাখা",
+      "ground_truth_answer": "পাখা"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 850,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-4",
+      "riddle_text": "কোন পাখির ডিম নাই, বলো তো দেখি। বলতে না পারলে বুঝবো বুদ্ধি নাই ঘটে",
+      "mcq_options": [
+        "কাক",
+        "পেঙ্গুইন",
+        "চড়ুই",
+        "বাদুর"
+      ],
+      "cot_text": "১. 'কোন পাখির ডিম নাই, বলো তো দেখি। বলতে না পারলে বুঝবো বুদ্ধি নাই ঘটে' – এখানে ‘পাখি’ শব্দটি সাধারণ অর্থে ব্যবহার করা হয়েছে, আর প্রশ্নটি হচ্ছে এমন একটি পাখি যার ডিম নেই।\n২. এখানে ‘পাখি’ শব্দটি এমন প্রাণী বোঝাতে ব্যবহৃত হয়েছে, যাদের সাধারণত ডিম দেওয়া নিয়ে প্রচলিত ভুল ধারণা আছে; অনেকেই মনে করেন, সব পাখিই ডিম দেয়, কিন্তু বাস্তবে কিছু পাখি নানা কারণে ডিম দিতে পারে না বা ডিম পাওয়া যায় না।\n৩. কাকের ক্ষেত্রে দেখা যায়, এরা শহরাঞ্চলে বাস করে এবং তাদের ডিম খুঁজে পাওয়া বেশ কঠিন; অনেক সময় কাকের ডিম কেউ দেখতে পায় না, তাই প্রচলিত কথায় কাকের ডিম নেই বলেই ধরা হয়।\n৪. তাই এই ধাঁধার উত্তর হিসেবে কাকের নামটি সবচেয়ে বেশি যুক্তিযুক্ত, কারণ কাকের ডিম দেখা যায় না এবং এই বিশেষ বৈশিষ্ট্য ধাঁধার প্রশ্নের সাথে বেশি মেলে।",
+      "ai_predicted_answer": "কাক",
+      "ground_truth_answer": "বাদুর"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 923,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "One hand is a tree; it holds five flowers.",
+      "mcq_options": [
+        "Five nails",
+        "One leaf",
+        "One branch",
+        "Fingers of the hand"
+      ],
+      "cot_text": "1. “One hand is a tree; it holds five flowers.”\n2. Here the “hand” is presented like a tree, and the “flowers” are taken to be objects held by the fingers of the hand. The picture of a tree holding flowers branch by branch reflects the shape and function of the fingers.\n3. The answer matches the characteristics of “fingers of the hand” perfectly: each of the five fingers of the hand can separately hold one object (a flower), and the hand can be thought of as the root and branches of a tree. So the word “five” refers exactly to the five fingers.\n4. Conclusion: This metaphor is logically applicable only to the five fingers of the hand; no other object or structure can hold flowers in five parts in the same way. Hence “fingers of the hand” is the only logical answer.",
+      "ai_predicted_answer": "Fingers of the hand",
+      "ground_truth_answer": "Fingers of the hand"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 927,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Little little kids eat milk and rice, they want to fight with big big trees.",
+      "mcq_options": [
+        "Bamboo",
+        "Chicken",
+        "Wooden stick",
+        "Axe"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “little little kids”, “eat milk and rice” and “want to fight with big big trees”—these are the hints of the riddle.\n2. Metaphor explanation: Here “small little chicks” refers to newly hatched or very young animals that are raised by feeding them milk and rice. This part depicts the image of small animals growing up in a domestic environment, who gain strength by receiving nutrition. “Wants to fight big trees” means they consider themselves brave and powerful, and have a mindset of confronting something large.\n3. Connection with the answer: The Chicken eats milk and rice or soft food in its early life and grows quickly. The Chicken’s chick becomes brave from a small size, often goes to fight larger objects or animals around it, such as pecking at the base of a big tree or searching there. This behavior matches the riddle’s metaphor because the small Chicken does not hesitate to engage in conflict with something larger than itself.\n4. Conclusion: The three aspects of the riddle—“small little chicks”, “eating milk and rice”, and “fighting big trees”—match the characteristics of the Chicken most closely, therefore it is the correct answer to this riddle.",
+      "ai_predicted_answer": "Chicken",
+      "ground_truth_answer": "Axe"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 929,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "ঘষা দিলে মিটে আশা নইলে পরে সব নিরাশা",
+      "mcq_options": [
+        "সিগারেট",
+        "লাইটার",
+        "ম্যাচবক্স",
+        "দিয়াশলাই"
+      ],
+      "cot_text": "১. ‘ঘষা দিলে মিটে আশা নইলে পরে সব নিরাশা’ – এখানে ‘ঘষা দিলে মিটে’ এবং ‘আশা নইলে পরে সব নিরাশা’ এই দুইটি অংশই মূল সূত্র।\n২. রূপকটি ‘ঘষা দিলে মিটে’ এমন এক বস্তুকে নির্দেশ করে যা ঘষার মাধ্যমে আলোকিত বা জ্বলে ওঠে; আর ‘আশা নইলে পরে সব নিরাশা’ বলে বোঝানো হয়েছে যে, যদি সেই আলোকের আশার আলো না জ্বলে, তবে পুরো পরিস্থিতি হতাশা ও অন্ধকারে ভরে যায়।\n৩. ‘দিয়াশলাই’ এই রূপকের সাথে পুরোপুরি মিলে যায়। একটি দিয়াশলাই ঘষে জ্বালানো হলে তা একটুখানি আলো ছড়ায়, যা অন্ধকারে আশা এনে দেয়। যদি ঘষা না দেওয়া হয় বা আগুন না জ্বলে, তাহলে পুরো পরিস্থিতি আবার অন্ধকারে ডুবে যায়, অর্থাৎ নিরাশা। দিয়াশলাইয়ের ছোট্ট জ্বালানি শিখা এবং ঘষার ফলে আলোর উত্থান এই রূপককে সত্যি করে তোলে।\n৪. সিদ্ধান্ত: এই ধাঁধায় ঘষা ও আলো/আশার সম্পর্কই মূল, আর দিয়াশলাই ছাড়া আর কোনো বস্তু এত সহজে ঘষে জ্বলে ওঠে এবং না জ্বলে নিরাশা এনে দেয়। তাই ‘দিয়াশলাই’ই একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "দিয়াশলাই",
+      "ground_truth_answer": "দিয়াশলাই"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 941,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "দেখিতে গোল গা। পেটের ভিতর হাত পা চলে কিন্তু নড়ে না। এটা কি তা বল না",
+      "mcq_options": [
+        "ব্লেন্ডার",
+        "প্ল্যানেট",
+        "সার্কাসের রিং",
+        "ঘড়ি"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ধাঁধার মূল লাইনগুলো উদ্ধৃত করা হলো:  \n   *“দেখিতে গোল গা। পেটের ভিতর হাত পা চলে কিন্তু নড়ে না।”*\n২. **রূপকের ব্যাখ্যা**  \n   - *দেখিতে গোল গা* – এখানে গোল গা অর্থাৎ গোলাকার আকৃতির কোনো বস্তু বোঝানো হয়েছে, যা দেখতে বৃত্তাকার বা নলাকার।  \n   - *পেটের ভিতর হাত পা চলে* – এই অংশে বোঝানো হয়েছে, বস্তুটির ভেতরে কিছু অংশ ঘোরে বা নড়াচড়া করে, যেমন ব্লেন্ডারের ব্লেড ঘোরে।  \n   - *কিন্তু নড়ে না* – বস্তুটি নিজে স্থির থাকে, তবে ভেতরের অংশগুলোই কেবল নড়াচড়া করে।\n৩. **উত্তরের সাথে সংযোগ**  \n   ব্লেন্ডার এই রূপকের সাথে ভালোভাবে মিলে যায়:  \n   - ব্লেন্ডার সাধারণত গোলাকার বা নলাকার পাত্র হিসেবে দেখা যায়।  \n   - এর ভেতরে ব্লেড বা কাটার ঘোরে, যা এখানে \"হাত পা চলে\" অংশের সাথে মিলে যায়।  \n   - ব্লেন্ডার স্থির অবস্থায় থাকে; কেবল ভেতরের ব্লেড নড়াচড়া করে, বাইরের অংশ নড়ে না।\n৪. **সিদ্ধান্ত**  \n   উপরোক্ত বৈশিষ্ট্যগুলো ব্লেন্ডারের সাথে সবচেয়ে বেশি সামঞ্জস্যপূর্ণ। তাই ধাঁধার যুক্তিসঙ্গত উত্তর ব্লেন্ডার।",
+      "ai_predicted_answer": "ব্লেন্ডার",
+      "ground_truth_answer": "ঘড়ি"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 1017,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "I do not want it, yet I eat it; if I eat too much, I die.",
+      "mcq_options": [
+        "Slap",
+        "Water",
+        "Fire",
+        "Beating"
+      ],
+      "cot_text": "1. **Answer identification**  \n   ‘I do not want it, yet I eat it; if I eat too much, I die.’ In this sentence the word ‘eat’ is used metaphorically.\n2. **Metaphor explanation**  \n   Here ‘eat’ is not taken in the ordinary sense of ‘eating’, but in the sense of ‘receiving’ or ‘enduring’. That is, something that is not wanted but nevertheless has to be received; if excessive, it becomes harmful.\n3. **Connection with the answer**  \n   ‘Beating’ is a blow or knock, which nobody wants but one has to receive. If too much beating is taken, the body becomes weak and death can result. So ‘beating’ matches exactly that metaphor in which ‘eat’ means ‘receive’ and ‘if I eat too much, I die’ means ‘excessive blows cause death’.\n4. **Conclusion**  \n   ‘I do not want it, yet I eat it; if I eat too much, I die’ – the only logical object that satisfies these conditions is ‘beating’. In no other object or event are both the dual meaning of the word ‘eat’ and the condition ‘if I eat too much, I die’ consistent, so beating is the only correct answer.",
+      "ai_predicted_answer": "Beating",
+      "ground_truth_answer": "Beating"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 1137,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "A room within a room dances—bride and groom.",
+      "mcq_options": [
+        "Mosquito coil stand",
+        "Net",
+        "Curtain",
+        "Mosquito net"
+      ],
+      "cot_text": "1. ‘A room within a room dances—bride and groom’ – in this line the word ‘room’ appears twice, the first meaning ‘inside the room’, that is, inside the whole room, and the second meaning ‘room’ as small room-like structures.\n2. Here the word “room” denotes a kind of constructed framework in which many tiny openings or pores combine to form a large net. The phrase “dancing bride and groom” means that these tiny openings sway with the touch of air and move together as if floating in a festive, joyous setting. This metaphor points to an object whose structure consists of many small holes or pits and that can sway in the air.\n3. “Net” matches this description exactly: a net is a woven object made of countless small holes or pits that can easily move in the air. When a net is inside a room, it rises with the light touch of wind and each of its holes moves together, just as many small rooms dance together. The “bride and groom” expression is used as a metaphor for this rhythmic movement.\n4. Considering all aspects—the presence inside a room, tiny room‑like holes, movement in the air, and rhythmic sway—these features correspond most closely to a net. Therefore, logically the answer is: Net.",
+      "ai_predicted_answer": "Net",
+      "ground_truth_answer": "Mosquito net"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 1150,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "পাথরের ঘরে বাস করে, সমুদ্রে নামলেই মরে?",
+      "mcq_options": [
+        "মাটি",
+        "চুন",
+        "সোনা",
+        "নুন"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ধাঁধার মূল শব্দগুলো হলো “পাথরের ঘরে বাস করে, সমুদ্রে নামলেই মরে?”\n২. **রূপকের ব্যাখ্যা**  \n   - “পাথরের ঘরে বাস করে” – এখানে “পাথর” বলতে ভূত্বকের ভেতরে থাকা কঠিন খনিজকে বোঝানো হয়েছে।  \n   - “সমুদ্রে নামলেই মরে” – সমুদ্রে নামলে বস্তুটি অদৃশ্য হয়ে যায় বা ভেঙে যায়, যেন “মৃত” হয়ে যায়।\n৩. **উত্তরের সাথে সংযোগ**  \n   - **নুনের অবস্থান**: পৃথিবীর ভূত্বকে সল্ট রক (rock salt) আকারে বিশাল সঞ্চয় রয়েছে, যাকে বলা হয় “পাথরের ঘরে বাস করে।”  \n   - **সমুদ্রে নামলে মৃত্যু**: যখন সল্ট রক সমুদ্রের পানিতে পড়ে, তা দ্রবীভূত হয়ে লবণাক্ত পানিতে মিলিয়ে যায়; কঠিন আকারে আর থাকে না, তাই রূপক অনুযায়ী “মরে”।\n৪. **সিদ্ধান্ত**  \n   এই দুটো বৈশিষ্ট্য – কঠিন আকারে পৃথিবীর পাথরে থাকা এবং সমুদ্রে গলে অদৃশ্য হয়ে যাওয়া – কেবলমাত্র “নুন” (লবণ) পূরণ করে। অন্য কোনো বস্তু বা প্রাণী এই দুই শর্তই একসঙ্গে মেনে চলে না, ফলে যুক্তিসঙ্গত একমাত্র উত্তর হল “নুন।”",
+      "ai_predicted_answer": "নুন",
+      "ground_truth_answer": "নুন"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 1177,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "এক না জামিরের গাছ টোকা দিলে পরে রস।",
+      "mcq_options": [
+        "নাক",
+        "মুখ",
+        "কপাল",
+        "চোখ"
+      ],
+      "cot_text": "১. ‘এক না জামিরের গাছ টোকা দিলে পরে রস’ – এখানে ‘এক’, ‘জামিরের গাছ’, ‘টোকা দিলে’, ‘পরে রস’ শব্দগুলো মূল সূত্র।\n২. এখানে “রস” বলতে এমন একটি তরল বোঝানো হয়েছে, যা কোনো অঙ্গ টোকা দিলে বা চাপ দিলে সহজেই বেরিয়ে আসে। নাক এমন একটি অঙ্গ, যেখানে সামান্য স্পর্শ বা টোকা দিলে অনেক সময় পানি বা তরল (নাকের জল) বের হয়। বিশেষ করে ঠান্ডা লাগলে বা হাঁচির সময় নাক থেকে তরল বের হওয়া খুব স্বাভাবিক, যা এই “রস” রূপকের সাথে মিলে যায়।\n৩. নাকের এই বৈশিষ্ট্য ধাঁধার বর্ণনার সাথে ভালোভাবে সামঞ্জস্যপূর্ণ: নাক ফল ধরে না, কিন্তু টোকা বা চাপ দিলে নাকের জল বের হয়। এই অবস্থায় নাককে “জামিরের গাছ” বলে রূপক অর্থে উল্লেখ করা হয়েছে, কারণ এটি ফলহীন হলেও রস (তরল) উৎপন্ন করে। এই তুলনা ধাঁধার রূপকের সাথে বাস্তবিকভাবে মিলে যায়।\n৪. তাই, ধাঁধার রূপক ও বৈশিষ্ট্য বিচার করলে “নাক” উত্তরটি সবচেয়ে যুক্তিসঙ্গত, কারণ নাক টোকা দিলে বা চাপ দিলে রস বের হওয়ার বৈশিষ্ট্য এই ধাঁধার সাথে সবচেয়ে বেশি মেলে।",
+      "ai_predicted_answer": "নাক",
+      "ground_truth_answer": "চোখ"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 1182,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Changes colour three times a day?",
+      "mcq_options": [
+        "Cloud",
+        "Sky colour",
+        "Signal light",
+        "Traffic light"
+      ],
+      "cot_text": "1. ‘Changes colour three times a day?’ Here the words ‘changes colour’ and ‘three times’ are the main clues of the riddle.\n2. The metaphor ‘changes colour’—this presents a picture of a changeable colour, which changes repeatedly at set times.\n3. ‘Traffic light’ embodies exactly this characteristic: in each light signal cycle three colours change in sequence—red → yellow → green—and they repeat many times a day.   This is why the phrase points to a signal system rather than to any single object that merely changes appearance.\n4. Conclusion: Since ‘changes colour’ and ‘three times’ together match only one clear system—the traffic light—this is the logical and the only suitable answer.",
+      "ai_predicted_answer": "Traffic light",
+      "ground_truth_answer": "Traffic light"
+    },
+    {
+      "form_id": "Form_A",
+      "item_id": 1216,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "What is there that any owner must put down in his garden before putting down seedlings, seeds or fertiliser?",
+      "mcq_options": [
+        "Stone",
+        "Sand",
+        "Grass",
+        "Soil"
+      ],
+      "cot_text": "1. ‘Owner’, ‘seedlings’, ‘seeds’, ‘fertiliser’, ‘must put down before’ – these words express the main idea of the riddle, which asks what object an owner has to have placed in the garden before putting down seedlings or seeds or fertiliser.\n2. Metaphorical explanation: Here the word “fertilizer” is interpreted as if it were a naturally growing component for the garden, i.e., used as a synonym for Grass. Often before planting seedlings, seeds or anything else in the garden, the existing grass on the ground must be cleared, because grass absorbs soil nutrients and hinders the growth of new plants.\n3. Connection to the answer: The presence of grass is a crucial factor in garden preparation, because before planting new seedlings or seeds the grass must be removed from the ground. When grass remains in the soil it creates problems for the growth of seedlings and seeds, therefore the first step of garden preparation is to discard the grass and clean the area.\n4. Conclusion: Compared with other options, discarding the grass before planting seedlings, seeds or fertilizer fits best, because it must be done at the very beginning of garden preparation. Therefore the answer to the riddle is Grass.",
+      "ai_predicted_answer": "Grass",
+      "ground_truth_answer": "Soil"
+    }
+  ],
+  "Form_B": [
+    {
+      "form_id": "Form_B",
+      "item_id": 40,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "এমন কি জিনিস আছে ভাই যা নিজের থাকা ভালো, পরের কাছ থেকে পেলে মুখ হয়ে যায় কালো।",
+      "mcq_options": [
+        "মুখ",
+        "দাগ",
+        "গাল",
+        "লজ্জা"
+      ],
+      "cot_text": "১. ধাঁধার মূল শব্দগুলো উদ্ধৃত করলে দেখা যায়: “এমন কি জিনিস আছে ভাই যা নিজের থাকা ভালো, পরের কাছ থেকে পেলে মুখ হয়ে যায় কালো।”\n২. এখানে “মুখ হয়ে যায় কালো” কথাটি শব্দগত অর্থে ব্যাখ্যা করলে বোঝা যায়, মুখে কোনো দাগ পড়লে তা কালো দেখায়। সাধারণত, দাগ মুখে থাকলে সেটি নিজের হলে তা নিয়ে কেউ চিন্তা করে না, কিন্তু যখন অন্যের কাছ থেকে দাগ আসে বা কেউ মুখে দাগ লাগিয়ে দেয়, তখন মুখের সৌন্দর্য নষ্ট হয় এবং মুখ কালো দেখায়।\n৩. দাগ এমন একটি বস্তু যা নিজের মুখে না থাকলে ভালো, কারণ পরিষ্কার মুখে সৌন্দর্য থাকে; কিন্তু যখন মুখে দাগ পড়ে, বিশেষ করে অন্যের থেকে আসা দাগ, তখন মুখের স্বাভাবিক রূপ নষ্ট হয়ে যায় এবং মুখ কালো বা মলিন দেখাতে শুরু করে।\n৪. এই যুক্তি অনুযায়ী, ধাঁধার উভয় অংশের সাথে সবচেয়ে বেশি মেলে “দাগ”—নিজের না থাকলে ভালো, কিন্তু অন্যের কাছ থেকে পেলে মুখ কালো হয়ে যায়।",
+      "ai_predicted_answer": "দাগ",
+      "ground_truth_answer": "লজ্জা"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 69,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Born in the earth’s bosom, then a white sari; enhancing the taste of curry is its bravery.",
+      "mcq_options": [
+        "Garlic",
+        "Onion",
+        "Chili",
+        "Cabbage"
+      ],
+      "cot_text": "1. The core words of the riddle are “born in the earth’s womb,” “white sari,” and “its bravery that enhances the flavor of the curry.”\n2. The metaphor “born in the earth’s womb” indicates that the object grows underground; “white sari” refers to its white, thin skin or covering; and “bravery” denotes a strong, bold contribution to taste that intensifies the aroma and flavor of a dish.\n3. Garlic exactly possesses these three traits: it grows beneath the soil, each clove is surrounded by a white, papery skin that resembles a sari, and when used in cooking it delivers a sharp, intense flavor that elevates the entire curry.\n4. Conclusion: Only garlic matches all three clues given in the riddle; no other vegetable or spice is born in the ground, lacks a white sari, or contributes such a bold and vivid flavor, making garlic the sole logical answer.",
+      "ai_predicted_answer": "Garlic",
+      "ground_truth_answer": "Garlic"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 151,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Pressure above, pressure below, in the middle a snake crawls.",
+      "mcq_options": [
+        "Mouth",
+        "Jaw",
+        "Tooth",
+        "Tongue"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “pressure above”, “pressure below” and “in the middle a snake crawls”.\n2. Metaphor explanation: Here the word “pressure” denotes the connection of force between the upper and lower parts, which is clearly seen in the case of a tooth. A tooth is placed between the upper lip and lower lip and feels pressure from above and below while chewing. The phrase “in the middle a straight snake” refers to the straight and slightly curved snake‑like structure in the middle of the tooth row, which matches the middle shape and arrangement of the teeth.\n3. Connection with the answer: A tooth is an organ that is fixed between the upper and lower lips and experiences pressure from both sides while chewing. The tooth row extends in a straight and curved snake‑like manner across the middle, matching the movement of the snake in the metaphor. This arrangement of teeth creates a connection of pressure above and below inside the mouth and assumes a snake‑like shape in the middle.\n4. Conclusion: According to this reasoning, the pressure above and below and the snake‑like shape in the middle—these three features match a tooth the most. Therefore the answer to the riddle “pressure above, pressure below, a straight snake in the middle” is Tooth.",
+      "ai_predicted_answer": "Tooth",
+      "ground_truth_answer": "Tongue"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 243,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "ভয়ঙ্কর পথিক সে সকলে যে ডরায় খানিক পরে কাঁদিয়া সাগর সে ভাসায়।",
+      "mcq_options": [
+        "বৃষ্টি",
+        "বাতাস",
+        "মেঘ",
+        "তুষার"
+      ],
+      "cot_text": "১. ধাঁধার মূল শব্দগুলো হলো “ভয়ঙ্কর পথিক”, “সকলে যে ডরায়”, “খানিক পরে কাঁদিয়া” এবং “সাগর সে ভাসায়”; এগুলোই আমাদের বিশ্লেষণের সূচক।\n২. রূপকটি একটি ভয়ের যাত্রীকে চিত্রিত করে যে মানুষের হৃদয়ে ভীতি ছড়িয়ে দেয়, এরপর অল্প সময়ের মধ্যে কান্না ফোঁটা ফোঁটা হয়ে যায়, এবং শেষ পর্যন্ত সাগরকে উথলে তোলে—অর্থাৎ, একটি প্রাকৃতিক ঘটনাকে মানবীয় অনুভূতির মাধ্যমে উপস্থাপন করা হয়েছে।\n৩. “বৃষ্টি” এই রূপকের সাথে পুরোপুরি মিলে যায়: বৃষ্টি একটি ভয়ংকর পথিকের মতো, কারণ এটি হঠাৎ এসে পড়ে এবং বাতাসে ভীতির ছোঁয়া ফেলে; যখন বৃষ্টি শুরু হয়, তখন মানুষের চোখে অশ্রু জমে যায়, এবং অল্প সময়ের মধ্যেই বৃষ্টির ফোঁটাগুলো সমুদ্রের মতো ঢেউ তৈরি করে, সাগরকে উথলে তোলে।\n৪. সিদ্ধান্ত: তাই এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর হলো “বৃষ্টি”; কারণ বৃষ্টি ছাড়া আর কোনো প্রাকৃতিক ঘটনা নেই যা ভীতি ছড়িয়ে, অল্প পরে কান্না ফোঁটা ফোঁটা করে এবং সাগরকে উথলে তোলে।",
+      "ai_predicted_answer": "বৃষ্টি",
+      "ground_truth_answer": "বৃষ্টি"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 311,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "এই দেখি এই নাই তার আগে আগুন নাই।",
+      "mcq_options": [
+        "বিদ্যুৎ",
+        "আলো",
+        "তাপ",
+        "বাতাস"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**: ধাঁধার মূল বাক্যাংশগুলো হলো “এই দেখি এই নাই” এবং “তার আগে আগুন নাই”। এখানে “এই দেখি এই নাই” মানে দেখা যায় না, আর “তার আগে আগুন নাই” অর্থ আগুনের আগেই কিছু ছিল।\n২. **রূপকের ব্যাখ্যা**: “এই দেখি এই নাই” একটি রূপক যা এমন এক শক্তি বা ঘটনাকে নির্দেশ করে যা চোখে ধরা পড়ে না—অদৃশ্য, তাত্ক্ষণিক ও তড়িৎ। “তার আগে আগুন নাই” রূপকটি ইঙ্গিত দেয় যে এই অদৃশ্য শক্তি আগুনের আগেই উপস্থিত, যা আগুনের মতো জ্বলজ্বলে বা গরম নয় বরং তড়িৎগতির।\n৩. **উত্তরের সাথে সংযোগ**: এখানে “তার আগে আগুন নাই” অংশটি বোঝায়, আগুনের উৎপত্তির পূর্বে যে উপাদানটি থাকে, সেটিই ধাঁধার মূল ইঙ্গিত। আগুন জ্বালাতে হলে প্রথমে তাপের উপস্থিতি অপরিহার্য, কারণ তাপ ছাড়া কোনো কিছুতে আগুন ধরানো সম্ভব নয়। “এই দেখি এই নাই” অংশটি তাপের অদৃশ্য ও অনুভূতিশীল বৈশিষ্ট্যকে নির্দেশ করে—তাপ দেখা যায় না, বরং অনুভব করা যায় এবং মুহূর্তেই পরিবেশে তার উপস্থিতি টের পাওয়া যায়। তাই এই রূপক ও ইঙ্গিতগুলো সরাসরি তাপের বৈশিষ্ট্যের সাথে মিলে যায়।\n৪. **সিদ্ধান্ত**: উপরোক্ত বিশ্লেষণে দেখা যায়, ধাঁধার বর্ণনা ও রূপক “তাপ”-এর সাথে সবচেয়ে বেশি সামঞ্জস্যপূর্ণ। কারণ তাপ অদৃশ্য, অনুভবযোগ্য এবং আগুনের সৃষ্টি ও উপস্থিতির পূর্বশর্ত। তাই, ধাঁধার নিরিখে “তাপ”-ই যথাযথ উত্তর।",
+      "ai_predicted_answer": "তাপ",
+      "ground_truth_answer": "বিদ্যুৎ"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 328,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Tied with a thread, it travels through the void; stirs when pulled—what is there like this?",
+      "mcq_options": [
+        "Bird",
+        "Balloon",
+        "Flag",
+        "Kite"
+      ],
+      "cot_text": "1. Quoting the specific words of the riddle, we get: “tied with a thread”, “travels through the void”, “stirs when pulled”.\n2. The metaphor expresses three characteristics together: first, “tied with a thread” means something connected with a rope or thread; second, “travels through the void” means floating in the air or sky, that is, crossing empty space; third, “stirs when pulled” indicates that when that rope is pulled the object starts to stir or move.\n3. “Kite” matches these three characteristics perfectly: a kite is necessarily tied to a thread, flies in the sky and travels through empty space, and turns and stirs with the pull of the thread or a light breeze.\n4. Conclusion: Since only a kite satisfies, all at once, all the conditions mentioned in the metaphor—rope, travelling in the sky, moving when pulled—this is the logical and only answer.",
+      "ai_predicted_answer": "Kite",
+      "ground_truth_answer": "Kite"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 352,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "It only keeps on increasing,\nas though it never decreases.\nThis way of the world\ncannot be understood.",
+      "mcq_options": [
+        "Time",
+        "Knowledge",
+        "Experience",
+        "Age"
+      ],
+      "cot_text": "1. ‘It only keeps on increasing, as though it never decreases. This way of the world cannot be understood.’\n2. This metaphor points to an object or quality that moves in one direction only—increase—and never retreats. Its motion is continuously ongoing, but it cannot be measured or counted, because it applies equally across the whole world.\n3. Here the word “way” denotes a universal rule or natural flow that operates equally for everything and never stops. This quality is expressed best in something that moves continuously and uninterruptedly, and its speed cannot be reduced in any way. From this perspective “Time” is a concept that never goes backward, only moves forward. The trajectory of Time is one‑way and applies the same everywhere in the world, and its flow cannot be halted or slowed in any way.\n4. The above listed characteristics—continuous progress, immutable flow, and universality—match the concept of “Time” more than any other. No other alternative embodies these characteristics as clearly. Therefore, from a logical standpoint the answer “Time” is the most appropriate.",
+      "ai_predicted_answer": "Time",
+      "ground_truth_answer": "Age"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 373,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "আগুন নেই পড়ছে গা\nফোস্কা নেই নেইকো ঘা\nবলতে পারো মোর দশা।",
+      "mcq_options": [
+        "সর্দি",
+        "চুলকানি",
+        "পোড়া",
+        "জ্বর"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধায় উল্লেখিত মূল বাক্যাংশগুলো হলো “আগুন নেই পড়ছে গা” এবং “ফোস্কা নেই নেইকো ঘা” – অর্থাৎ, শরীরের উপর আগুনের স্পষ্ট চিহ্ন নেই, ত্বকে ফোস্কা বা ক্ষতও নেই।\n২. রূপকের ব্যাখ্যা: এখানে “আগুন” রূপকভাবে শরীরের তাপমাত্রা বা উষ্ণতাকে নির্দেশ করে, যা শারীরিক তাপের অভাবকে বোঝায় না, বরং অভ্যন্তরীণ উত্তাপের অনুভূতিকে বোঝায়। “পড়ছে গা” বলতে শরীরের উপর তাপের ছটা বা গরমের ছাপ, আর “ফোস্কা নেই নেইকো ঘা” বলতে ত্বকে কোনো ফোস্কা বা ক্ষত নেই এমন অবস্থা বোঝানো হয়েছে।\n৩. উত্তরের সাথে সংযোগ: “জ্বর” এমন একটি শারীরিক অবস্থা যেখানে শরীরের তাপমাত্রা স্বাভাবিকের তুলনায় বেড়ে যায়, ফলে গরমের অনুভূতি হয়, কিন্তু ত্বকে কোনো আগুনের চিহ্ন (ফোস্কা, ঘা) দেখা যায় না। তাই ধাঁধার রূপকটি ঠিক “জ্বর” এর বৈশিষ্ট্যকে তুলে ধরে: গরম কিন্তু স্পষ্ট ত্বকের ক্ষতি নেই।\n৪. সিদ্ধান্ত: যেহেতু ধাঁধা কেবলমাত্র তাপমাত্রা বৃদ্ধির ইঙ্গিত দেয় এবং কোনো ত্বকের ক্ষতি বা ফোস্কার উল্লেখ নেই, তাই “জ্বর”ই একমাত্র যুক্তিসংগত উত্তর, যা উভয় শারীরিক ও রূপক বৈশিষ্ট্যকে মিলে যায়।",
+      "ai_predicted_answer": "জ্বর",
+      "ground_truth_answer": "জ্বর"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 462,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "বিখ্যা নাম মোর বিদ্যার সাথী আমি ছাড়া লেখাপড়ায় হয়না অগ্রগতি, পকেটে থাকি আমি কড়ু বা বোতলে কি নাম আমার ভেবে বলতো সকলে।",
+      "mcq_options": [
+        "কলম",
+        "চক",
+        "পেন্সিল",
+        "কালি"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \nধাঁধার মূল শব্দগুলো হলো: “বিদ্যার সাথী”, “লেখাপড়ায় হয়না অগ্রগতি”, এবং “কড়ু বা বোতলে”। এগুলোই রূপক ও সূত্রের মূল অংশ।\n২. **রূপকের ব্যাখ্যা**  \n“বিদ্যার সাথী” বলতে বোঝানো হয়েছে এমন একটি উপকরণ, যা শিক্ষা ও লেখাপড়ার ক্ষেত্রে অপরিহার্য। “আমি ছাড়া লেখাপড়ায় হয়না অগ্রগতি” অংশটি স্পষ্টভাবে ইঙ্গিত দেয়, এই বস্তুটি ছাড়া লেখালেখি বা পড়াশোনা এগিয়ে নেওয়া সম্ভব নয়। “পকেটে থাকি আমি” এবং “কড়ু বা বোতলে” অংশটি বোঝায়, এই জিনিসটি সহজে বহনযোগ্য এবং সাধারণত ছোট কোনো ধারক বা পাত্রে রাখা হয়, যা লেখার যন্ত্রের বৈশিষ্ট্য।\n৩. **উত্তরের সাথে সংযোগ**  \nউল্লিখিত বৈশিষ্ট্যগুলোর সাথে সবচেয়ে বেশি মিলে যায় কলম। কলম ছাড়া লেখালেখি করা যায় না এবং এটি শিক্ষার অগ্রগতির জন্য অপরিহার্য। কলম সাধারণত পকেটে রাখা যায় এবং এতে কড়ু বা ছোট বোতলের মতো অংশ থাকে, যেখানে উপাদান সংরক্ষিত থাকে। তাই ধাঁধার রূপকগুলোর সাথে কলমের বৈশিষ্ট্য বেশ ভালোভাবে মিলে যায়।\n৪. **সিদ্ধান্ত**  \nউপরের ব্যাখ্যা অনুযায়ী, লেখাপড়ায় অগ্রগতির জন্য যেটি সবচেয়ে বেশি অপরিহার্য এবং “বিদ্যার সাথী” হিসেবে পরিচিত, সেটি হলো কলম। ধাঁধার ইঙ্গিত ও রূপকের সাথে এই উত্তরটি সবচেয়ে বেশি সামঞ্জস্যপূর্ণ।",
+      "ai_predicted_answer": "কলম",
+      "ground_truth_answer": "কালি"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 480,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "The body is shaped like a half-moon. It cuts plants and trees always, at all times.",
+      "mcq_options": [
+        "Sickle",
+        "Soid",
+        "Axe",
+        "Scissors"
+      ],
+      "cot_text": "1. “The body is shaped like a half-moon” and “it cuts plants and trees always, at all times”—these are the key word-groups of the riddle.\n2. The metaphor first points to the shape: a body curved like a half-moon, that is, a curved long blade; in the second part the nature of the work is revealed—it goes on cutting plants and trees, which is constant, that is, eternal.\n3. “Sickle” matches both these characteristics perfectly: the shape of its blade is truly curved like a half-moon, and it is used to cut plants, grass, crops and so on for farming or gardening work, which is applicable at any time of the day.\n4. Conclusion: Since only the sickle has a half-moon-shaped blade and is constantly used to cut plants and trees, the only logical answer to this riddle is “sickle”.",
+      "ai_predicted_answer": "Sickle",
+      "ground_truth_answer": "Sickle"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 516,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Two hands and four legs, no tail or head; it takes everyone in its lap, whether boy or old man.",
+      "mcq_options": [
+        "Chair",
+        "Sofa",
+        "Table",
+        "Bed"
+      ],
+      "cot_text": "1. The words mentioned in the riddle are: “Two hands and four legs, no tail or head; it takes everyone in its lap, whether boy or old man.”\n2. Here “two hands” and “four legs” refer to different parts of the object, “no tail” means there is no extra hanging part, and the word “head” points to the object’s front curved or raised part that is made for comfortable leaning. The phrase “embraces everyone” means it provides a place for sitting or resting, and “whether boy or old man” indicates that it is suitable for all, regardless of age.\n3. In the case of a sofa these explanations fit perfectly: a sofa has two armrests, which can be called “two hands,” and it usually has four legs that keep the sofa stable. The back part of a sofa is curved or raised, which can be taken as “head.” A sofa is made without a tail or extra part, and it gives space for small and large, boy and old people to rest.\n4. According to the above description, every metaphorical meaning and feature of the riddle matches the sofa better; therefore the logical answer here is Sofa.",
+      "ai_predicted_answer": "Sofa",
+      "ground_truth_answer": "Chair"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 596,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "ডালপালা কিছু নাই আছে শুধু পাতা,\nহাত মুখ কিছু নাই পেট ভরা কথা।\nবুদ্ধি তার মোটে নাই আপনার শিরে,\nতবু সে যে বুদ্ধি বিলায় দেখ সকলেরে।",
+      "mcq_options": [
+        "কাগজ",
+        "পত্রিকা",
+        "ম্যাগাজিন",
+        "বই"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধার মূল শব্দগুলো হলো “ডালপালা কিছু নাই আছে শুধু পাতা”, “হাত মুখ কিছু নাই পেট ভরা কথা”, “বুদ্ধি তার মোটে নাই আপনার শিরে, তবু সে যে বুদ্ধি বিলায় দেখ সকলেরে।”\n২. রূপকের ব্যাখ্যা: এখানে “ডালপালা” ও “হাত‑মুখ”‑এর অনুপস্থিতি একটি শারীরিক গঠন বা জীবের অভাবকে নির্দেশ করে, অথচ “পাতা” ও “পেট ভরা কথা”‑এর উপস্থিতি জ্ঞান বা তথ্যের ভাণ্ডারকে বোঝায়। “বুদ্ধি তার মোটে নাই আপনার শিরে” বলতে বোঝানো হয়েছে যে, এই বস্তুটির নিজস্ব মস্তিষ্ক নেই, কিন্তু তবু তা বুদ্ধি বা জ্ঞান বিতরণ করে।\n৩. উত্তরের সাথে সংযোগ: “বই” এই রূপকের সাথে পুরোপুরি মিলে যায়। বইয়ের পাতায় লেখা শব্দগুলোই তার “পাতা”; তার কোনও শারীরিক ডালপালা, হাত‑মুখ নেই, তবু পৃষ্ঠাগুলোতে ভরা থাকে তথ্য ও জ্ঞান। বইয়ের মধ্যে নিজস্ব মস্তিষ্ক না থাকলেও, পাঠকের মস্তিষ্কে জ্ঞান সঞ্চার করে, তাই “বুদ্ধি বিলায় দেখ সকলেরে”।\n৪. সিদ্ধান্ত: এই সমস্ত বৈশিষ্ট্য মিলিয়ে দেখা যায় বই ছাড়া আর কোনও বস্তুই ধাঁধার বর্ণনার সাথে এত ঘনিষ্ঠভাবে মেলে না। তাই “বই”ই একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "বই",
+      "ground_truth_answer": "বই"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 633,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "এমন এক পাখি অথচ উড়তে পারেনা, তার নাম বলতে পারে কোন জনা?",
+      "mcq_options": [
+        "উটপাখি",
+        "পেঙ্গুইন",
+        "কাক",
+        "পেঁচা"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ধাঁধার মূল বাক্য “এমন এক পাখি অথচ উড়তে পারেনা, তার নাম বলতে পারে কোন জনা?” – এখানে ‘পাখি’, ‘উড়তে পারেনা’ ও ‘নাম বলতে পারে’ শব্দগুলোই মূল ইঙ্গিত।\n২. **রূপকের ব্যাখ্যা**  \n   এখানে ‘উড়তে’ শব্দটি সরাসরি শারীরিক উড্ডয়নের অর্থে নয়, বরং রাতের অন্ধকারে নীরবে চলাফেরা বা নিঃশব্দে গতি করার বিশেষ ক্ষমতার ইঙ্গিত দেয়। ধাঁধার ‘উড়তে পারেনা’ অংশটি এমন এক পাখির প্রতি ইঙ্গিত করে, যার চলাফেরা বা গতি স্বাভাবিক পাখিদের মতো নয়, বরং রহস্যময় এবং নিঃশব্দ।\n৩. **উত্তরের সাথে সংযোগ**  \n   পেঁচা এমন একটি পাখি, যার রাতের অন্ধকারে নিঃশব্দে চলাফেরা করার বিশেষ দক্ষতা রয়েছে। যদিও এটি ডানা মেলে উড়তে পারে, সাধারণ অর্থে ‘উড়া’ শব্দটি এখানে গতি বা গতিশীলতার ব্যতিক্রমী ধরনে ব্যবহৃত হয়েছে। ধাঁধার ‘নাম বলতে পারে কোন জনা?’ অংশে বোঝানো হয়েছে, এই পাখির নাম সহজেই জানা যায় এবং উচ্চারণ করা যায়, যা ‘পেঁচা’ শব্দের জন্য প্রযোজ্য।\n৪. **সিদ্ধান্ত**  \n   ধাঁধার শর্ত—পাখি, স্বাভাবিক উড়ার পরিবর্তে বিশেষ চলাফেরা, এবং সহজ নাম—এই তিনটি বৈশিষ্ট্যের সাথে সবচেয়ে বেশি মেলে পেঁচা। তাই এই ধাঁধার যুক্তি অনুসারে সঠিক উত্তর হলো পেঁচা।",
+      "ai_predicted_answer": "পেঁচা",
+      "ground_truth_answer": "উটপাখি"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 678,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Peacock’s feather, elephant’s tusk—whoever cannot say it is of donkey stock.",
+      "mcq_options": [
+        "Radish",
+        "Carrot",
+        "Onion",
+        "Pumpkin"
+      ],
+      "cot_text": "1. **Answer identification**\nThe two main metaphors of the riddle are—“peacock’s feather” and “elephant’s tusk”. The last part is essentially a rhythmic challenge, spoken to test the intelligence of the respondent.\n2. **Metaphor explanation**\nHere “peacock’s feather” means the green, long and spread-out leaves of the plant above the ground, which look much like a feather. And “elephant’s tusk” indicates the white, hard and pointed form of the vegetable beneath the ground.\n3. **Connection with the answer**\nThe answer is “radish”. On observation, the greens or leaves of the radish are spread upward, comparable to a peacock’s feather or tail-fan. And the root part of the radish is just like an elephant’s tusk—snow-white, and elongated and pointed in shape.\n4. **Conclusion**\nThe presence in the same vegetable of leaves like a peacock’s feather and a white fruit like an elephant’s tusk—these two visible characteristics match beautifully only with “radish”.",
+      "ai_predicted_answer": "Radish",
+      "ground_truth_answer": "Radish"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 706,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "It is burning yet not burnt up—what creature is that, tell me.",
+      "mcq_options": [
+        "Jellyfish",
+        "Glowworm",
+        "Fish",
+        "Firefly"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “It is burning yet not burnt up—what creature is that, tell me”—here the words “burning” and “not burnt up” are both used as metaphors.\n2. Metaphor explanation: Here the word “burning” refers to being in water or a state related to water, i.e., an animal that lives in water and is distinguished by its presence or characteristic; “does not burn” means it is not physically combusting or deteriorating, but remains in its normal state.\n3. Connection to the answer: Jellyfish is an aquatic animal whose body is transparent and is often seen floating in water, as if it is burning or glowing within the water; but no combustion or deterioration occurs in its body, it simply lives normally.\n4. Conclusion: Because of its aquatic habitat and the transparency and brightness of its body, the metaphor “burning yet not burnt up” matches Jellyfish best, therefore the answer to this riddle is Jellyfish.",
+      "ai_predicted_answer": "Jellyfish",
+      "ground_truth_answer": "Firefly"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 716,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "বলেনতো দেখি-\nযেখানেতে জন্ম সেখানে নয় বাস।\nভ্রমণতে আসলে পরে ঘটায় সর্বনাশ।\nএইটা কি?",
+      "mcq_options": [
+        "বৃষ্টি",
+        "আগুন",
+        "বজ্রপাত",
+        "বাতাস"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   “বলেনতো দেখি‑ যেখানেতে জন্ম সেখানে নয় বাস। ভ্রমণতে আসলে পরে ঘটায় সর্বনাশ।”\n২. **রূপকের ব্যাখ্যা**  \n   রূপকটি এমন একটি সত্তার কথা বলে যা তার জন্মস্থানে থাকে না, বরং চলাচলের মাধ্যমে অন্যত্র পৌঁছে ধ্বংস বা বিপর্যয় ঘটায়। এখানে “জন্ম” বলতে জন্মের স্থানকে, “বাস” বলতে স্থায়ী অবস্থানকে, আর “ভ্রমণ” বলতে চলাচলকে বোঝানো হয়েছে।\n৩. **উত্তরের সাথে সংযোগ**  \n   “বাতাস” ঠিক এই বৈশিষ্ট্য বহন করে। বাতাস পৃথিবীর বিভিন্ন অংশে গঠিত হয় (যেমন গরম ও ঠান্ডা বায়ুর সংঘর্ষে), কিন্তু তা কোন এক স্থানে স্থায়ীভাবে “বাস” করে না; বরং বায়ু প্রবাহে ভ্রমণ করে। যখন বাতাস প্রবল হয়ে ঝড়, টর্নেডো বা সাইক্লোনে রূপ নেয়, তখন তা ধ্বংস, সর্বনাশের কারণ হয়ে দাঁড়ায়। তাই “বাতাস” রূপকের সব শর্ত পূরণ করে।\n৪. **সিদ্ধান্ত**  \n   এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর হলো “বাতাস”, কারণ অন্য কোনো প্রাকৃতিক উপাদান বা বস্তুই জন্মস্থানে না থেকে ভ্রমণের মাধ্যমে সর্বনাশ ঘটানোর বৈশিষ্ট্য একইভাবে ধারণ করে না।",
+      "ai_predicted_answer": "বাতাস",
+      "ground_truth_answer": "বাতাস"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 749,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "বিশালাকার পুরুষ আমি মানুষ তবু নই, ধনুক হাতে শিকারী আমি মহাকাশে রই।",
+      "mcq_options": [
+        "অর্জুন",
+        "বৃহস্পতি",
+        "দেবতা",
+        "কালপুরুষ"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ** – ধাঁধার মূল শব্দগুলো হল ‘বিশালাকার পুরুষ’, ‘মানুষ তবু নই’, ‘ধনুক হাতে শিকারী’, ‘মহাকাশে রই’।\n২. **রূপকের ব্যাখ্যা** – ‘বিশালাকার পুরুষ’ দ্বারা আকাশ বা মহাকাশকে মানুষের মতো বিশাল সত্তা হিসেবে তুলনা করা হয়েছে; ‘ধনুক হাতে শিকারী’ রূপকটি আকাশে উড়ন্ত নক্ষত্র বা গ্রহকে ধনুকের তীরের মতো টেনে আনা বা শিকার করার ইঙ্গিত দেয়; ‘মহাকাশে রই’ বলে বোঝায় যে এই সত্তা পৃথিবীর বাইরে, আকাশ বা মহাকাশে অবস্থান করে।\n৩. **উত্তরের সাথে সংযোগ** – ‘বিশালাকার’ শব্দটি অর্জুনের অসাধারণ শক্তি ও বীরত্বের প্রতীক হিসেবে ধরা যায়, কারণ অর্জুন ছিলেন মহাভারতের অন্যতম প্রধান যোদ্ধা এবং তাঁর কীর্তি ও খ্যাতি তাঁকে বিশালত্ব দিয়েছে। ‘ধনুক হাতে শিকারী’ অংশটি অর্জুনের পরিচিতি—তিনি ছিলেন এক দক্ষ ধনুর্ধর, যিনি সর্বদা ধনুক হাতে শিকার বা যুদ্ধ করতেন। ‘মহাকাশে রই’ রূপকটি অর্জুনের পৌরাণিক কাহিনিতে স্বর্গারোহণ বা দেবতাদের সাথে মহাকাশে ভ্রমণের বিষয়টিকে বোঝায়, যেখানে তিনি দেবতাদের কাছ থেকে অস্ত্র লাভ করেন।\n৪. **সিদ্ধান্ত** – ধাঁধার রূপক ও বর্ণনাগুলো অর্জুনের বৈশিষ্ট্যের সাথে বেশি মেলে, কারণ তাঁর বিশালত্ব, ধনুক হাতে দক্ষতা এবং পৌরাণিক কাহিনিতে মহাকাশে অবস্থান—সব মিলিয়ে ‘অর্জুন’ উত্তরটি এখানে যথার্থ।",
+      "ai_predicted_answer": "অর্জুন",
+      "ground_truth_answer": "কালপুরুষ"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 763,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "I have holes on my top and bottom, on my left and right, and in the middle. But I can still hold water. What am I?",
+      "mcq_options": [
+        "Cloth",
+        "Net",
+        "Paper",
+        "Sponge"
+      ],
+      "cot_text": "1. Quoting the main statement of the riddle, we get: “**I have holes on my top and bottom, on my left and right, and in the middle. But I can still hold water.**” These sentences are the essence of the riddle, in which the word ‘hole’ is important.\n2. The word ‘hole’ metaphorically denotes a cavity or opening, through which water can run out of an object. Here, although there are holes in every direction—top, bottom, left, right, middle—the object is said to be one that ‘can hold water’, which creates a contradiction.\n3. The characteristics of the sponge fulfil this contradiction. A sponge has countless tiny pores (holes) on its surface, spread above, below, left, right and in the middle as well. Even so, it absorbs and retains water through its pores, so the quality ‘can hold water’ matches completely.\n4. In conclusion, since no other object holds all these characteristics at the same time—that is, holding water despite having holes in every direction—the sponge is therefore the only logical answer.",
+      "ai_predicted_answer": "Sponge",
+      "ground_truth_answer": "Sponge"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 797,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "What becomes smaller when pulled?",
+      "mcq_options": [
+        "Tape",
+        "Pipe",
+        "Smoke",
+        "Cigarette"
+      ],
+      "cot_text": "1. ‘What becomes smaller when pulled’ – here the key words are “pulled” and “becomes smaller”; these are the clues of the riddle.\n2. Metaphorical explanation: The metaphor “if pulled, becomes smaller” refers to a situation where pulling an object reduces its length or visible part. Here “smaller” means that as it is pulled, the portion remaining for use diminishes, i.e., the remaining part appears smaller as a result of pulling.\n3. Connection to the answer: When tape is pulled, tape comes off the roll and the amount of tape on the roll decreases. Consequently, as it is pulled the roll of tape becomes smaller, i.e., the size of the tape roll continuously diminishes. This characteristic matches the metaphor directly.\n4. Conclusion: Since pulling makes the tape roll become smaller and no other option shows this change, the metaphor “if pulled, becomes smaller” matches Tape.",
+      "ai_predicted_answer": "Tape",
+      "ground_truth_answer": "Cigarette"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 804,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "কোন জিনিস বাচ্চা থেকেই বুড়ো।",
+      "mcq_options": [
+        "বুড়ো নখ",
+        "বুড়ো হাত",
+        "বুড়ো পা",
+        "বুড়ো আঙ্গুল"
+      ],
+      "cot_text": "১. 'কোন জিনিস বাচ্চা থেকেই বুড়ো।' – এখানে 'বাচ্চা' শব্দটি মানুষের বা প্রাণীর শৈশবকে নির্দেশ করে, আর 'বুড়ো' শব্দটি বয়সের অগ্রগতিকে চিহ্নিত করে।\n২. রূপকটি হলো “শৈশব থেকেই বয়সের ছাপ বহন করে এমন বস্তু”। এটি এমন কিছুকে বোঝায় যার জীবনের শুরু থেকেই ধীরে ধীরে বয়সের চিহ্ন দেখা যায়, যদিও তা সাধারণত মানুষের নয়।\n৩. ‘বুড়ো আঙ্গুল’ (বুড়ো আঙ্গুল) এই রূপকের সাথে পুরোপুরি মিলে যায়, কারণ বুড়ো আঙ্গুল জন্মের সময় থেকেই অন্য আঙ্গুলগুলোর তুলনায় বড় এবং দৃঢ় থাকে, আর শৈশব থেকেই তা ব্যবহার শুরু হয়। বুড়ো আঙ্গুলের দৈর্ঘ্য ও শক্তি শৈশব থেকেই অপরিবর্তিত থাকে, তাই বলা যায় এটি “বাচ্চা থেকেই বুড়ো” – অর্থাৎ শৈশব থেকেই এর ‘বয়স’ বা ‘বৃদ্ধি’ স্পষ্ট।  \n৪. সিদ্ধান্ত: বুড়ো আঙ্গুল ছাড়া আর কোনো অঙ্গ বা বস্তু নেই যা জন্মের পর থেকেই এমন বৈশিষ্ট্য বহন করে এবং শৈশব থেকেই ‘বুড়ো’ বলে বিবেচিত হতে পারে; তাই এই ধাঁধার যুক্তিসংগত একমাত্র উত্তর হলো ‘বুড়ো আঙ্গুল’।",
+      "ai_predicted_answer": "বুড়ো আঙ্গুল",
+      "ground_truth_answer": "বুড়ো আঙ্গুল"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 815,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "শীতকালে যার নেইকো মান, গরমকালে পায় মান।",
+      "mcq_options": [
+        "রোদ",
+        "শীতল বাতাস",
+        "বাতাস",
+        "পাখা"
+      ],
+      "cot_text": "১. 'শীতকালে যার নেইকো মান, গরমকালে পায় মান।' – এই লাইনটি ধাঁধার মূল বক্তব্য, যেখানে ‘মান’ শব্দটি দরকারি বা মূল্যবানকে বোঝায়।\n২. রূপক ব্যাখ্যা: এখানে \"মান\" বলতে বোঝানো হয়েছে গুরুত্ব বা প্রয়োজনীয়তা, যা ঋতুভেদে পরিবর্তিত হয়। শীতকালে, যখন চারপাশে ঠান্ডা থাকে, তখন শীতল বাতাসের কোনো গুরুত্ব থাকে না, কারণ পরিবেশ এমনিতেই ঠান্ডা। কিন্তু গরমকালে, যখন চারপাশে প্রচণ্ড গরম, তখন শীতল বাতাস অত্যন্ত গুরুত্বপূর্ণ ও কাঙ্ক্ষিত হয়ে ওঠে।\n৩. উত্তরের সাথে সংযোগ: শীতল বাতাস শীতকালে অপ্রয়োজনীয়, কারণ তখন সবাই উষ্ণতা খোঁজে। কিন্তু গরমকালে, শীতল বাতাসের চাহিদা ও গুরুত্ব বেড়ে যায়, কারণ তখন মানুষ শীতলতা পেতে চায়। এই বৈশিষ্ট্য ধাঁধার রূপকের সাথে পুরোপুরি মিলে যায়, কারণ শীতল বাতাস গরমে মান পায়, শীতে মান হারায়।\n৪. সিদ্ধান্ত: ঋতুভেদে যার গুরুত্ব বদলে যায়, এমন বস্তু হিসেবে শীতল বাতাস ধাঁধার বর্ণনার সাথে সবচেয়ে বেশি মেলে; তাই শীতল বাতাসই এখানে যথাযথ উত্তর।",
+      "ai_predicted_answer": "শীতল বাতাস",
+      "ground_truth_answer": "পাখা"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 850,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Which bird has no eggs, tell me. If you cannot say it, I will understand there is no wit in your head.",
+      "mcq_options": [
+        "Crow",
+        "Penguin",
+        "Sparrow",
+        "Bat"
+      ],
+      "cot_text": "1. ‘Which bird has no eggs, tell me. If you cannot say it, I will understand there is no wit in your head’ – here the word ‘bird’ is used in the general sense, and the question is about a bird that has no eggs.\n2. The metaphor is the dual meaning of the word ‘bird’ – on one side real birds, which have eggs, on the other an animal that people often call a ‘bird’ but which in reality is not one.\n3. The characteristic of the ‘bat’ is that it is a mammal, gives birth to live young, and does not lay eggs; therefore, since in the literal sense of the word ‘bird’ it has no eggs, it matches the metaphor.\n4. Conclusion: Since the metaphor depends on the word ‘bird’ and only the mammal bat gives birth without laying eggs, ‘bat’ is the only logical answer to this riddle.",
+      "ai_predicted_answer": "Bat",
+      "ground_truth_answer": "Bat"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 923,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "One hand is a tree; it holds five flowers.",
+      "mcq_options": [
+        "Five nails",
+        "One leaf",
+        "One branch",
+        "Fingers of the hand"
+      ],
+      "cot_text": "1. “One hand is a tree; it holds five flowers.”\n2. Here “the tree” actually refers to the upper part of the hand, and “holds five flowers” points to the hand’s five nails. Just as flowers bloom on a tree’s branches, the five fingertips each bear a nail, which appear distinct and are positioned separately like the flowers of a tree.\n3. The five nails are aligned on the upper part of the hand, each fingertip bearing one nail, which enhances the hand’s beauty just as flowers on a branch enhance a tree. Thus the word “flower” here reflects the beauty and placement of the nails.\n4. This metaphor fits the hand’s five nails especially well, because they occupy the upper part of the hand as five separate parts and are seen like flowers on a branch. Therefore the answer is Five nails.",
+      "ai_predicted_answer": "Five nails",
+      "ground_truth_answer": "Fingers of the hand"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 927,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "ছোট ছোট পোলাপান দুধ ভাত খায় বড় বড় গাছের সাথে যুদ্ধ করতে চায়",
+      "mcq_options": [
+        "বাঁশ",
+        "মুরগি",
+        "কাঠের ছড়ি",
+        "কুঁড়াল"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধার মূল শব্দগুলো হলো “ছোট ছোট পোলাপান”, “দুধ ভাত খায়” এবং “বড় বড় গাছের সাথে যুদ্ধ করতে চায়” – এগুলোই ধাঁধার সংকেত।\n২. রূপকের ব্যাখ্যা: এখানে “ছোট ছোট পোলাপান” একটি ক্ষুদ্র, নমনীয় গজের চিত্র, যা “দুধ ভাত” দ্বারা পুষ্টি পায় – অর্থাৎ পানি ও মাটির সারের সমার্থক। “বড় বড় গাছের সাথে যুদ্ধ করতে চায়” বলতে বোঝানো হয়েছে, ছোট হলেও সে বড় গাছের সাথে প্রতিযোগিতা করে, লম্বা ও শক্তিশালী হওয়ার ইচ্ছা প্রকাশ করছে।\n৩. উত্তরের সাথে সংযোগ: “কুঁড়াল” হলো একটি ছোট বাঁশের কুঁড়ি, যা ছোট থেকে শুরু করে মাটি ও পানির পুষ্টি গ্রহণ করে দ্রুত লম্বা হয়ে ওঠে। বাঁশের কুঁড়ি তার নমনীয়তা ও শক্তির জন্য পরিচিত, এবং সঠিক শর্তে এটি বড় গাছের সাথে প্রতিযোগিতা করতে পারে, ফলে ধাঁধার সব অংশই “কুঁড়াল” এর বৈশিষ্ট্যের সাথে মিলে যায়।\n৪. সিদ্ধান্ত: এই তিনটি ইঙ্গিত—ক্ষুদ্র শুরুর চিত্র, পানি ও মাটির পুষ্টি, এবং বড় গাছের সাথে লড়াই—কেবল “কুঁড়াল” একাই পূর্ণাঙ্গভাবে ব্যাখ্যা করতে পারে, তাই এটি এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "কুঁড়াল",
+      "ground_truth_answer": "কুঁড়াল"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 929,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "ঘষা দিলে মিটে আশা নইলে পরে সব নিরাশা",
+      "mcq_options": [
+        "সিগারেট",
+        "লাইটার",
+        "ম্যাচবক্স",
+        "দিয়াশলাই"
+      ],
+      "cot_text": "১. ‘ঘষা দিলে মিটে আশা নইলে পরে সব নিরাশা’ – এখানে ‘ঘষা দিলে মিটে’ এবং ‘আশা নইলে পরে সব নিরাশা’ এই দুইটি অংশই মূল সূত্র।\n২. রূপকটি ‘ঘষা দিলে মিটে’ এমন এক বস্তুকে নির্দেশ করে যা ঘষার মাধ্যমে আলোকিত বা জ্বলে ওঠে; আর ‘আশা নইলে পরে সব নিরাশা’ বলে বোঝানো হয়েছে যে, যদি সেই আলোকের আশার আলো না জ্বলে, তবে পুরো পরিস্থিতি হতাশা ও অন্ধকারে ভরে যায়।\n৩. এখানে ‘ঘষা’ শব্দটি এমন একটি যন্ত্রের দিকে ইঙ্গিত দেয়, যা ঘষে বা চাপ দিয়ে আগুন তৈরি করে। ‘লাইটার’ এমনই এক বস্তু, যেখানে চাপ বা ঘর্ষণের মাধ্যমে আগুন জ্বলে ওঠে। যখন লাইটারটি ঘষে বা চেপে ধরলে আগুন বের হয়, তখন আশার আলো জ্বলে ওঠে; আর যদি আগুন না জ্বলে, তাহলে অন্ধকার ও নিরাশা নেমে আসে। লাইটারের আগুনের জন্য ঘর্ষণ বা চাপ অপরিহার্য, এবং এটি না হলে আলো পাওয়া যায় না—এটাই ধাঁধার মূল ভাবের সাথে মিলে যায়।\n৪. সিদ্ধান্ত: ধাঁধার ‘ঘষা দিলে মিটে আশা’ অংশটি লাইটারের ঘর্ষণ বা চাপের মাধ্যমে আগুন জ্বালানোর বৈশিষ্ট্যের সাথে বেশি মেলে, কারণ আলো পাওয়ার জন্য এখানে ঘর্ষণ বা চাপ অপরিহার্য। তাই এই ধাঁধার সঠিক উত্তর ‘লাইটার’।",
+      "ai_predicted_answer": "লাইটার",
+      "ground_truth_answer": "দিয়াশলাই"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 941,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Round-bodied in appearance. Inside its belly hands and feet move, but it does not move. Say what this is.",
+      "mcq_options": [
+        "Blender",
+        "Planet",
+        "Circus ring",
+        "Clock"
+      ],
+      "cot_text": "1. **Answer identification**  \n   The main lines of the riddle are quoted:  \n   *“Round-bodied in appearance. Inside its belly hands and feet move, but it does not move.”*\n2. **Metaphor explanation**  \n   - *Round-bodied in appearance* – denotes an object of round or circular shape on the outside.  \n   - *Inside its belly hands and feet move* – the object has moving parts or components inside, which are seen as hands or feet from the outside.  \n   - *But it does not move* – seen from the outside, the object itself does not move; rather the internal parts are moving.\n3. **Connection with the answer**  \n   The clock matches this metaphor perfectly:  \n   - The clock’s case is usually round or circular (round-bodied in appearance).  \n   - Inside the clock, the hands (hour, minute, second) and components rotate or move (inside its belly hands and feet move).  \n   - The clock itself stays still; it only shows the time, it does not move (but it does not move).\n4. **Conclusion**  \n   All three of the above characteristics are not found together in any common object other than a clock. So the only logical answer to the riddle is a clock.",
+      "ai_predicted_answer": "Clock",
+      "ground_truth_answer": "Clock"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 1017,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "I do not want it, yet I eat it; if I eat too much, I die.",
+      "mcq_options": [
+        "Slap",
+        "Water",
+        "Fire",
+        "Beating"
+      ],
+      "cot_text": "1. **Answer identification**  \n   ‘I do not want it, yet I eat it; if I eat too much, I die.’ In this sentence the word ‘eat’ is used metaphorically.\n2. Explanation of the metaphor  \nHere the word “eat” does not mean to take or endure, but refers to something that enters the body or environment and whose presence is felt. In other words, it is something that is not taken voluntarily, but once it enters the body or surroundings its effect is experienced; if excessive it becomes harmful.\n3. Connection with the answer  \nFire is an element that people generally do not want to take into themselves, but once it enters the body or comes into contact it is felt. When fire enters the body or is taken in excess the body burns and excessive fire can cause death. Thus here “eat” means coming into contact with or taking fire and “if I eat too much, I die” means excessive fire brings lethal damage to the body.\n4. Conclusion  \n“I do not want it, yet I eat it; if I eat too much, I die”—these conditions match fire best, because fire is not desired, but once it sticks to or is taken into the body its effect is felt and in excess it can lead to death. Therefore the most reasonable answer here is Fire.",
+      "ai_predicted_answer": "Fire",
+      "ground_truth_answer": "Beating"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 1137,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "ঘরের মধ্যে ঘর নাচে কনে-বরা।",
+      "mcq_options": [
+        "মশারদানি",
+        "জাল",
+        "পর্দা",
+        "মশারি"
+      ],
+      "cot_text": "১. ‘ঘরের মধ্যে ঘর নাচে কনে‑বরা’ – এই লাইনটিতে ‘ঘর’ শব্দটি দুবার এসেছে, প্রথমটি ‘ঘরের মধ্যে’ অর্থে পুরো ঘরের ভিতরে, আর দ্বিতীয়টি ‘ঘর’ অর্থে ছোট ছোট ঘর‑সদৃশ গঠন।\n২. রূপকটি বোঝায় যে ঘরের ভিতরে একাধিক ছোট ঘর আছে যেগুলো নাচছে, যেন কনে‑বরা (বিবাহের যুগল) আনন্দে দোল খাচ্ছে। এখানে ‘নাচে’ শব্দটি বাতাসের ফুঁক বা গতি নির্দেশ করে, আর ‘কনে‑বরা’ একটি সজীব, সুদৃশ্য চলাচলের চিত্র তুলে ধরে।\n৩. ‘মশারি’ ঠিক এই বর্ণনার সাথে মিলে যায়: মশারি হলো একটি ফ্রেমে ঝোলানো জাল, যার মধ্যে অসংখ্য ছোট ছোট ছিদ্র বা ‘ঘর’ থাকে। বাতাসে মশারির জাল দুললে এই ছিদ্রগুলো নাচতে‑নাচতে কনে‑বরার মতো ছন্দময় গতি তৈরি করে। এছাড়া মশারি সবসময় ঘরের ভেতরে ব্যবহার করা হয়, যা ‘ঘরের মধ্যে’ থাকার শর্ত পূরণ করে।\n৪. সিদ্ধান্ত: উপরের সব সূত্র – ঘরের ভেতরে ছোট ছোট ঘর, নাচার গতি, কনে‑বরা চিত্র, এবং ঘরের ভেতরে ব্যবহৃত হওয়া – একত্রে কেবল ‘মশারি’কে যুক্তিসংগত উত্তর হিসেবে তুলে ধরে। অন্য কোনো বস্তুই এই সব বৈশিষ্ট্যকে একই সাথে পূরণ করতে পারে না, তাই মশারিই একমাত্র সঠিক সমাধান।",
+      "ai_predicted_answer": "মশারি",
+      "ground_truth_answer": "মশারি"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 1150,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "পাথরের ঘরে বাস করে, সমুদ্রে নামলেই মরে?",
+      "mcq_options": [
+        "মাটি",
+        "চুন",
+        "সোনা",
+        "নুন"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ধাঁধার মূল শব্দগুলো হলো “পাথরের ঘরে বাস করে, সমুদ্রে নামলেই মরে?”\n২. **রূপকের ব্যাখ্যা**  \n   - “পাথরের ঘরে বাস করে” – এখানে “পাথর” বলতে ভূত্বকের ভেতরে থাকা কঠিন খনিজকে বোঝানো হয়েছে।  \n   - “সমুদ্রে নামলেই মরে” – সমুদ্রে নামলে বস্তুটি অদৃশ্য হয়ে যায় বা ভেঙে যায়, যেন “মৃত” হয়ে যায়।\n৩. **উত্তরের সাথে সংযোগ**\n- “পাথরের ঘরে” বলতে বোঝায় চুনাপাথরের খনি বা পাথরের স্তর, যেখান থেকে চুন (লাইমস্টোন) সংগ্রহ করা হয়। চুনের আদি উৎস হলো পাথর, তাই “পাথরের ঘরে বাস করে” বলা যায়।\n- “সমুদ্রে নামলেই মরে” – চুন শুকনো অবস্থায় সক্রিয়; কিন্তু পানি বা সমুদ্রের আর্দ্রতায় পড়লে তা “স্লেক” হয়ে যায়, অর্থাৎ রাসায়নিক বিক্রিয়ায় তার কঠিন, কাঁচা রূপ নষ্ট হয়ে নরম পুডিংয়ের মতো হয়। আসল চুন হিসেবে তার অস্তিত্ব শেষ, তাই রূপকভাবে “মরে” গেল।\n৪. **সিদ্ধান্ত**\nপাথর থেকে উৎপন্ন এবং পানিতে পড়লে তার আসল রূপ হারিয়ে ফেলা – এই দুটি বৈশিষ্ট্য “চুন”–এর সাথে স্পষ্টভাবে মেলে। অন্য কোনো বস্তু একইভাবে পাথরের ভেতরে জন্ম নিয়ে পানিতে এভাবে “মরে” যায় না, তাই উত্তর “চুন”।",
+      "ai_predicted_answer": "চুন",
+      "ground_truth_answer": "নুন"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 1177,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "A single citron tree; when tapped, juice.",
+      "mcq_options": [
+        "Nose",
+        "Mouth",
+        "Forehead",
+        "Eye"
+      ],
+      "cot_text": "1. ‘A single citron tree; when tapped, juice’ – here the words ‘single’, ‘citron tree’, ‘tapped’ and ‘juice’ are the main clues.\n2. The metaphor describes a tree that does not bear fruit, but if you tap it lightly, juice comes out of it. This metaphor basically points to a ‘crystal tree’—the eye—since in the eye there is ‘juice’ or ‘tears’, which come out when pressed.\n3. The characteristics of the ‘eye’ match this riddle exactly: when light pressure is put on the eyelid or the eye, tears (juice) come out, which reflects the picture of juice coming out when a tree is tapped. Besides, there is no fruit in the eye, rather tears are produced, which resembles the ‘citron tree’ (a fruitless tree).\n4. Conclusion: Because of all these similarities, no organ or object other than the ‘eye’ can satisfy the metaphor presented in the riddle so perfectly. So the ‘eye’ is the only logical answer.",
+      "ai_predicted_answer": "Eye",
+      "ground_truth_answer": "Eye"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 1182,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Changes colour three times a day?",
+      "mcq_options": [
+        "Cloud",
+        "Sky colour",
+        "Signal light",
+        "Traffic light"
+      ],
+      "cot_text": "1. ‘Changes colour three times a day?’ Here the words ‘changes colour’ and ‘three times’ are the main clues of the riddle.\n2. The metaphor ‘changes colour’—this presents a picture of a changeable colour, which changes repeatedly at set times.\n3. Here “in a day” means at various times of the day when changes in light and atmosphere also alter the cloud’s color. The cloud is sometimes white, sometimes gray, and sometimes shows a reddish or orange glow—these occur at different parts of the day. Thus “changes color” refers directly to this natural change of the cloud.\n4. Conclusion: The trait “changes color three times in a day” fits the cloud’s behavior best because the cloud appears in three main colors at different times of the day. Hence the correct answer is Cloud.",
+      "ai_predicted_answer": "Cloud",
+      "ground_truth_answer": "Traffic light"
+    },
+    {
+      "form_id": "Form_B",
+      "item_id": 1216,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "এমন কী আছে, কোন মালিককে যা তার বাগানে চারা, বীজ বা সার ফেলার আগেই ফেলতে হয়?",
+      "mcq_options": [
+        "পাথর",
+        "বালি",
+        "ঘাস",
+        "মাটি"
+      ],
+      "cot_text": "১. ‘মালিক’, ‘চারা’, ‘বীজ’, ‘সার’, ‘ফেলার আগেই ফেলতে হয়’ – এই শব্দগুলোই ধাঁধার মূল ভাব প্রকাশ করে, যেটি জিজ্ঞেস করছে কোন বস্তু মালিককে বাগানে চারা বা বীজ বা সার ফেলার আগে থেকেই রাখতে হয়।\n২. রূপক ব্যাখ্যা: ‘মাটি’ এখানে একটি রূপক হিসেবে ব্যবহৃত হয়েছে, যা বাগানের মঞ্চ বা ভিত্তি হিসেবে কাজ করে। যেমন একটি নাটকের মঞ্চ ছাড়া অভিনেতারা চলতে পারে না, তেমনি বাগানে চারা ও বীজের জন্য মাটিই প্রথমে উপস্থিত থাকতে হবে।\n৩. উত্তরের সাথে সংযোগ: মাটির বৈশিষ্ট্য হলো এটি পুষ্টি ও আর্দ্রতা ধারণ করে, চারা ও বীজের জন্য একটি উপযুক্ত পরিবেশ তৈরি করে এবং সার মিশ্রণের জন্যও আদর্শ মাধ্যম। তাই ‘মাটি’ ফেলার আগেই বসাতে হবে, অন্যথায় চারা বা বীজ ঠিকমতো গজাতে পারবে না।\n৪. সিদ্ধান্ত: মাটি ছাড়া চারা, বীজ বা সার ফেলা অর্থহীন, কারণ এগুলো মাটির উপর নির্ভরশীল। ফলে ধাঁধার একমাত্র যুক্তিসংগত উত্তর হলো ‘মাটি’।",
+      "ai_predicted_answer": "মাটি",
+      "ground_truth_answer": "মাটি"
+    }
+  ],
+  "Form_C": [
+    {
+      "form_id": "Form_C",
+      "item_id": 40,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "What kind of thing is there, brother, that is good to have of one’s own, but when received from others, the face turns black?",
+      "mcq_options": [
+        "Face",
+        "Mark",
+        "Cheek",
+        "Shame"
+      ],
+      "cot_text": "1. Quoting the key words of the riddle, we see: “What kind of thing is there, brother, that is good to have of one’s own, but when received from others, the face turns black?”\n2. Here “the face turns black” is a metaphor, which means that when someone is noticed by others, a mark of shame or a dark tinge appears on their face—that is, when shame is expressed outwardly, a kind of dark or reddish colour is seen on the face.\n3. Shame is a quality that is good to have within oneself, because it keeps a person on the moral path, but when others see or learn of it, the face becomes dark or red because of shame—that is, as soon as shame is noticed, the metaphor “the face turns black” comes true.\n4. Conclusion: No quality other than shame matches both parts of the riddle together—even though something is good to have, as soon as it is noticed by others the face turns dark—for this very reason shame is the only logical answer.",
+      "ai_predicted_answer": "Shame",
+      "ground_truth_answer": "Shame"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 69,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Born in the earth’s bosom, then a white sari; enhancing the taste of curry is its bravery.",
+      "mcq_options": [
+        "Garlic",
+        "Onion",
+        "Chili",
+        "Cabbage"
+      ],
+      "cot_text": "1. The core words of the riddle are “born in the earth’s womb,” “white sari,” and “its bravery that enhances the flavor of the curry.”\n2. “Born in the bosom of earth” means this object is born underground; “white sari” here refers to a thin outer white covering that serves as a skin and can be easily peeled off; “enhancing the flavor of the curry” means that its use in cooking contributes specially to taste and aroma.\n3. Onion matches these characteristics well: it is born underground, its outer part has a thin white or light‑colored skin, and when used in cooking it greatly amplifies the taste and aroma of the dish. In particular its white skin fits the “white sari” metaphor.\n4. Conclusion: The characteristics of Onion correspond most closely to the three clues mentioned in the riddle; no other alternative displays all three traits so clearly together. Therefore the correct answer here is Onion.",
+      "ai_predicted_answer": "Onion",
+      "ground_truth_answer": "Garlic"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 151,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "উপরে চাপ নিচে চাপ, মধ্যেখানে চেরোয় সাপ।",
+      "mcq_options": [
+        "মুখ",
+        "চোয়াল",
+        "দাঁত",
+        "জিহ্বা"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধাটির মূল শব্দগুলো হল “উপরে চাপ”, “নিচে চাপ” এবং “মধ্যঙ্গে চেরোয় সাপ”।\n২. রূপকের ব্যাখ্যা: এখানে “চাপ” শব্দটি শারীরিক টেনশন বা শক্তির ইঙ্গিত দেয়, আর “সাপ” শব্দটি গতিশীলতা, নমনীয়তা ও স্লাইডিং গতি বোঝায়। সুতরাং রূপকটি এমন একটি অঙ্গকে নির্দেশ করে যেটি উপরের ও নীচের অংশে টেনশন সৃষ্টি করে এবং মধ্যভাগে সাপের মতো লম্বা, নমনীয় গতি করে।\n৩. উত্তরের সাথে সংযোগ: জিহ্বা উপরের দাঁতের মাঝে চাপ সৃষ্টি করে, নীচের চোয়ালেও চাপ দেয় যখন খাবার চিবানো হয়। জিহ্বার মধ্যভাগে এটি সাপের মতো লম্বা ও নমনীয়ভাবে নড়াচড়া করে, স্বাদগ্রন্থি থেকে শুরু করে মুখের তলায় পৌঁছায়, যা সাপের স্লাইডিং গতি ও বাঁকানো রূপের সঙ্গে মিলে যায়।\n৪. সিদ্ধান্ত: এই সব বৈশিষ্ট্য মিলিয়ে দেখা যায় যে জিহ্বা উপরে ও নিচে চাপ দেয় এবং মধ্যভাগে সাপের মতো স্লাইড করে—অতএব “উপরে চাপ নিচে চাপ, মধ্যঙ্গে চেরোয় সাপ” রূপকটির একমাত্র যুক্তিসংগত উত্তর হলো জিহ্বা।",
+      "ai_predicted_answer": "জিহ্বা",
+      "ground_truth_answer": "জিহ্বা"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 243,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "ভয়ঙ্কর পথিক সে সকলে যে ডরায় খানিক পরে কাঁদিয়া সাগর সে ভাসায়।",
+      "mcq_options": [
+        "বৃষ্টি",
+        "বাতাস",
+        "মেঘ",
+        "তুষার"
+      ],
+      "cot_text": "১. ধাঁধার মূল শব্দগুলো হলো “ভয়ঙ্কর পথিক”, “সকলে যে ডরায়”, “খানিক পরে কাঁদিয়া” এবং “সাগর সে ভাসায়”; এগুলোই আমাদের বিশ্লেষণের সূচক।\n২. রূপকটি একটি ভয়ের যাত্রীকে চিত্রিত করে যে মানুষের হৃদয়ে ভীতি ছড়িয়ে দেয়, এরপর অল্প সময়ের মধ্যে কান্না ফোঁটা ফোঁটা হয়ে যায়, এবং শেষ পর্যন্ত সাগরকে উথলে তোলে—অর্থাৎ, একটি প্রাকৃতিক ঘটনাকে মানবীয় অনুভূতির মাধ্যমে উপস্থাপন করা হয়েছে।\n৩. এখানে “পথিক” শব্দটি মেঘকে বোঝায়, কারণ মেঘ আকাশে ভেসে বেড়ায় এবং তার উপস্থিতি অনেক সময় আকাশকে অন্ধকার করে তোলে, যা মানুষের মনে ভয় বা অস্বস্তি সৃষ্টি করে। কিছুক্ষণ পরে, সেই মেঘ জমে কান্নার মতো ফোঁটা ফোঁটা জল ঝরায়, যা সাগরে গিয়ে মিশে সমুদ্রকে উথলে তোলে। এইভাবে, মেঘ-ই সেই ভয়ঙ্কর পথিক, যার আগমন মানুষের মনে শঙ্কা জাগায় এবং পরে তার জলবিন্দু সাগরে মিশে যায়।\n৪. সিদ্ধান্ত: এই বিশ্লেষণে দেখা যায়, “মেঘ”-এর বৈশিষ্ট্যই ধাঁধার বর্ণনার সাথে সবচেয়ে বেশি মেলে; কারণ মেঘ-ই আকাশে ঘুরে বেড়ায়, ভীতিকর পরিবেশ তৈরি করে এবং পরে তার জলকণা সাগরে মিশিয়ে দেয়। তাই এখানে যুক্তিসঙ্গত উত্তর “মেঘ”।",
+      "ai_predicted_answer": "মেঘ",
+      "ground_truth_answer": "বৃষ্টি"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 311,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Now I see it, now it is gone; before it there is no fire.",
+      "mcq_options": [
+        "Electricity",
+        "Light",
+        "Heat",
+        "Wind"
+      ],
+      "cot_text": "1. **Answer identification**: The key phrases of the riddle are “now I see it, now it is gone” and “before it there is no fire”. Here “now I see it, now it is gone” means it cannot be seen, and “before it there is no fire” means that something existed before fire.\n2. **Metaphor explanation**: “Now I see it, now it is gone” is a metaphor pointing to a force or event that does not get caught by the eye—invisible, instantaneous and electric. The metaphor “before it there is no fire” hints that this invisible force is present before fire, which is not blazing or hot like fire but lightning-fast.\n3. **Connection with the answer**: “Electricity” matches these characteristics perfectly. Electricity is invisible—it is understood only through light, agitation or current. It is present before fire, because as a result of the flow of electricity it can occur even when no fire is burning; moreover, electricity is lightning-fast, so it is consistent with the metaphor “now I see it, now it is gone”.\n4. **Conclusion**: So “electricity” is the only logical answer, because it is invisible, present before fire, and lightning-fast—which satisfies all the conditions of the riddle.",
+      "ai_predicted_answer": "Electricity",
+      "ground_truth_answer": "Electricity"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 328,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Tied with a thread, it travels through the void; stirs when pulled—what is there like this?",
+      "mcq_options": [
+        "Bird",
+        "Balloon",
+        "Flag",
+        "Kite"
+      ],
+      "cot_text": "1. Quoting the specific words of the riddle, we get: “tied with a thread”, “travels through the void”, “stirs when pulled”.\n2. Here “travels in the void” means something that flies or roams in the air or sky, and “tied to a string” means its movement can be controlled with a thread; “moves when pulled” means when the string is tugged the object moves or changes position.\n3. These characteristics match the balloon perfectly: a balloon is usually tied to a string, it floats in the air or sky, and when the string is tugged the balloon changes direction or moves. The tension on the string directly affects the balloon’s position or trajectory, causing it to move.\n4. Therefore the answer that aligns most closely with the described characteristics is the balloon.",
+      "ai_predicted_answer": "Balloon",
+      "ground_truth_answer": "Kite"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 352,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "কেবলি বাড়িয়া যায়,\nকভু যেন না কমে।\nজগতের এ রীতি\nবুঝিতে না পারে।",
+      "mcq_options": [
+        "সময়",
+        "জ্ঞান",
+        "অভিজ্ঞতা",
+        "বয়স"
+      ],
+      "cot_text": "১. ‘কেবলি বাড়িয়া যায়, কভু যেন না কমে। জগতের এ রীতি বুঝিতে না পারে।’\n২. এই রূপকটি একটি এমন বস্তু বা গুণকে নির্দেশ করে, যা কেবল একদিকে—বৃদ্ধি—গামী, আর কখনও পশ্চাদপসরণ করে না। এর গতি অনবরত চলমান, কিন্তু তা পরিমাপ করা বা গোনা সম্ভব নয়, কারণ এটি সারা বিশ্বে সমানভাবে প্রযোজ্য।\n৩. ‘বয়স’ এই বৈশিষ্ট্যগুলোর সঙ্গে পুরোপুরি মিলে যায়। বয়স কেবল বাড়ে; কোনো মানুষ বা বস্তু তার বয়সকে কমাতে পারে না। এটি সময়ের সাথে অবিচ্ছিন্নভাবে বৃদ্ধি পায় এবং প্রতিটি জীবের জন্য অপরিবর্তনীয়। তদুপরি, বয়সের পরিমাণকে সম্পূর্ণভাবে গণনা বা ধারণা করা কঠিন, কারণ প্রত্যেকের জন্য তা ভিন্ন এবং সর্বজনীনভাবে সমানভাবে প্রযোজ্য।\n৪. সিদ্ধান্ত: উপরে উল্লিখিত বৈশিষ্ট্যগুলো—অবিরাম বৃদ্ধি, অপরিবর্তনীয়তা, এবং অসীম পরিমাণ—শুধুমাত্র ‘বয়স’ এই উত্তরকে উপযুক্ত করে তোলে। অন্য কোনো গুণ বা বস্তু এই সব শর্ত পূরণ করে না, তাই যুক্তিসংগতভাবে ‘বয়স’ই একমাত্র সঠিক উত্তর।",
+      "ai_predicted_answer": "বয়স",
+      "ground_truth_answer": "বয়স"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 373,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "আগুন নেই পড়ছে গা\nফোস্কা নেই নেইকো ঘা\nবলতে পারো মোর দশা।",
+      "mcq_options": [
+        "সর্দি",
+        "চুলকানি",
+        "পোড়া",
+        "জ্বর"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধায় উল্লেখিত মূল বাক্যাংশগুলো হলো “আগুন নেই পড়ছে গা” এবং “ফোস্কা নেই নেইকো ঘা” – অর্থাৎ, শরীরের উপর আগুনের স্পষ্ট চিহ্ন নেই, ত্বকে ফোস্কা বা ক্ষতও নেই।\n২. রূপকের ব্যাখ্যা: এখানে “আগুন” শব্দটি সরাসরি বাহ্যিক আগুন বা দাহ্যতার প্রতীক হিসেবে ব্যবহৃত হয়েছে, যা শরীরে আগুন লাগার পরিস্থিতিকে বোঝায়। “পড়ছে গা” বলতে বোঝানো হয়েছে শরীরের ওপর আগুনের প্রভাব পড়ছে, অর্থাৎ শরীর পোড়া অবস্থায় আছে। “ফোস্কা নেই নেইকো ঘা” দ্বারা বোঝানো হয়েছে, যদিও শরীর পোড়ার মতো অনুভূত হচ্ছে, তবুও ত্বকে কোনো ফোস্কা বা ক্ষত দেখা যাচ্ছে না।\n৩. উত্তরের সাথে সংযোগ: “পোড়া” এমন একটি অবস্থা যেখানে শরীরের কোনো অংশে আগুনের সংস্পর্শে আসার কারণে দাহ্যতা অনুভূত হয় এবং গা গরম হয়ে ওঠে। অনেক সময় পোড়ার শুরুতে ত্বকে ফোস্কা বা ঘা দেখা যায় না, বরং শুধু জ্বালাপোড়া ও গরম অনুভূত হয়। ধাঁধার বর্ণনা অনুযায়ী, শরীরে আগুনের প্রভাব পড়ছে এবং সেই সাথে বাহ্যিক ক্ষত নেই—এটি “পোড়া” অবস্থার সাথে ভালোভাবে মিলে যায়।\n৪. সিদ্ধান্ত: ধাঁধার রূপক এবং শারীরিক লক্ষণ বিচার করলে দেখা যায়, শরীরে আগুন লাগার অনুভূতি এবং বাহ্যিক ক্ষতির অনুপস্থিতি “পোড়া” অবস্থার বিশেষ বৈশিষ্ট্য। তাই এখানে “পোড়া” উত্তরটি সবচেয়ে যুক্তিসঙ্গত।",
+      "ai_predicted_answer": "পোড়া",
+      "ground_truth_answer": "জ্বর"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 462,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Famous is my name, companion of learning; without me there is no progress in schooling; I stay in the pocket, sometimes in an inkpot or bottle; think and tell me, everyone, what is my name.",
+      "mcq_options": [
+        "Pen",
+        "Chalk",
+        "Pencil",
+        "Ink"
+      ],
+      "cot_text": "1. **Answer identification**  \nThe key words of the riddle are: “companion of learning”, “there is no progress in schooling”, and “in a inkpot or bottle”. These are the main parts of the metaphor and the clue.\n2. **Metaphor explanation**  \n“Companion of learning” points to something that is an indispensable companion in gaining knowledge and education. “There is no progress in schooling” hints that without this companion it is impossible to move forward in writing and education. By saying “in a inkpot or bottle” it is meant that this object is kept in a holder or container.\n3. **Connection with the answer**  \nMatching all these clues completely is **ink**. Ink is the true companion of education, because without it writing or taking notes cannot be done, which is essential for progress in education. Ink is usually kept in a small inkpot, bottle or jar, which points exactly to the metaphor “in a inkpot or bottle” mentioned in the riddle.\n4. **Conclusion**  \nConsidering all the above elements, without ink neither writing nor progress in education is possible, and it is stored in a inkpot or bottle. So the only logical answer to this riddle is **ink**.",
+      "ai_predicted_answer": "Ink",
+      "ground_truth_answer": "Ink"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 480,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "The body is shaped like a half-moon. It cuts plants and trees always, at all times.",
+      "mcq_options": [
+        "Sickle",
+        "Soid",
+        "Axe",
+        "Scissors"
+      ],
+      "cot_text": "1. “The body is shaped like a half-moon” and “it cuts plants and trees always, at all times”—these are the key word-groups of the riddle.\n2. The metaphor first points to the shape: a body curved like a half-moon, that is, a curved long blade; in the second part the nature of the work is revealed—it goes on cutting plants and trees, which is constant, that is, eternal.\n3. The curved body like a half‑moon refers here to the junction of two blades, which creates a half‑moon shape, and such a structure is found only in scissors. Moreover, scissors are regularly used to cut plants, especially to prune garden branches, leaves, or small plants; there is no pair of scissors lacking for that purpose.\n4. For this reason, considering both the half‑moon shape and the use in cutting plants, the most suitable answer is Scissors.",
+      "ai_predicted_answer": "Scissors",
+      "ground_truth_answer": "Sickle"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 516,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "দুই হাত চার পা, নাই লেজ মুড়ো সকলকে কোলে করে কিবা ছেলে বুড়ো।",
+      "mcq_options": [
+        "চেয়ার",
+        "সোফা",
+        "টেবিল",
+        "বিছানা"
+      ],
+      "cot_text": "১. ধাঁধাটিতে উল্লিখিত শব্দগুলো হলো: “দুই হাত চার পা, নাই লেজ মুড়ো সকলকে কোলে করে কিবা ছেলে বুড়ো।”\n২. এখানে “দুই হাত” এবং “চার পা” শব্দগুলো রূপকভাবে বস্তুটির অংশকে বোঝায়, “নাই লেজ” মানে লেজের অনুপস্থিতি, আর “মুড়ো” শব্দটি বস্তুটির গঠন বা বাঁককে নির্দেশ করে। “সকলকে কোলে করে” অংশটি বস্তুটির বসার বা ধরা রাখার ক্ষমতাকে ইঙ্গিত করে, আর “কিবা ছেলে বুড়ো” বলে বোঝায় যে এটি সবার জন্য উপযোগী, বয়স নির্বিশেষে।\n৩. চেয়ার ঠিক এই সব বৈশিষ্ট্যকে মিলে যায়: চেয়ারের সামনে দুটি হাতল বা সাপোর্ট থাকে যেগুলোকে “দুই হাত” বলা যেতে পারে, আর চারটি পা থাকে যেগুলো চেয়ারকে স্থিতিশীল রাখে, লেজ নেই এবং চেয়ারটির পিঠ বা বসার অংশ বাঁকানো বা মুড়ানো থাকে। চেয়ার সকলকে বসার জায়গা দেয়, বয়স বা লিঙ্গ নির্বিশেষে, অর্থাৎ “কিবা ছেলে বুড়ো”।\n৪. সিদ্ধান্ত: উপরোক্ত সব রূপক ও বৈশিষ্ট্যের মিল দেখে স্পষ্ট হয় যে “চেয়ার” এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর, কারণ অন্য কোনো বস্তু এই সব শর্ত পূরণ করতে পারে না।",
+      "ai_predicted_answer": "চেয়ার",
+      "ground_truth_answer": "চেয়ার"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 596,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-4",
+      "riddle_text": "ডালপালা কিছু নাই আছে শুধু পাতা,\nহাত মুখ কিছু নাই পেট ভরা কথা।\nবুদ্ধি তার মোটে নাই আপনার শিরে,\nতবু সে যে বুদ্ধি বিলায় দেখ সকলেরে।",
+      "mcq_options": [
+        "কাগজ",
+        "পত্রিকা",
+        "ম্যাগাজিন",
+        "বই"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধার মূল শব্দগুলো হলো “ডালপালা কিছু নাই আছে শুধু পাতা”, “হাত মুখ কিছু নাই পেট ভরা কথা”, “বুদ্ধি তার মোটে নাই আপনার শিরে, তবু সে যে বুদ্ধি বিলায় দেখ সকলেরে।”\n২. রূপকের ব্যাখ্যা: এখানে “ডালপালা কিছু নাই আছে শুধু পাতা” অংশটি বোঝায় যে, এই বস্তুটিতে গাছের মতো শাখা-প্রশাখা নেই, কিন্তু পাতার উপস্থিতি আছে। “পাতা” শব্দটি এখানে সরাসরি কাগজের পাতাকে নির্দেশ করে, কারণ কাগজের পাতারও ডালপালা নেই, শুধু সমতল পাতার মতো আকার রয়েছে। “হাত মুখ কিছু নাই পেট ভরা কথা” অংশটি বোঝায়, কাগজের নিজের কোনো অঙ্গ নেই, কিন্তু তার ওপর লেখা থাকে অনেক কথা বা তথ্য। “বুদ্ধি তার মোটে নাই আপনার শিরে, তবু সে যে বুদ্ধি বিলায় দেখ সকলেরে” অংশটি বোঝায়, কাগজের নিজস্ব কোনো বুদ্ধি নেই, কিন্তু তার ওপর লেখা তথ্য অন্যদের কাছে ছড়িয়ে দেয়।\n৩. উত্তরের সাথে সংযোগ: কাগজের প্রকৃতি এই রূপকের সাথে ভালোভাবে মিলে যায়। কাগজে কোনো শারীরিক ডালপালা বা অঙ্গ নেই, শুধু পাতার মতো আকৃতি রয়েছে। তার নিজের কোনো জ্ঞান বা বুদ্ধি নেই, কিন্তু তার গায়ে লেখা তথ্য মানুষের কাছে পৌঁছে যায়। এভাবে, কাগজ “পেট ভরা কথা” ধারণ করে রাখে এবং সেই তথ্য অন্যদের কাছে পৌঁছাতে সাহায্য করে।\n৪. সিদ্ধান্ত: উপরোক্ত বৈশিষ্ট্যগুলোর ভিত্তিতে দেখা যায়, ধাঁধার বর্ণনার সাথে সবচেয়ে বেশি মেলে কাগজের বৈশিষ্ট্য। তাই এখানে যথাযথ উত্তর কাগজ।",
+      "ai_predicted_answer": "কাগজ",
+      "ground_truth_answer": "বই"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 633,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Such a bird, and yet it cannot fly; who can tell its name?",
+      "mcq_options": [
+        "Ostrich",
+        "Penguin",
+        "Crow",
+        "Owl"
+      ],
+      "cot_text": "1. **Answer identification**  \n   The key sentence of the riddle is “Such a bird, and yet it cannot fly; who can tell its name?” – here the words ‘bird’, ‘cannot fly’ and ‘can tell its name’ are the main hints.\n2. **Metaphor explanation**  \n   The metaphor rejects the natural characteristic of the word ‘bird’—the ability to fly. So it points to an animal that is classified as a bird yet is unable to fly.\n3. **Connection with the answer**  \n   The ostrich is the largest bird in the world, whose wings are extremely small and which cannot fly. Yet it is included in the bird class. In the part of the riddle ‘who can tell its name?’ it is meant that the name is easy to pronounce, and the name ‘ostrich’ is exactly that—it can be said directly and easily.\n4. **Conclusion**  \n   All the conditions of the riddle—being a bird, unable to fly, easy to name—are fulfilled only by the ostrich. Any other bird can fly or is not unable to be named, so the ostrich is the only logical answer.",
+      "ai_predicted_answer": "Ostrich",
+      "ground_truth_answer": "Ostrich"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 678,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Peacock’s feather, elephant’s tusk—whoever cannot say it is of donkey stock.",
+      "mcq_options": [
+        "Radish",
+        "Carrot",
+        "Onion",
+        "Pumpkin"
+      ],
+      "cot_text": "1. **Answer identification**\nThe two main metaphors of the riddle are—“peacock’s feather” and “elephant’s tusk”. The last part is essentially a rhythmic challenge, spoken to test the intelligence of the respondent.\n2. Metaphor explanation. Here “peacock feather” refers to the spread and green shape of a plant’s leaves, which is seen in many vegetables. “Elephant tooth” refers to the vegetable’s long, strong and orange‑colored root part that lies underground, which looks much like the shape of an elephant’s tooth and is smooth.\n3. Connection to the answer. The carrot’s green leaves spread upward, resembling a peacock feather. Moreover, the carrot’s root part lies underground and is elongated, strong and smooth, which can be compared to the shape of an elephant’s tooth. These two characteristics are clearly seen together in the carrot.\n4. Conclusion. Among vegetables, the carrot’s leaf spreading structure and the shape of its underground root part match the riddle’s metaphor the best. Therefore the most suitable answer here is Carrot.",
+      "ai_predicted_answer": "Carrot",
+      "ground_truth_answer": "Radish"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 706,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "জলছে তবু পুড়ছে না কোন সে প্রাণী বলো তা।",
+      "mcq_options": [
+        "জেলিফিশ",
+        "গ্লোওয়ার্ম",
+        "মাছ",
+        "জোনাকী"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধার মূল শব্দগুলো হল “জলছে তবু পুড়ছে না কোন সে প্রাণী বলো তা” — এখানে “জলছে” এবং “পুড়ছে না” শব্দদ্বয়ই রূপক হিসেবে ব্যবহৃত।\n২. রূপকের ব্যাখ্যা: “জলছে” শব্দটি প্রকৃত শিখা বা আগুনের পরিবর্তে আলোর দীপ্তি বোঝায়, আর “পুড়ছে না” মানে শারীরিক দহন বা ক্ষয় হচ্ছে না; অর্থাৎ, এমন একটি প্রাণী যা আলো ছড়ায় কিন্তু শারীরিকভাবে পুড়ে যায় না।\n৩. উত্তরের সাথে সংযোগ: জোনাকী (ফ্লাইং ল্যাম্প) অন্ধকারে মৃদু আলো ছড়ায়, তার শরীরে শিখা নেই এবং এটি জ্বলে কিন্তু পুড়ে যায় না; এটাই ধাঁধার “জলছে তবু পুড়ছে না” রূপকের সাথে পুরোপুরি মিলে যায়।\n৪. সিদ্ধান্ত: অন্য কোনো প্রাণী বা বস্তু নেই যা শারীরিকভাবে আগুন ছাড়া আলো ছড়ায় এবং পুড়ে না, তাই যুক্তিসঙ্গতভাবে “জোনাকী” এই ধাঁধার একমাত্র সঠিক উত্তর।",
+      "ai_predicted_answer": "জোনাকী",
+      "ground_truth_answer": "জোনাকী"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 716,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "বলেনতো দেখি-\nযেখানেতে জন্ম সেখানে নয় বাস।\nভ্রমণতে আসলে পরে ঘটায় সর্বনাশ।\nএইটা কি?",
+      "mcq_options": [
+        "বৃষ্টি",
+        "আগুন",
+        "বজ্রপাত",
+        "বাতাস"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   “বলেনতো দেখি‑ যেখানেতে জন্ম সেখানে নয় বাস। ভ্রমণতে আসলে পরে ঘটায় সর্বনাশ।”\n২. **রূপকের ব্যাখ্যা**  \n   রূপকটি এমন একটি সত্তার কথা বলে যা তার জন্মস্থানে থাকে না, বরং চলাচলের মাধ্যমে অন্যত্র পৌঁছে ধ্বংস বা বিপর্যয় ঘটায়। এখানে “জন্ম” বলতে জন্মের স্থানকে, “বাস” বলতে স্থায়ী অবস্থানকে, আর “ভ্রমণ” বলতে চলাচলকে বোঝানো হয়েছে।\n৩. **উত্তরের সাথে সংযোগ**  \n   “বজ্রপাত” এই রূপকের সাথে ভালোভাবে মিলে যায়। বজ্রপাতের উৎপত্তি হয় মেঘের মধ্যে, অর্থাৎ তার “জন্ম” মেঘে, কিন্তু সে সেখানে স্থায়ীভাবে অবস্থান করে না। বজ্রপাত মেঘ থেকে ছুটে এসে পৃথিবীর কোনো নির্দিষ্ট স্থানে আঘাত হানে, অর্থাৎ সে “ভ্রমণ” করে। এই ভ্রমণের ফলেই ঘটে সর্বনাশ—বজ্রপাত কোনো স্থানে পড়লে তা ক্ষয়ক্ষতি, অগ্নিকাণ্ড কিংবা প্রাণহানির কারণ হয়। তাই “ভ্রমণতে” অংশটি বজ্রপাতের আচরণের সাথে সরাসরি সম্পর্কিত: মেঘ থেকে নেমে এসে পৃথিবীতে আঘাত হানাই তার ধ্বংসের রূপ।\n৪. **সিদ্ধান্ত**  \n   এই ব্যাখ্যার আলোকে, ধাঁধার রূপক ও উপমার সাথে সবচেয়ে বেশি সামঞ্জস্যপূর্ণ উত্তর “বজ্রপাত”, কারণ এটি জন্মের স্থানে না থেকে ভ্রমণ করে এসে সরাসরি সর্বনাশ ঘটায়। অন্য কোনো বিকল্প উপাদান একইভাবে জন্মস্থানে না থেকে চলাচলের মাধ্যমে এমন তাৎক্ষণিক ও দৃশ্যমান ধ্বংসের কারণ হয় না।",
+      "ai_predicted_answer": "বজ্রপাত",
+      "ground_truth_answer": "বাতাস"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 749,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "A gigantic man am I, yet I am not human; a hunter with a bow in hand, I dwell in outer space.",
+      "mcq_options": [
+        "Arjuna",
+        "Jupiter",
+        "Deity",
+        "Kalpurush (Orion)"
+      ],
+      "cot_text": "1. **Answer identification** – The key words of the riddle are ‘gigantic man’, ‘yet I am not human’, ‘hunter with a bow in hand’, ‘I dwell in outer space’.\n2. **Metaphor explanation** – By ‘gigantic man’ the sky or outer space is compared to a vast entity like a human; the metaphor ‘hunter with a bow in hand’ hints at drawing in or hunting the flying stars or planets in the sky like the arrow of a bow; ‘I dwell in outer space’ means that this entity is located outside the earth, in the sky or outer space.\n3. **Connection with the answer** – ‘Kalpurush’ is the Orion constellation — a gigantic hunter figure in the sky, not a human, with a bow in his hand; it dwells in outer space; therefore all these characteristics—‘gigantic man’, ‘hunter with a bow in hand’, ‘I dwell in outer space’—match Kalpurush (Orion).\n4. **Conclusion** – The metaphor and description of the riddle fully reflect only the characteristics of Kalpurush; no other entity can satisfy all these conditions, so ‘Kalpurush (Orion)’ is the one and only logical answer.",
+      "ai_predicted_answer": "Kalpurush (Orion)",
+      "ground_truth_answer": "Kalpurush (Orion)"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 763,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "I have holes on my top and bottom, on my left and right, and in the middle. But I can still hold water. What am I?",
+      "mcq_options": [
+        "Cloth",
+        "Net",
+        "Paper",
+        "Sponge"
+      ],
+      "cot_text": "1. Quoting the main statement of the riddle, we get: “**I have holes on my top and bottom, on my left and right, and in the middle. But I can still hold water.**” These sentences are the essence of the riddle, in which the word ‘hole’ is important.\n2. Here the word “leak” is taken to mean the gaps or pores in the weave of cloth, where threads and openings exist on the top, bottom, left, right and middle of the fabric. These gaps are structural features of the cloth, spread throughout every part of it and are regarded as leaks.\n3. Despite these gaps or pores, the cloth absorbs water and holds it. In particular, cotton or other absorbent fabrics readily draw water and retain it for a period of time. Thus, even with gaps on all sides the cloth can retain water.\n4. Comparatively, having gaps or leaks on every side while still retaining water matches the cloth more closely. Therefore, the correct answer is: Cloth.",
+      "ai_predicted_answer": "Cloth",
+      "ground_truth_answer": "Sponge"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 797,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "কি টানলে ছোট হয়।",
+      "mcq_options": [
+        "টেপ",
+        "পাইপ",
+        "ধোঁয়া",
+        "সিগারেট"
+      ],
+      "cot_text": "১. 'কি টানলে ছোট হয়' – এখানে মূল শব্দগুলো হলো “টানলে” এবং “ছোট হয়”; এগুলোই ধাঁধার সংকেত।\n২. রূপক ব্যাখ্যা: “টানলে ছোট হয়” রূপকটি এমন একটি পরিস্থিতি নির্দেশ করে যেখানে কোনো বস্তু টানা হলে তার আকার বা পরিমাণ কমে যায়। টানার ক্রিয়া এবং আকারের হ্রাসকে তুলনা করে, রূপকটি কোনো বস্তু বা প্রক্রিয়ার ক্ষুদ্রতাকে প্রকাশ করে।\n৩. উত্তরের সাথে সংযোগ: সিগারেট টানার সময় ধোঁয়া বের হয় এবং সিগারেটের অবশিষ্ট অংশ ধীরে ধীরে ছোট হয়ে যায়। টানার সাথে সাথে সিগারেটের দৈর্ঘ্য কমে, ফলে শারীরিকভাবে “ছোট” হয়। এই বৈশিষ্ট্যই “টানলে ছোট হয়” রূপকের সাথে পুরোপুরি মিলে যায়।\n৪. সিদ্ধান্ত: রূপকে বর্ণিত টানার ফলে আকার কমে যাওয়ার বৈশিষ্ট্যকে সবচেয়ে সঠিকভাবে পূরণ করে এমন বস্তু হলো সিগারেট। অন্য কোনো বস্তু টানার সাথে সাথে শারীরিকভাবে ছোট হয় না, তাই সিগারেটই যুক্তিসংগত একমাত্র উত্তর।",
+      "ai_predicted_answer": "সিগারেট",
+      "ground_truth_answer": "সিগারেট"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 804,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "কোন জিনিস বাচ্চা থেকেই বুড়ো।",
+      "mcq_options": [
+        "বুড়ো নখ",
+        "বুড়ো হাত",
+        "বুড়ো পা",
+        "বুড়ো আঙ্গুল"
+      ],
+      "cot_text": "১. 'কোন জিনিস বাচ্চা থেকেই বুড়ো।' – এখানে 'বাচ্চা' শব্দটি মানুষের বা প্রাণীর শৈশবকে নির্দেশ করে, আর 'বুড়ো' শব্দটি বয়সের অগ্রগতিকে চিহ্নিত করে।\n২. এখানে “বাচ্চা” বলতে বোঝানো হয়েছে এমন কিছু, যা জন্মের পর থেকেই বৃদ্ধির পরিবর্তে পুরনো বা পরিণত অবস্থায় থাকে। নখের ক্ষেত্রে দেখা যায়, শিশু অবস্থায়ও নখের গঠন ও প্রকৃতি বড়দের মতোই থাকে এবং তা নিয়মিত কাটা লাগে। নখ জন্মের পর থেকেই তার পূর্ণতা ধরে রাখে এবং ছোটবেলা থেকেই নখ বাড়তে থাকে, তাই একে “বাচ্চা থেকেই বুড়ো” বলা যায়।\n৩. এই ব্যাখ্যার আলোকে, “বুড়ো নখ”-ই সবচেয়ে যুক্তিযুক্ত উত্তর, কারণ নখ জন্ম থেকেই পরিণত ও বৃদ্ধির লক্ষণ প্রকাশ করে এবং শৈশব থেকেই এর বৃদ্ধির ধারা অব্যাহত থাকে।\n৪. সিদ্ধান্ত: তাই ধাঁধার সাথে সবচেয়ে বেশি মিলে যায় “বুড়ো নখ”।",
+      "ai_predicted_answer": "বুড়ো নখ",
+      "ground_truth_answer": "বুড়ো আঙ্গুল"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 815,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "In winter it has no value, in summer it gains value.",
+      "mcq_options": [
+        "Sunshine",
+        "Cool breeze",
+        "Wind",
+        "Fan"
+      ],
+      "cot_text": "1. ‘In winter it has no value, in summer it gains value.’ – this line is the main statement of the riddle, in which the word ‘value’ denotes something needed or valuable.\n2. Metaphor explanation: Here the metaphor describes an object that is unnecessary or worthless (has no value) in the cold of winter, but extremely needed and valuable (gains value) in the heat of summer.\n3. Connection with the answer: In winter, because it is cold, the ‘fan’ is not used, since there is no need for air movement, and so it is unnecessary. In summer the fan spreads air and brings coolness, and so it becomes indispensable. This very characteristic matches the metaphor of the riddle perfectly.\n4. Conclusion: As an object unnecessary in winter and indispensable in summer, the fan is the only logical answer; no other object can satisfy these two characteristics together, so the fan is the correct solution.",
+      "ai_predicted_answer": "Fan",
+      "ground_truth_answer": "Fan"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 850,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-4",
+      "riddle_text": "Which bird has no eggs, tell me. If you cannot say it, I will understand there is no wit in your head.",
+      "mcq_options": [
+        "Crow",
+        "Penguin",
+        "Sparrow",
+        "Bat"
+      ],
+      "cot_text": "1. ‘Which bird has no eggs, tell me. If you cannot say it, I will understand there is no wit in your head’ – here the word ‘bird’ is used in the general sense, and the question is about a bird that has no eggs.\n2. Here the word “bird” is used to refer to animals that are commonly thought to lay eggs; many believe all birds lay eggs, but in reality some birds cannot lay eggs for various reasons or their eggs are not found.\n3. In the case of the Crow it is observed that they live in urban areas and their eggs are very hard to find; often no one sees a Crow’s egg, so the common saying is that the Crow has no eggs.\n4. Therefore the answer to this riddle is most reasonably the Crow, because Crow eggs are not seen and this special characteristic matches the riddle question best.",
+      "ai_predicted_answer": "Crow",
+      "ground_truth_answer": "Bat"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 923,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "এক হাত গাছটা ফুল ধরে পাঁচটা।",
+      "mcq_options": [
+        "পাঁচটি নখ",
+        "একটি পাতা",
+        "একটি শাখা",
+        "হাতের আঙুল"
+      ],
+      "cot_text": "১. “এক হাত গাছটা ফুল ধরে পাঁচটা।”\n২. এখানে “হাত”‑কে একটি গাছের মতো উপস্থাপন করা হয়েছে, আর “ফুল”‑কে হাতের আঙুলের দ্বারা ধরা বস্তু হিসেবে ধরা হয়েছে। গাছের শাখা শাখা করে ফুল ধরে রাখার চিত্রটি আঙুলের আকার ও কাজকে প্রতিফলিত করে।\n৩. উত্তর “হাতের আঙুল”‑এর বৈশিষ্ট্যগুলির সাথে পুরোপুরি মিলে যায়: হাতের পাঁচটি আঙুলই আলাদাভাবে একটি করে বস্তু (ফুল) ধরতে পারে, আর হাতকে গাছের মূল ও শাখা হিসেবে ভাবা যায়। তাই “পাঁচটা” শব্দটি ঠিক পাঁচটি আঙুলকে নির্দেশ করে।\n৪. সিদ্ধান্ত: এই রূপকটি কেবলমাত্র হাতের পাঁচটি আঙুলের ক্ষেত্রেই যৌক্তিকভাবে প্রযোজ্য, অন্য কোনো বস্তু বা গঠন একইভাবে পাঁচটি অংশে ফুল ধরে রাখতে পারে না। সুতরাং “হাতের আঙুল” হলো একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "হাতের আঙুল",
+      "ground_truth_answer": "হাতের আঙুল"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 927,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "ছোট ছোট পোলাপান দুধ ভাত খায় বড় বড় গাছের সাথে যুদ্ধ করতে চায়",
+      "mcq_options": [
+        "বাঁশ",
+        "মুরগি",
+        "কাঠের ছড়ি",
+        "কুঁড়াল"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধার মূল শব্দগুলো হলো “ছোট ছোট পোলাপান”, “দুধ ভাত খায়” এবং “বড় বড় গাছের সাথে যুদ্ধ করতে চায়” – এগুলোই ধাঁধার সংকেত।\n২. রূপকের ব্যাখ্যা: এখানে “ছোট ছোট পোলাপান” বলতে বোঝানো হয়েছে সদ্য ফোটানো বা অল্প বয়সী প্রাণী, যাদেরকে দুধ-ভাত খাইয়ে বড় করা হয়। এই অংশটি ঘরোয়া পরিবেশে বেড়ে ওঠা ছোট প্রাণীর চিত্র তুলে ধরে, যারা পুষ্টি পেয়ে শক্তি অর্জন করে। “বড় বড় গাছের সাথে যুদ্ধ করতে চায়” অর্থাৎ তারা নিজেকে সাহসী ও শক্তিশালী মনে করে, বড় কিছুর মুখোমুখি হওয়ার মানসিকতা রাখে।\n৩. উত্তরের সাথে সংযোগ: “মুরগি” ছোটবেলায় দুধ-ভাত বা নরম খাবার খায় এবং দ্রুত বেড়ে ওঠে। মুরগির ছানা ছোট থেকে সাহসী হয়ে ওঠে, অনেক সময় আশপাশের বড় বস্তু বা প্রাণীর সাথে লড়াই করতে যায়, যেমন—বড় গাছের গোড়ায় ঠোকরানো বা সেখানে খোঁজাখুঁজি করা। এই আচরণ ধাঁধার রূপকের সাথে মিলে যায়, কারণ ছোট মুরগি নিজের চেয়ে বড় কিছুর সাথে সংঘাতে জড়াতে দ্বিধা করে না।\n৪. সিদ্ধান্ত: ধাঁধার “ছোট পোলাপান”, “দুধ ভাত খাওয়া”, এবং “বড় গাছের সাথে যুদ্ধ” — এই তিনটি দিক “মুরগি”-এর বৈশিষ্ট্যের সাথে সবচেয়ে বেশি মেলে, তাই এটি এই ধাঁধার যথার্থ উত্তর।",
+      "ai_predicted_answer": "মুরগি",
+      "ground_truth_answer": "কুঁড়াল"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 929,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "If rubbed, hope is fulfilled; otherwise, all is despair.",
+      "mcq_options": [
+        "Cigarette",
+        "Lighter",
+        "Matchbox",
+        "Matchstick"
+      ],
+      "cot_text": "1. ‘If rubbed, hope is fulfilled; otherwise, all is despair’ – here the two parts ‘if rubbed, it is fulfilled’ and ‘hope; otherwise, all is despair’ are the main clues.\n2. The metaphor ‘if rubbed, it is fulfilled’ points to an object that lights up or ignites through rubbing; and ‘hope; otherwise, all is despair’ is meant to say that if the light of hope of that glow does not light up, the whole situation is filled with despair and darkness.\n3. “Matchstick” matches this metaphor perfectly. When a matchstick is rubbed and lit, it spreads a little light, which brings hope in the darkness. If it is not rubbed or the fire does not light, the whole situation sinks back into darkness, that is, despair. The matchstick’s tiny fuel flame and the rise of light through rubbing make this metaphor true.\n4. Conclusion: In this riddle the relation between rubbing and light/hope is the key, and no object other than the matchstick lights so easily on being rubbed and brings despair when it does not light. So “matchstick” is the only logical answer.",
+      "ai_predicted_answer": "Matchstick",
+      "ground_truth_answer": "Matchstick"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 941,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Round-bodied in appearance. Inside its belly hands and feet move, but it does not move. Say what this is.",
+      "mcq_options": [
+        "Blender",
+        "Planet",
+        "Circus ring",
+        "Clock"
+      ],
+      "cot_text": "1. **Answer identification**  \n   The main lines of the riddle are quoted:  \n   *“Round-bodied in appearance. Inside its belly hands and feet move, but it does not move.”*\n2. Explanation of the metaphor – “Round-bodied in appearance” means a round‑shaped object that appears circular or tubular. “Inside its belly hands and feet move” means that inside the object some parts rotate or move, like the blades of a blender rotate. “but it does not move” means the object itself remains stationary while only the internal parts move.\n3. Connection with the answer – The blender matches this metaphor well: the blender is usually seen as a round or tubular container. Inside it the blades or cutters rotate, which corresponds to the “hands and feet move inside” part. The blender stays in a fixed position; only the internal blades move, the outer part does not move.\n4. Conclusion – The above characteristics align most closely with a blender. Therefore the logical answer to the riddle is Blender.",
+      "ai_predicted_answer": "Blender",
+      "ground_truth_answer": "Clock"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 1017,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "চাই নাকো তবু খাই বেশি খেলে মারা যাই।",
+      "mcq_options": [
+        "চড়",
+        "পানি",
+        "অগ্নি",
+        "পিটুনি"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ‘চাই নাকো তবু খাই বেশি খেলে মারা যাই।’ এই বাক্যটিতে ‘খাই’ শব্দটি রূপকভাবে ব্যবহৃত হয়েছে।\n২. **রূপকের ব্যাখ্যা**  \n   এখানে ‘খাই’ সাধারণ অর্থে ‘খাওয়া’ নয়, বরং ‘গ্রহণ করা’ বা ‘সহ্য করা’ অর্থে নেওয়া হয়েছে। অর্থাৎ, কিছু এমন যা চাওয়া হয় না কিন্তু তবু গ্রহণ করতে হয়; অতিরিক্ত হলে ক্ষতিকর হয়ে ওঠে।\n৩. **উত্তরের সাথে সংযোগ**  \n   ‘পিটুনি’ হলো একটি আঘাত বা ধাক্কা, যা কেউ চায় না কিন্তু তা গ্রহণ করতে হয়। যদি বেশি পিটুনি নেয়া হয়, শরীর দুর্বল হয়ে মৃত্যু হতে পারে। তাই ‘পিটুনি’ ঠিকই সেই রূপককে মিলে যায় যেখানে ‘খাই’ মানে ‘গ্রহণ করা’ এবং ‘বেশি খেলে মারা যাই’ মানে ‘অতিরিক্ত আঘাত মৃত্যু ঘটায়’।\n৪. **সিদ্ধান্ত**  \n   ‘চাই নাকো তবু খাই বেশি খেলে মারা যাই’ – এই শর্তগুলিকে পূরণ করে এমন একমাত্র যুক্তিসঙ্গত বস্তু হলো ‘পিটুনি’। অন্য কোনো বস্তু বা ঘটনায় ‘খাই’ শব্দের দ্বৈত অর্থ এবং ‘বেশি খেলে মারা যাই’ শর্ত উভয়ই সঙ্গতিপূর্ণ হয় না, তাই পিটুনি হল একমাত্র সঠিক উত্তর।",
+      "ai_predicted_answer": "পিটুনি",
+      "ground_truth_answer": "পিটুনি"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 1137,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "ঘরের মধ্যে ঘর নাচে কনে-বরা।",
+      "mcq_options": [
+        "মশারদানি",
+        "জাল",
+        "পর্দা",
+        "মশারি"
+      ],
+      "cot_text": "১. ‘ঘরের মধ্যে ঘর নাচে কনে‑বরা’ – এই লাইনটিতে ‘ঘর’ শব্দটি দুবার এসেছে, প্রথমটি ‘ঘরের মধ্যে’ অর্থে পুরো ঘরের ভিতরে, আর দ্বিতীয়টি ‘ঘর’ অর্থে ছোট ছোট ঘর‑সদৃশ গঠন।\n২. এখানে ‘ঘর’ শব্দটি বোঝায় এক ধরনের গঠিত কাঠামো, যেখানে অনেকগুলো ছোট ছোট ফাঁক বা ছিদ্র একত্রে মিলে একটি বৃহৎ জাল তৈরি করে। ‘নাচে কনে‑বরা’ অংশটি বোঝায়, এই ছোট ছোট ছিদ্রগুলো বাতাসের ছোঁয়ায় দুলে ওঠে এবং একসাথে নড়াচড়া করে যেন কোনো উৎসবমুখর পরিবেশে আনন্দে ভাসছে। এই রূপকটি এমন একটি বস্তুকে নির্দেশ করে, যার গঠন অনেক ছোট ছোট ছিদ্র বা খোপ নিয়ে গঠিত এবং যা বাতাসে দুলতে পারে।\n৩. ‘জাল’ এই বর্ণনার সাথে পুরোপুরি মিলে যায়: জাল হচ্ছে অসংখ্য ছোট ছিদ্র বা খোপ নিয়ে তৈরি এক ধরনের বোনা বস্তু, যা সহজেই বাতাসে নড়াচড়া করতে পারে। ঘরের ভেতরে জাল থাকলে, সেটি বাতাসের হালকা স্পর্শে দুলে ওঠে এবং তার প্রতিটি ছিদ্র একসাথে নড়ে, ঠিক যেন অনেকগুলো ছোট ঘর একত্রে নাচছে। কনে‑বরা শব্দবন্ধটি এই ছন্দময় নড়াচড়ার রূপক হিসেবে ব্যবহৃত হয়েছে।\n৪. সবদিক বিবেচনায়, ঘরের ভেতরে থাকা, ছোট ছোট ঘরের মতো ছিদ্র, বাতাসে নড়াচড়া, এবং ছন্দময় দোল — এই বৈশিষ্ট্যগুলো সবচেয়ে বেশি ‘জাল’-এর সাথে মেলে। তাই যুক্তিসঙ্গতভাবে এখানে উত্তর হবে: জাল।",
+      "ai_predicted_answer": "জাল",
+      "ground_truth_answer": "মশারি"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 1150,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "It lives in a house of stone, it dies as soon as it goes down into the sea?",
+      "mcq_options": [
+        "Soil",
+        "Lime",
+        "Gold",
+        "Salt"
+      ],
+      "cot_text": "1. Answer identification – the core words of the riddle are “Lives in a stone house, dies when it goes into the sea?”\n2. Explanation of the metaphor – “Lives in a stone house” refers to “stone” as the hard mineral found inside the earth’s crust. “Dies when it goes into the sea” means that when it enters the sea the object disappears or breaks apart, as if it becomes “dead.”\n3. Connection to the answer – The location of the substance: massive deposits of rock salt exist in the earth’s crust, which is described as “living in a stone house.” The death upon entering the sea: when rock salt falls into seawater it dissolves and merges with the salty water; it no longer remains solid, therefore it “dies” according to the metaphor.\n4. Conclusion – These two characteristics – existing as a solid in the earth’s rocks and melting away when placed in the sea – are satisfied only by salt. No other object or creature meets both conditions, so the only logical answer is salt.",
+      "ai_predicted_answer": "Salt",
+      "ground_truth_answer": "Salt"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 1177,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "A single citron tree; when tapped, juice.",
+      "mcq_options": [
+        "Nose",
+        "Mouth",
+        "Forehead",
+        "Eye"
+      ],
+      "cot_text": "1. ‘A single citron tree; when tapped, juice’ – here the words ‘single’, ‘citron tree’, ‘tapped’ and ‘juice’ are the main clues.\n2. Here “juice” refers to a fluid that comes out easily when any organ is poked or pressed. The nose is an organ where a slight touch or poke often causes water or fluid (nasal discharge) to emerge. Especially when one is cold or during a sneeze, fluid coming out of the nose is very normal, which matches this “juice” metaphor.\n3. This characteristic of the nose aligns well with the riddle’s description: the nose does not bear fruit, but when poked or pressed, nasal discharge emerges. In this context the nose is called a “citron tree” metaphorically because, although it bears no fruit, it produces juice (fluid). This comparison matches the riddle’s metaphor in practice.\n4. Therefore, when the riddle’s metaphor and characteristics are considered, the answer Nose is the most logical, because the nose’s property of producing juice when poked or pressed matches the riddle best.",
+      "ai_predicted_answer": "Nose",
+      "ground_truth_answer": "Eye"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 1182,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "দিনে তিনবার রঙ বদলায়?",
+      "mcq_options": [
+        "মেঘ",
+        "আকাশের রং",
+        "সিগন্যাল লাইট",
+        "ট্রাফিক লাইট"
+      ],
+      "cot_text": "১. 'দিনে তিনবার রঙ বদলায়?' এখানে ‘রঙ বদলায়’ এবং ‘তিনবার’ শব্দগুলোই ধাঁধার মূল সূত্র।\n২. রূপকটি ‘রঙ বদলায়’—এটি একটি পরিবর্তনশীল রঙের চিত্র তুলে ধরে, যা নির্দিষ্ট সময়ে বারবার পরিবর্তিত হয়।\n৩. ‘ট্রাফিক লাইট’ ঠিক এই বৈশিষ্ট্যকে মূর্ত করে: প্রতিটি লাইট সিগন্যাল সাইকেলে লাল → হলুদ → সবুজ—এই তিনটি রঙ ক্রমান্বয়ে বদলে যায়, এবং সেগুলো দিনে বহুবার পুনরাবৃত্তি হয়।\n৪. সিদ্ধান্ত: যেহেতু ‘রঙ বদলায়’ এবং ‘তিনবার’ একসাথে কেবল একটি সুস্পষ্ট সিস্টেম—ট্রাফিক লাইট—এর সাথে মিলে যায়, তাই এটাই যুক্তিসংগত ও একমাত্র উপযুক্ত উত্তর।",
+      "ai_predicted_answer": "ট্রাফিক লাইট",
+      "ground_truth_answer": "ট্রাফিক লাইট"
+    },
+    {
+      "form_id": "Form_C",
+      "item_id": 1216,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "এমন কী আছে, কোন মালিককে যা তার বাগানে চারা, বীজ বা সার ফেলার আগেই ফেলতে হয়?",
+      "mcq_options": [
+        "পাথর",
+        "বালি",
+        "ঘাস",
+        "মাটি"
+      ],
+      "cot_text": "১. ‘মালিক’, ‘চারা’, ‘বীজ’, ‘সার’, ‘ফেলার আগেই ফেলতে হয়’ – এই শব্দগুলোই ধাঁধার মূল ভাব প্রকাশ করে, যেটি জিজ্ঞেস করছে কোন বস্তু মালিককে বাগানে চারা বা বীজ বা সার ফেলার আগে থেকেই রাখতে হয়।\n২. রূপক ব্যাখ্যা: এখানে ‘সার’ শব্দটি এমনভাবে ব্যাখ্যা করা হয়েছে যেন এটি বাগানের জন্য প্রাকৃতিকভাবে গজিয়ে ওঠা উপাদান, অর্থাৎ ‘ঘাস’-এর সমার্থক হিসেবে ব্যবহৃত হয়েছে। অনেক সময় বাগানে চারা, বীজ বা অন্য কিছু ফেলার আগে জমিতে আগের থেকে থাকা ঘাস পরিষ্কার করতে হয়, কারণ ঘাস মাটির পুষ্টি শোষণ করে এবং নতুন গাছের বৃদ্ধিতে বাধা দেয়।\n৩. উত্তরের সাথে সংযোগ: ঘাসের উপস্থিতি বাগানের প্রস্তুতিতে একটি গুরুত্বপূর্ণ বিষয়, কারণ নতুন চারা বা বীজ ফেলার আগে জমি থেকে ঘাস তুলে ফেলতে হয়। ঘাস জমিতে থাকলে তা চারা ও বীজের বৃদ্ধিতে সমস্যা তৈরি করে, তাই বাগান প্রস্তুতির প্রথম ধাপ হিসেবে ঘাস ফেলে পরিষ্কার করা হয়।\n৪. সিদ্ধান্ত: অন্যান্য বিকল্পের তুলনায়, চারা, বীজ বা সার ফেলার আগে ঘাস ফেলে দেওয়াই সবচেয়ে বেশি মেলে, কারণ এটি বাগান প্রস্তুতির একেবারে শুরুতেই করতে হয়। তাই ধাঁধার উত্তর ‘ঘাস’।",
+      "ai_predicted_answer": "ঘাস",
+      "ground_truth_answer": "মাটি"
+    }
+  ],
+  "Form_D": [
+    {
+      "form_id": "Form_D",
+      "item_id": 40,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "What kind of thing is there, brother, that is good to have of one’s own, but when received from others, the face turns black?",
+      "mcq_options": [
+        "Face",
+        "Mark",
+        "Cheek",
+        "Shame"
+      ],
+      "cot_text": "1. Quoting the key words of the riddle, we see: “What kind of thing is there, brother, that is good to have of one’s own, but when received from others, the face turns black?”\n2. Here the phrase “the face becomes black” is taken in its literal sense: a stain on the face appears black. Usually, if a stain is on one’s own face, no one worries about it, but when a stain comes from another person or someone puts a stain on the face, the facial beauty is ruined and the face looks black.\n3. A stain is something that is better not to be on one’s own face, because a clean face has beauty; but when a stain falls on the face, especially a stain that comes from another, the natural appearance of the face is destroyed and the face begins to look black or dull.\n4. According to this reasoning, the answer that fits both parts of the riddle best is Mark.",
+      "ai_predicted_answer": "Mark",
+      "ground_truth_answer": "Shame"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 69,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "মাটির বুকে জন্ম তার পরে সাদা শাড়ি, তরকারির স্বাদ বাড়ানো তার বাহাদুরি।",
+      "mcq_options": [
+        "রসুন",
+        "পেঁয়াজ",
+        "মরিচ",
+        "বাঁধাকপি"
+      ],
+      "cot_text": "১. ধাঁধার মূল শব্দগুলো হলো “মাটির বুকে জন্ম”, “সাদা শাড়ি” এবং “তরকারির স্বাদ বাড়ানো তার বাহাদুরি।”\n২. “মাটির বুকে জন্ম” রূপকটি বোঝায় যে বস্তুটি মাটির নিচে জন্মায়; “সাদা শাড়ি” বলতে সেই বস্তুটির সাদা, পাতলা চামড়া বা আবরণকে ধরা হয়েছে; আর “বাহাদুরি” এখানে স্বাদে জোরালো ও সাহসী অবদানকে নির্দেশ করে, যা তরকারিতে গন্ধ ও স্বাদকে তীব্র করে তোলে।\n৩. রসুন ঠিক এই তিনটি বৈশিষ্ট্যই বহন করে: এটি মাটির নিচে গজায়, প্রতিটি কোষের চারপাশে সাদা, খোসা-সদৃশ ত্বক থাকে যা শাড়ির মতো দেখা যায়, এবং রান্নায় ব্যবহার করলে তা তীব্র, তীক্ষ্ণ স্বাদ এনে দেয় যা পুরো তরকারির স্বাদকে বাড়িয়ে তোলে।\n৪. সিদ্ধান্ত: ধাঁধায় উল্লিখিত তিনটি সংকেতের সাথে রসুনই একমাত্র বস্তু মিলে যায়; অন্য কোনো সবজি বা মসলা মাটিতে জন্মায় না, সাদা শাড়ি নেই, বা স্বাদে এতটা সাহসী ও উজ্জ্বল অবদান রাখে না। তাই রসুনই যুক্তিসংগত ও একমাত্র সঠিক উত্তর।",
+      "ai_predicted_answer": "রসুন",
+      "ground_truth_answer": "রসুন"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 151,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "উপরে চাপ নিচে চাপ, মধ্যেখানে চেরোয় সাপ।",
+      "mcq_options": [
+        "মুখ",
+        "চোয়াল",
+        "দাঁত",
+        "জিহ্বা"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধাটির মূল শব্দগুলো হল “উপরে চাপ”, “নিচে চাপ” এবং “মধ্যঙ্গে চেরোয় সাপ”।\n২. রূপকের ব্যাখ্যা: এখানে “চাপ” শব্দটি বোঝায় উপরের ও নিচের অংশের মধ্যে শক্তি বা বলের সংযোগ, যা দাঁতের ক্ষেত্রে স্পষ্টভাবে দেখা যায়। দাঁত উপরের চোয়াল ও নিচের চোয়ালের মাঝে স্থাপন করা থাকে এবং চিবানোর সময় উপরে ও নিচে চাপ অনুভব করে। “মধ্যেখানে চেরোয় সাপ” অংশটি দাঁতের সারির মাঝখানে সাপের মতো সরল ও কিছুটা বাঁকানো গঠনকে নির্দেশ করে, যা দাঁতের সারির মধ্যবর্তী আকৃতি ও বিন্যাসের সাথে মেলে।\n৩. উত্তরের সাথে সংযোগ: দাঁত এমন একটি অঙ্গ, যা উপরের ও নিচের চোয়ালের মাঝে স্থিরভাবে বসানো থাকে এবং চিবানোর সময় দুই দিক থেকেই চাপ অনুভব করে। দাঁতের সারি মাঝ বরাবর সাপের মতো সরল ও বাঁকানোভাবে বিস্তৃত, যা রূপকের সাপের গতির সাথে মেলে। দাঁতের এই বিন্যাস মুখের ভেতরে উপরে ও নিচে চাপের সংযোগ তৈরি করে এবং মাঝখানে সাপের মতো আকৃতি ধারণ করে।\n৪. সিদ্ধান্ত: এই যুক্তি অনুযায়ী, উপরে ও নিচে চাপ এবং মধ্যভাগে সাপের মতো আকৃতি—এই তিনটি বৈশিষ্ট্য সবচেয়ে বেশি দাঁতের সাথে মিলে যায়। তাই “উপরে চাপ নিচে চাপ, মধ্যঙ্গে চেরোয় সাপ” ধাঁধার উত্তর দাঁত।",
+      "ai_predicted_answer": "দাঁত",
+      "ground_truth_answer": "জিহ্বা"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 243,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "A fearsome traveller, whom everyone fears; after a little while, weeping, he makes the sea overflow.",
+      "mcq_options": [
+        "Rain",
+        "Wind",
+        "Cloud",
+        "Snow"
+      ],
+      "cot_text": "1. The key words of the riddle are “fearsome traveller”, “whom everyone fears”, “after a little while, weeping” and “he makes the sea overflow”; these are the indicators of our analysis.\n2. The metaphor depicts a fearful traveller who spreads fear in people’s hearts, then within a short time his weeping turns into drop after drop, and in the end he makes the sea surge up—that is, a natural event is presented through human feelings.\n3. “Rain” fits this metaphor perfectly: rain is like a fearsome traveller, because it arrives suddenly and casts a touch of fear in the air; when rain begins, tears gather in people’s eyes, and within a short time the raindrops create waves like the sea, making the sea surge up.\n4. Conclusion: So the only logical answer to this riddle is “rain”; because there is no other natural event besides rain that spreads fear, after a little while weeps drop by drop, and makes the sea surge up.",
+      "ai_predicted_answer": "Rain",
+      "ground_truth_answer": "Rain"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 311,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "Now I see it, now it is gone; before it there is no fire.",
+      "mcq_options": [
+        "Electricity",
+        "Light",
+        "Heat",
+        "Wind"
+      ],
+      "cot_text": "1. **Answer identification**: The key phrases of the riddle are “now I see it, now it is gone” and “before it there is no fire”. Here “now I see it, now it is gone” means it cannot be seen, and “before it there is no fire” means that something existed before fire.\n2. **Metaphor explanation**: “Now I see it, now it is gone” is a metaphor pointing to a force or event that does not get caught by the eye—invisible, instantaneous and electric. The metaphor “before it there is no fire” hints that this invisible force is present before fire, which is not blazing or hot like fire but lightning-fast.\n3. Connection with the answer: Here the phrase “there is no fire before it” indicates the element that exists before the origin of fire, which is the main clue of the riddle. To ignite fire, the presence of heat is essential, because without heat nothing can be set alight. The phrase “this I see, this is not” points to the invisible and perceptible nature of heat—heat is not seen, but felt, and its presence is instantly detected in the environment. Thus these metaphors and clues match the properties of heat directly.\n4. Conclusion: The above analysis shows that the description and metaphor of the riddle align most closely with heat. Heat is invisible, perceptible, and a prerequisite for the creation and presence of fire. Therefore, Heat.",
+      "ai_predicted_answer": "Heat",
+      "ground_truth_answer": "Electricity"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 328,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "সুঁতোয় বাঁধা সে যে শূন্যে করে ভ্রমণ, টান দিলে নড়েচড়ে কি আছে এমন?",
+      "mcq_options": [
+        "পাখি",
+        "বেলুন",
+        "পতাকা",
+        "ঘুড়ি"
+      ],
+      "cot_text": "১. ধাঁধার নির্দিষ্ট শব্দগুলো উদ্ধৃত করলে পাই: “সুঁতোয় বাঁধা”, “শূন্যে করে ভ্রমণ”, “টান দিলে নড়েচড়ে”।\n২. রূপকটি তিনটি বৈশিষ্ট্যকে একত্রে প্রকাশ করে: প্রথমে “সুঁতোয় বাঁধা” বলতে বোঝায় এমন কিছু যা একটি দড়ি বা সুতোর সাথে জড়িত; দ্বিতীয়ত “শূন্যে করে ভ্রমণ” বোঝায় বাতাসে বা আকাশে ভাসমান থাকা, অর্থাৎ শূন্য স্থান অতিক্রম করা; তৃতীয়ত “টান দিলে নড়েচড়ে” নির্দেশ করে যে, যখন সেই দড়ি টানা হয় তখন বস্তুটি নড়ে বা চলতে শুরু করে।\n৩. “ঘুড়ি” এই তিনটি বৈশিষ্ট্যের সাথে পুরোপুরি মিলে যায়: একটি ঘুড়ি অবশ্যই সুতোর সাথে বাঁধা থাকে, আকাশে উড়ে শূন্য স্থানে ভ্রমণ করে, এবং সুতোর টান বা হালকা বাতাসে ঘুরে নড়েচড়ে।\n৪. সিদ্ধান্ত: যেহেতু রূপকে উল্লেখিত সব শর্ত—দড়ি, আকাশে ভ্রমণ, টান দিলে চলা—একই সাথে পূরণ করে কেবল ঘুড়ি, তাই এটাই যুক্তিসংগত এবং একমাত্র উত্তর।",
+      "ai_predicted_answer": "ঘুড়ি",
+      "ground_truth_answer": "ঘুড়ি"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 352,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "কেবলি বাড়িয়া যায়,\nকভু যেন না কমে।\nজগতের এ রীতি\nবুঝিতে না পারে।",
+      "mcq_options": [
+        "সময়",
+        "জ্ঞান",
+        "অভিজ্ঞতা",
+        "বয়স"
+      ],
+      "cot_text": "১. ‘কেবলি বাড়িয়া যায়, কভু যেন না কমে। জগতের এ রীতি বুঝিতে না পারে।’\n২. এই রূপকটি একটি এমন বস্তু বা গুণকে নির্দেশ করে, যা কেবল একদিকে—বৃদ্ধি—গামী, আর কখনও পশ্চাদপসরণ করে না। এর গতি অনবরত চলমান, কিন্তু তা পরিমাপ করা বা গোনা সম্ভব নয়, কারণ এটি সারা বিশ্বে সমানভাবে প্রযোজ্য।\n৩. এখানে \"রীতি\" শব্দটি বোঝায় এমন কোনো সার্বজনীন নিয়ম বা স্বাভাবিক প্রবাহ, যা সব কিছুর জন্য সমানভাবে চলে এবং কখনো থামে না। এই গুণটি সবচেয়ে ভালোভাবে প্রকাশ পায় এমন কিছুর মধ্যে, যা অবিরাম এবং নিরবচ্ছিন্নভাবে এগিয়ে যায়, এবং তার গতিকে কোনোভাবেই কমানো যায় না। এই দিক থেকে \"সময়\" এমন একটি ধারণা, যা কখনো পেছনে যায় না, কেবল সামনে এগিয়ে চলে। সময়ের গতিপথ একমুখী এবং তা সারা বিশ্বে একইভাবে প্রযোজ্য, যার প্রবাহ কোনোভাবেই থামানো বা কমানো যায় না।\n৪. উপরে উল্লিখিত বৈশিষ্ট্যগুলো—অবিরাম অগ্রগতি, অপরিবর্তনীয় ধারা, এবং সার্বজনীনতা—সবচেয়ে বেশি \"সময়\" ধারণাটির সাথে মিলে যায়। অন্যান্য বিকল্পগুলোর মধ্যে কোনোটি এই বৈশিষ্ট্যগুলো এত স্পষ্টভাবে ধারণ করে না। তাই যুক্তির দিক থেকে \"সময়\" উত্তরটি সবচেয়ে উপযুক্ত।",
+      "ai_predicted_answer": "সময়",
+      "ground_truth_answer": "বয়স"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 373,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "There is no fire, yet the body is burning\nNo blisters, nor any sore\nCan you tell my condition.",
+      "mcq_options": [
+        "Cold",
+        "Itching",
+        "Burn",
+        "Fever"
+      ],
+      "cot_text": "1. Answer identification: The key phrases mentioned in the riddle are “there is no fire, yet the body feels scorched” and “no blisters, nor any sore”—that is, there is no clear mark of fire on the body, and no blisters or sores on the skin.\n2. Metaphor explanation: Here “fire” metaphorically denotes the body’s temperature or warmth, which does not mean a lack of physical heat but rather the feeling of internal heat. By “the body is burning” is meant the glow of heat or the imprint of warmth on the body, and by “no blisters, nor any sore” is meant a condition in which there are no blisters or sores on the skin.\n3. Connection with the answer: “Fever” is a physical condition in which body temperature rises above normal, producing a sensation of heat, yet no sign of fire (blisters, sores) is seen on the skin. So the metaphor of the riddle highlights exactly the characteristics of “fever”: hot but no clear skin damage.\n4. Conclusion: Since the riddle indicates only a rise in temperature and mentions no skin damage or blisters, “fever” is the only logical answer, which matches both the physical and the metaphorical characteristics.",
+      "ai_predicted_answer": "Fever",
+      "ground_truth_answer": "Fever"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 462,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "Famous is my name, companion of learning; without me there is no progress in schooling; I stay in the pocket, sometimes in an inkpot or bottle; think and tell me, everyone, what is my name.",
+      "mcq_options": [
+        "Pen",
+        "Chalk",
+        "Pencil",
+        "Ink"
+      ],
+      "cot_text": "1. **Answer identification**  \nThe key words of the riddle are: “companion of learning”, “there is no progress in schooling”, and “in an inkpot or bottle”. These are the main parts of the metaphor and the clue.\n2. Metaphorical explanation  \n\"The companion of knowledge\" means a material that is indispensable in education and study. \"Progress does not happen in study without me\" clearly indicates that this object is necessary for writing or studying. \"I stay in the pocket\" and \"in a nib or bottle\" indicate that this thing is easily portable and usually kept in a small container, which is characteristic of a writing instrument.\n3. Connection with the answer  \nThe described features match the Pen the most. Writing cannot be done without a Pen and it is essential for educational progress. A Pen is usually kept in a pocket and it has a nib or a small bottle‑like part where the substance is stored. Therefore the Pen's characteristics align well with the riddle's metaphors.\n4. Conclusion  \nAccording to the above explanation, the item that is most essential for progress in study and known as the \"companion of knowledge\" is the Pen. This answer is the most consistent with the riddle's hints and metaphors.",
+      "ai_predicted_answer": "Pen",
+      "ground_truth_answer": "Ink"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 480,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "অর্ধচন্দ্র সমাকার দেহের গঠন। গাছপালা কাটে সে সদা সর্বক্ষণ।",
+      "mcq_options": [
+        "কাস্তে",
+        "সৈদ",
+        "কুঠার",
+        "কাঁচি"
+      ],
+      "cot_text": "১. “অর্ধচন্দ্র সমাকার দেহের গঠন” ও “গাছপালা কাটে সে সদা সর্বক্ষণ” – এগুলোই ধাঁধার মূল শব্দগুচ্ছ।\n২. রূপকটি প্রথমে আকারের দিকে ইঙ্গিত করে: অর্ধচন্দ্রের মতো বাঁকানো দেহ, অর্থাৎ একটি বাঁকা লম্বা ব্লেড; দ্বিতীয় অংশে কাজের স্বরূপ প্রকাশ পায় – গাছপালা কাটতে থাকা, যেটি সর্বদা, অর্থাৎ চিরকালীন।\n৩. “কাস্তে” এই দুটো বৈশিষ্ট্যেই পুরোপুরি মিলে যায়: এর ব্লেডের আকার সত্যিই অর্ধচন্দ্রের মতো বাঁকা, আর এটি কৃষি বা বাগান কাজের জন্য গাছপালা, ঘাস, ফসল ইত্যাদি কাটতে ব্যবহার হয়, যা দিনের যেকোনো সময়েই প্রয়োগযোগ্য।\n৪. সিদ্ধান্ত: যেহেতু কেবলমাত্র কাস্তেরই অর্ধচন্দ্রাকৃতি ব্লেড এবং সর্বদা গাছপালা কাটার ব্যবহার আছে, তাই এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর হলো “কাস্তে”।",
+      "ai_predicted_answer": "কাস্তে",
+      "ground_truth_answer": "কাস্তে"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 516,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "দুই হাত চার পা, নাই লেজ মুড়ো সকলকে কোলে করে কিবা ছেলে বুড়ো।",
+      "mcq_options": [
+        "চেয়ার",
+        "সোফা",
+        "টেবিল",
+        "বিছানা"
+      ],
+      "cot_text": "১. ধাঁধাটিতে উল্লিখিত শব্দগুলো হলো: “দুই হাত চার পা, নাই লেজ মুড়ো সকলকে কোলে করে কিবা ছেলে বুড়ো।”\n২. এখানে “দুই হাত” এবং “চার পা” শব্দগুলো বস্তুটির বিভিন্ন অংশকে বোঝায়, “নাই লেজ” মানে কোনো বাড়তি ঝুলন্ত অংশ নেই, আর “মুড়ো” শব্দটি বস্তুটির সামনের বাঁকানো বা উঁচু অংশকে নির্দেশ করে, যা আরামদায়কভাবে হেলান দেওয়ার জন্য তৈরি। “সকলকে কোলে করে” অংশটি বসার বা বিশ্রামের জন্য জায়গা দেওয়া বোঝায়, আর “কিবা ছেলে বুড়ো” বলে বোঝায় যে এটি সবার জন্য উপযোগী, বয়স নির্বিশেষে।\n৩. সোফার ক্ষেত্রে এই ব্যাখ্যাগুলো পুরোপুরি মিলে যায়: সোফার পাশে দুটি হাতল থাকে, যেগুলোকে “দুই হাত” বলা যায় এবং সাধারণত চারটি পা থাকে, যা সোফাকে স্থিতিশীল রাখে। সোফার পেছনের অংশটি বাঁকানো বা উঁচু থাকে, যেটি “মুড়ো” হিসেবে ধরা যায়। সোফা কোনো লেজ বা বাড়তি অংশ ছাড়াই তৈরি, এবং এটি ছোট-বড়, ছেলে-বুড়ো সবাইকে বিশ্রামের জন্য জায়গা দেয়।\n৪. উপরোক্ত বিবরণ অনুযায়ী, ধাঁধার প্রতিটি রূপক অর্থ এবং বৈশিষ্ট্য সোফার সাথে বেশি মেলে; তাই এখানে “সোফা”-ই যুক্তিসঙ্গত উত্তর।",
+      "ai_predicted_answer": "সোফা",
+      "ground_truth_answer": "চেয়ার"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 596,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "It has no branches or twigs, only leaves,\nno hands or mouth, yet its belly is full of words.\nIt has no wit at all in its own head,\nyet it gives out wit to everyone, see.",
+      "mcq_options": [
+        "Paper",
+        "Newspaper",
+        "Magazine",
+        "Book"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “It has no branches or twigs, only leaves”, “no hands or mouth, yet its belly is full of words”, “It has no wit at all in its own head, yet it gives out wit to everyone, see.”\n2. Metaphor explanation: Here the absence of “branches and twigs” and of “hands and mouth” points to the lack of a bodily structure or life, while the presence of “leaves” and a “belly full of words” denotes a store of knowledge or information. By “it has no wit at all in its own head” is meant that this object has no brain of its own, yet it still distributes wit or knowledge.\n3. Connection with the answer: “Book” matches this metaphor perfectly. The words written on the pages of a book are its “leaves”; it has no physical branches and twigs, no hands or mouth, yet its pages are filled with information and knowledge. Although a book has no brain of its own, it instils knowledge in the reader’s brain, hence “it gives out wit to everyone, see”.\n4. Conclusion: Taking all these characteristics together, it is seen that no other object matches the description of the riddle as closely as a book. So “book” alone is the only logical answer.",
+      "ai_predicted_answer": "Book",
+      "ground_truth_answer": "Book"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 633,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "Such a bird, and yet it cannot fly; who can tell its name?",
+      "mcq_options": [
+        "Ostrich",
+        "Penguin",
+        "Crow",
+        "Owl"
+      ],
+      "cot_text": "1. **Answer identification**  \n   The key sentence of the riddle is “Such a bird, and yet it cannot fly; who can tell its name?” – here the words ‘bird’, ‘cannot fly’ and ‘can tell its name’ are the main hints.\n2. Metaphorical explanation  \nHere the word “fly” does not refer to literal physical flight but indicates a special ability to move silently in the darkness of night. The riddle’s phrase “cannot fly” points to a bird whose movement is not like ordinary birds but mysterious and silent.\n3. Connection with the answer  \nThe Owl is a bird that has a special skill to move silently in the night darkness. Although it can spread its wings and fly, the word “fly” in the ordinary sense is used here to denote an exceptional kind of motion or mobility. The riddle’s phrase “who can name it?” means that this bird’s name is easily known and can be pronounced, which applies to the word “Owl”.\n4. Conclusion  \nThe riddle’s conditions—a bird, special movement instead of normal flight, and a simple name—match the Owl most closely. Therefore, according to the riddle’s reasoning, the correct answer is Owl.",
+      "ai_predicted_answer": "Owl",
+      "ground_truth_answer": "Ostrich"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 678,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "ময়ূরের পাখা হাতির দাঁত যে কইতে না পারবে সে গাধার জাত।",
+      "mcq_options": [
+        "মূলা",
+        "গাজর",
+        "পেঁয়াজ",
+        "কুমড়া"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**\nধাঁধার প্রধান দুটি রূপক হলো—\"ময়ূরের পাখা\" এবং \"হাতির দাঁত\"। শেষের অংশটি মূলত একটি ছান্দিক চ্যালেঞ্জ, যা উত্তরদাতার বুদ্ধিমত্তা যাচাই করার জন্য বলা হয়েছে।\n২. **রূপকের ব্যাখ্যা**\nএখানে \"ময়ূরের পাখা\" বলতে মাটির ওপরে থাকা গাছটির সবুজ, দীর্ঘ ও ছড়ানো পাতাগুলোকে বোঝানো হয়েছে, যা দেখতে অনেকটা পাখার মতো। আর \"হাতির দাঁত\" বলতে মাটির নিচে থাকা সবজিটির সাদা, শক্ত ও সুচালো গঠনকে নির্দেশ করা হয়েছে।\n৩. **উত্তরের সাথে সংযোগ**\nউত্তরটি হলো \"মূলা\"। খেয়াল করলে দেখা যায়, মুলার শাক বা পাতাগুলো ওপরের দিকে ছড়ানো থাকে যা ময়ূরের পাখার বা পেখমের সাথে তুলনীয়। আর মুলার মূল অংশটি ঠিক হাতির দাঁতের মতোই ধবধবে সাদা এবং আকৃতিতে লম্বাটে ও সুচালো হয়।\n৪. **সিদ্ধান্ত**\nএকই সবজিতে ময়ূরের পাখার মতো পাতা এবং হাতির দাঁতের মতো সাদা ফলের উপস্থিতি—এই দৃশ্যমান দুই বৈশিষ্ট্য কেবল \"মূলা\"-র সাথেই চমৎকারভাবে মিলে যায়।",
+      "ai_predicted_answer": "মূলা",
+      "ground_truth_answer": "মূলা"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 706,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-3",
+      "riddle_text": "জলছে তবু পুড়ছে না কোন সে প্রাণী বলো তা।",
+      "mcq_options": [
+        "জেলিফিশ",
+        "গ্লোওয়ার্ম",
+        "মাছ",
+        "জোনাকী"
+      ],
+      "cot_text": "১. উত্তর চিহ্নিতকরণ: ধাঁধার মূল শব্দগুলো হল “জলছে তবু পুড়ছে না কোন সে প্রাণী বলো তা” — এখানে “জলছে” এবং “পুড়ছে না” শব্দদ্বয়ই রূপক হিসেবে ব্যবহৃত।\n২. রূপকের ব্যাখ্যা: এখানে “জলছে” শব্দটি পানির মধ্যে অবস্থান বা পানির সাথে সম্পর্কিত অবস্থাকে বোঝাচ্ছে, অর্থাৎ এমন প্রাণী যা পানির মধ্যে থাকে এবং তার উপস্থিতি বা বৈশিষ্ট্যের কারণে আলাদা ভাবে চিহ্নিত হয়; “পুড়ছে না” মানে শারীরিকভাবে দহন বা ক্ষয় হচ্ছে না, বরং স্বাভাবিক অবস্থায় আছে।\n৩. উত্তরের সাথে সংযোগ: জেলিফিশ একটি জলজ প্রাণী, যার দেহ স্বচ্ছ এবং অনেক সময় জলের মধ্যে ভাসতে দেখা যায়, যেন সে পানির মধ্যেই জ্বলছে বা উজ্জ্বল অবস্থায় আছে; কিন্তু তার শরীরে কোনো দহন বা ক্ষয় ঘটে না, সে স্বাভাবিকভাবেই টিকে থাকে।\n৪. সিদ্ধান্ত: জলজ পরিবেশে অবস্থান এবং দেহের স্বচ্ছতা ও উজ্জ্বলতার কারণে “জলছে তবু পুড়ছে না” রূপকটি সবচেয়ে ভালোভাবে জেলিফিশের সাথে মিলে যায়, তাই এই ধাঁধার উত্তর হবে জেলিফিশ।",
+      "ai_predicted_answer": "জেলিফিশ",
+      "ground_truth_answer": "জোনাকী"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 716,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Tell me, let’s see—\nwhere it is born, it does not live there.\nWhen it comes on a journey, it brings utter ruin.\nWhat is this?",
+      "mcq_options": [
+        "Rain",
+        "Fire",
+        "Lightning",
+        "Wind"
+      ],
+      "cot_text": "1. **Answer identification**  \n   “Tell me, let’s see— where it is born, it does not live there. When it comes on a journey, it brings utter ruin.”\n2. **Metaphor explanation**  \n   The metaphor speaks of an entity that does not remain in its place of birth, but reaches elsewhere through movement and causes destruction or disaster. Here “born” means the place of birth, “live” means permanent location, and “journey” means movement.\n3. **Connection with the answer**  \n   “Wind” carries exactly this characteristic. Wind forms in various parts of the earth (for example, in the collision of hot and cold air), but it does not “live” permanently in any one place; rather it travels in the air flow. When the wind becomes fierce and takes the form of a storm, tornado or cyclone, it becomes the cause of destruction, utter ruin. So “wind” satisfies all the conditions of the metaphor.\n4. **Conclusion**  \n   The only logical answer to this riddle is “wind”, because no other natural element or object likewise carries the characteristic of causing utter ruin by travelling without staying in its place of birth.",
+      "ai_predicted_answer": "Wind",
+      "ground_truth_answer": "Wind"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 749,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "A gigantic man am I, yet I am not human; a hunter with a bow in hand, I dwell in outer space.",
+      "mcq_options": [
+        "Arjuna",
+        "Jupiter",
+        "Deity",
+        "Kalpurush (Orion)"
+      ],
+      "cot_text": "1. **Answer identification** – The key words of the riddle are ‘gigantic man’, ‘yet I am not human’, ‘hunter with a bow in hand’, ‘I dwell in outer space’.\n2. **Metaphor explanation** – By ‘gigantic man’ the sky or outer space is compared to a vast entity like a human; the metaphor ‘hunter with a bow in hand’ hints at drawing in or hunting the flying stars or planets in the sky like the arrow of a bow; ‘I dwell in outer space’ means that this entity is located outside the earth, in the sky or outer space.\n3. Connection with the answer – The word “giant‑sized” is taken as a symbol of Arjuna’s extraordinary strength and heroism, because Arjuna was one of the principal warriors of the Mahabharata and his deeds and fame gave him greatness. The “hunter with a bow in hand” part identifies Arjuna—he was a skilled archer who always hunted or fought with a bow in hand. The metaphor “remains in space” refers to the mythological narratives of Arjuna’s ascent to heaven or his travel in space with the gods, where he receives weapons from the deities.\n4. Conclusion – The riddle’s metaphors and descriptions match Arjuna’s characteristics more closely, because of his greatness, bow‑handed skill, and his presence in mythological tales in space—all together make Arjuna the correct answer here.",
+      "ai_predicted_answer": "Arjuna",
+      "ground_truth_answer": "Kalpurush (Orion)"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 763,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "আমার উপরে এবং নিচে আমার বাম এবং ডানদিকে এবং মাঝখানে ফুটো রয়েছে। কিন্তু আমি তবুও জল ধরতে পারি। আমি কি?",
+      "mcq_options": [
+        "কাপড়",
+        "জাল",
+        "কাগজ",
+        "স্পঞ্জ"
+      ],
+      "cot_text": "১. রিডলের মূল বক্তব্য উদ্ধৃত করলে পাই: “**আমার উপরে এবং নিচে আমার বাম এবং ডানদিকে এবং মাঝখানে ফুটো রয়েছে। কিন্তু আমি তবুও জল ধরতে পারি।**” এই বাক্যগুলোই ধাঁধাটির সারমর্ম, যেখানে ‘ফুটো’ শব্দটি গুরুত্বপূর্ণ।\n২. ‘ফুটো’ শব্দটি রূপকভাবে একটি গহ্বর বা ছিদ্রকে নির্দেশ করে, যা কোনো বস্তু থেকে জল বেরিয়ে যেতে পারে। এখানে ‘উপরে, নিচে, বাম, ডান, মাঝখানে’ সব দিকেই ফুটো থাকলেও ‘জল ধরতে পারে’ এমন বস্তুটির কথা বলা হচ্ছে, যা একটি বৈপরীত্য সৃষ্টি করে।\n৩. স্পঞ্জের বৈশিষ্ট্যই এই বৈপরীত্যকে পূরণ করে। স্পঞ্জের পৃষ্ঠে অসংখ্য ক্ষুদ্র ছিদ্র (ফুটো) থাকে, যা উপরে, নিচে, বাম, ডান ও মাঝখানেও ছড়িয়ে থাকে। তবুও, তার ছিদ্রগুলোর মাধ্যমে জল শোষণ করে এবং ধরে রাখে, ফলে ‘জল ধরতে পারে’ এমন গুণটি সম্পূর্ণরূপে মিলে যায়।\n৪. সিদ্ধান্তে, যেহেতু অন্য কোনো বস্তু এই সব বৈশিষ্ট্যকে একই সাথে ধারণ করে না—অর্থাৎ সব দিকেই ফুটো থাকা সত্ত্বেও জল ধরে রাখা—সুতরাং স্পঞ্জই একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "স্পঞ্জ",
+      "ground_truth_answer": "স্পঞ্জ"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 797,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "কি টানলে ছোট হয়।",
+      "mcq_options": [
+        "টেপ",
+        "পাইপ",
+        "ধোঁয়া",
+        "সিগারেট"
+      ],
+      "cot_text": "১. 'কি টানলে ছোট হয়' – এখানে মূল শব্দগুলো হলো “টানলে” এবং “ছোট হয়”; এগুলোই ধাঁধার সংকেত।\n২. রূপক ব্যাখ্যা: “টানলে ছোট হয়” রূপকটি এমন একটি পরিস্থিতি বোঝায়, যেখানে কোনো বস্তু টানার ফলে তার দৈর্ঘ্য বা দৃশ্যমান অংশ কমে আসে। এখানে “ছোট” হওয়া মানে হলো, টানার সাথে সাথে বস্তুটির ব্যবহারের জন্য বাকি অংশ কমে যেতে থাকে, অর্থাৎ টানার ফলে তার অবশিষ্ট অংশ দৃশ্যত ছোট হয়ে আসে।\n৩. উত্তরের সাথে সংযোগ: টেপ টানার সময় রোল থেকে টেপ বের হতে থাকে এবং ব্যবহারের জন্য রোলের মধ্যে টেপের পরিমাণ কমে যায়। ফলে টানার সঙ্গে সঙ্গে রোলের টেপ ছোট হয়ে আসে, অর্থাৎ টেপের রোলের আকার ক্রমশ কমে যেতে থাকে। এই বৈশিষ্ট্য রূপকের সাথে সরাসরি মিলে যায়।\n৪. সিদ্ধান্ত: যেহেতু টানার কারণে টেপের রোল ছোট হয়ে আসে এবং অন্য কোনো বিকল্পে এই পরিবর্তন দেখা যায় না, তাই “টানলে ছোট হয়” রূপকটির সাথে সবচেয়ে বেশি মিলে যায় টেপ।",
+      "ai_predicted_answer": "টেপ",
+      "ground_truth_answer": "সিগারেট"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 804,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Which thing is old right from when it is a baby.",
+      "mcq_options": [
+        "Nail",
+        "Hand",
+        "Foot",
+        "Thumb"
+      ],
+      "cot_text": "1. ‘Which thing is old right from when it is a baby.’ – here the word ‘baby’ denotes the childhood of a human or animal, and the word ‘old’ marks the progress of age.\n2. The metaphor is “an object that bears the mark of age from childhood itself”. It means something that shows signs of age slowly from the very beginning of its life, though it is usually not a human’s.\n3. ‘Thumb’ matches this metaphor perfectly, because the thumb is larger and firmer than the other fingers from the time of birth, and its use begins from childhood. The length and strength of the thumb remain unchanged from childhood, so it can be said to be “old right from when it is a baby”—that is, its ‘age’ or ‘growth’ is evident from childhood itself.\n4. Conclusion: There is no other organ or object besides the thumb that bears such a characteristic from the time of birth and can be considered ‘old’ from childhood; so the only logical answer to this riddle is ‘thumb’.",
+      "ai_predicted_answer": "Thumb",
+      "ground_truth_answer": "Thumb"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 815,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "In winter it has no value, in summer it gains value.",
+      "mcq_options": [
+        "Sunshine",
+        "Cool breeze",
+        "Wind",
+        "Fan"
+      ],
+      "cot_text": "1. ‘In winter it has no value, in summer it gains value.’ – this line is the main statement of the riddle, in which the word ‘value’ denotes something needed or valuable.\n2. Metaphorical explanation: Here “importance” refers to significance or necessity, which varies with the seasons. In winter, when the surroundings are cold, cool breeze has no importance because the environment is already cold. In summer, when the surroundings are extremely hot, cool breeze becomes extremely important and desired.\n3. Connection with the answer: Cool breeze is unnecessary in winter because everyone seeks warmth then. In summer, the demand and importance of cool breeze increase because people want to obtain coolness. This characteristic matches the riddle’s metaphor perfectly, because cool breeze gains importance in heat and loses importance in cold.\n4. Conclusion: As an object whose importance changes with the seasons, cool breeze fits the riddle description best; therefore cool breeze is the appropriate answer.",
+      "ai_predicted_answer": "Cool breeze",
+      "ground_truth_answer": "Fan"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 850,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "কোন পাখির ডিম নাই, বলো তো দেখি। বলতে না পারলে বুঝবো বুদ্ধি নাই ঘটে",
+      "mcq_options": [
+        "কাক",
+        "পেঙ্গুইন",
+        "চড়ুই",
+        "বাদুর"
+      ],
+      "cot_text": "১. 'কোন পাখির ডিম নাই, বলো তো দেখি। বলতে না পারলে বুঝবো বুদ্ধি নাই ঘটে' – এখানে ‘পাখি’ শব্দটি সাধারণ অর্থে ব্যবহার করা হয়েছে, আর প্রশ্নটি হচ্ছে এমন একটি পাখি যার ডিম নেই।\n২. রূপকটি হলো ‘পাখি’ শব্দের দ্বৈত অর্থ – একদিকে প্রকৃত পাখি যাদের ডিম থাকে, অন্যদিকে একটি প্রাণী যাকে লোকজন প্রায়শই ‘পাখি’ বলে ডাকেন কিন্তু প্রকৃতপক্ষে তা নয়।\n৩. ‘বাদুর’ এর বৈশিষ্ট্য হল এটি স্তন্যপায়ী, জীবন্ত বাচ্চা জন্মায়, ডিম দেয় না; তাই ‘পাখি’ শব্দের আক্ষরিক অর্থে ডিম না থাকার কারণে এটি রূপকের সাথে মিলে যায়।\n৪. সিদ্ধান্ত: যেহেতু রূপকটি ‘পাখি’ শব্দের উপর নির্ভরশীল এবং শুধুমাত্র স্তন্যপায়ী বাদুরই ডিম না দিয়ে জন্ম দেয়, তাই ‘বাদুর’ এই ধাঁধার একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "বাদুর",
+      "ground_truth_answer": "বাদুর"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 923,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "এক হাত গাছটা ফুল ধরে পাঁচটা।",
+      "mcq_options": [
+        "পাঁচটি নখ",
+        "একটি পাতা",
+        "একটি শাখা",
+        "হাতের আঙুল"
+      ],
+      "cot_text": "১. “এক হাত গাছটা ফুল ধরে পাঁচটা।”\n২. এখানে “গাছটা” বলতে আসলে হাতের উপরের অংশকে বোঝানো হয়েছে, আর “ফুল ধরে পাঁচটা” বলতে হাতের পাঁচটি নখকে ইঙ্গিত করা হয়েছে। যেমন গাছের ডালে ফুল ফোটে, তেমনি হাতের পাঁচটি আঙুলের ডগায় পাঁচটি নখ থাকে, যা দেখতে আলাদা এবং গাছের ফুলের মতোই পৃথকভাবে অবস্থান করে।\n৩. পাঁচটি নখই হাতের উপরের অংশে সারিবদ্ধভাবে থাকে এবং প্রত্যেকটি আঙুলের ডগায় একটি করে নখ থাকে, যা গাছের ডালে ফুলের মতোই হাতের সৌন্দর্য বাড়ায়। এইভাবে, “ফুল” শব্দটি এখানে নখের সৌন্দর্য ও অবস্থানকে প্রতিফলিত করে।\n৪. এই রূপকটি বিশেষভাবে হাতের পাঁচটি নখের সাথে বেশি মেলে, কারণ এগুলোই হাতের উপরের অংশে পাঁচটি পৃথক অংশ হিসেবে অবস্থান করে এবং গাছের ডালে ফুলের মতোই দেখা যায়। তাই “পাঁচটি নখ” হলো সবচেয়ে যুক্তিযুক্ত উত্তর।",
+      "ai_predicted_answer": "পাঁচটি নখ",
+      "ground_truth_answer": "হাতের আঙুল"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 927,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "Little little kids eat milk and rice, they want to fight with big big trees.",
+      "mcq_options": [
+        "Bamboo",
+        "Chicken",
+        "Wooden stick",
+        "Axe"
+      ],
+      "cot_text": "1. Answer identification: The key words of the riddle are “little little kids”, “eat milk and rice” and “want to fight with big big trees”—these are the hints of the riddle.\n2. Metaphor explanation: Here “little little kids” is a picture of a small, flexible shoot, which gets nourishment from “milk and rice”—that is, equivalent to water and soil fertiliser. By “want to fight with big big trees” it is meant that although small, it competes with the big trees, expressing a wish to become tall and strong.\n3. Connection with the answer: “Axe” is a small bamboo bud, which, starting small, takes nourishment from soil and water and grows tall quickly. Bamboo buds are known for their flexibility and strength, and under the right conditions can compete with big trees, so all parts of the riddle match the characteristics of “axe”.\n4. Conclusion: These three hints—the picture of a small start, nourishment from water and soil, and fighting with big trees—can be fully explained by “axe” alone, so it is the only logical answer to this riddle.",
+      "ai_predicted_answer": "Axe",
+      "ground_truth_answer": "Axe"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 929,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "If rubbed, hope is fulfilled; otherwise, all is despair.",
+      "mcq_options": [
+        "Cigarette",
+        "Lighter",
+        "Matchbox",
+        "Matchstick"
+      ],
+      "cot_text": "1. ‘If rubbed, hope is fulfilled; otherwise, all is despair’ – here the two parts ‘if rubbed, it is fulfilled’ and ‘hope; otherwise, all is despair’ are the main clues.\n2. The metaphor ‘if rubbed, it is fulfilled’ points to an object that lights up or ignites through rubbing; and ‘hope; otherwise, all is despair’ is meant to say that if the light of hope of that glow does not light up, the whole situation is filled with despair and darkness.\n3. Here the word “rubbing” points to a device that creates fire by rubbing or pressing; a lighter is exactly such an object, where fire ignites through pressure or friction. When the lighter is rubbed or pressed, fire emerges and the light of hope shines, and if the fire does not ignite, darkness and despair descend. Friction or pressure is essential for the lighter’s fire, and without it no light is obtained—this matches the core idea of the riddle.\n4. Conclusion: The riddle’s “when rubbed, hope is fulfilled” part aligns more with the lighter’s characteristic of igniting fire through friction or pressure, because obtaining light here requires friction or pressure. Therefore the correct answer to this riddle is Lighter.",
+      "ai_predicted_answer": "Lighter",
+      "ground_truth_answer": "Matchstick"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 941,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "দেখিতে গোল গা। পেটের ভিতর হাত পা চলে কিন্তু নড়ে না। এটা কি তা বল না",
+      "mcq_options": [
+        "ব্লেন্ডার",
+        "প্ল্যানেট",
+        "সার্কাসের রিং",
+        "ঘড়ি"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ধাঁধার মূল লাইনগুলো উদ্ধৃত করা হলো:  \n   *“দেখিতে গোল গা। পেটের ভিতর হাত পা চলে কিন্তু নড়ে না।”*\n২. **রূপকের ব্যাখ্যা**  \n   - *দেখিতে গোল গা* – বাহিরে গোলাকার বা বৃত্তাকার আকারের বস্তু নির্দেশ করে।  \n   - *পেটের ভিতর হাত পা চলে* – বস্তুটির ভেতরে চলমান যন্ত্রাংশ বা অংশ রয়েছে, যা বাহিরের দিকে হাত বা পা হিসেবে দেখা যায়।  \n   - *কিন্তু নড়ে না* – বাহিরের দিক থেকে দেখলে বস্তুটি নিজে নড়াচড়া করে না, বরং অভ্যন্তরীণ অংশগুলোই চলছে।\n৩. **উত্তরের সাথে সংযোগ**  \n   ঘড়ি এই রূপকের সাথে পুরোপুরি মিলে যায়:  \n   - ঘড়ির কেস সাধারণত গোলাকার বা বৃত্তাকার (দেখিতে গোল গা)।  \n   - ঘড়ির ভেতরে কাঁটা (ঘণ্টা, মিনিট, সেকেন্ড) এবং যন্ত্রাংশ ঘোরে বা চলে (পেটের ভিতর হাত পা চলে)।  \n   - ঘড়ি নিজে স্থির থাকে; এটি কেবল সময় দেখায়, নড়াচড়া করে না (কিন্তু নড়ে না)।\n৪. **সিদ্ধান্ত**  \n   উপরের তিনটি বৈশিষ্ট্যই ঘড়ি ছাড়া আর কোন সাধারণ বস্তুতে একই সাথে পাওয়া যায় না। তাই ধাঁধার যুক্তিসংগত উত্তর একমাত্র ঘড়ি।",
+      "ai_predicted_answer": "ঘড়ি",
+      "ground_truth_answer": "ঘড়ি"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 1017,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "চাই নাকো তবু খাই বেশি খেলে মারা যাই।",
+      "mcq_options": [
+        "চড়",
+        "পানি",
+        "অগ্নি",
+        "পিটুনি"
+      ],
+      "cot_text": "১. **উত্তর চিহ্নিতকরণ**  \n   ‘চাই নাকো তবু খাই বেশি খেলে মারা যাই।’ এই বাক্যটিতে ‘খাই’ শব্দটি রূপকভাবে ব্যবহৃত হয়েছে।\n২. **রূপকের ব্যাখ্যা**  \nএখানে ‘খাই’ শব্দটি গ্রহণ বা সহ্য করার অর্থে নয়, বরং এমন কিছুকে বোঝায় যা শরীর বা পরিবেশে প্রবেশ করে এবং তার উপস্থিতি অনুভূত হয়। অর্থাৎ, এমন কিছু যা স্বেচ্ছায় নেওয়া হয় না, কিন্তু কোনোভাবে শরীরে বা আশেপাশে প্রবেশ করলে তার প্রভাব পড়ে; অতিরিক্ত হলে তা ক্ষতিকর হয়ে ওঠে।\n৩. **উত্তরের সাথে সংযোগ**  \n‘অগ্নি’ এমন একটি উপাদান, যা সাধারণত কেউ নিজের মধ্যে নিতে চায় না, কিন্তু কোনোভাবে শরীরে প্রবেশ করলে বা সংস্পর্শে আসলে তা অনুভূত হয়। অগ্নি শরীরে প্রবেশ করলে বা বেশি গ্রহণ করলে শরীর পুড়ে যায় এবং অতিরিক্ত অগ্নি মৃত্যু ঘটাতে পারে। তাই এখানে ‘খাই’ মানে অগ্নির সংস্পর্শে আসা বা গ্রহণ করা এবং ‘বেশি খেলে মারা যাই’ মানে অতিরিক্ত অগ্নি শরীরের জন্য মারাত্মক ক্ষতি ডেকে আনে।\n৪. **সিদ্ধান্ত**  \n‘চাই নাকো তবু খাই বেশি খেলে মারা যাই’—এই শর্তগুলো অগ্নির সাথে বেশি মেলে, কারণ অগ্নি কেউ চায় না, কিন্তু একবার শরীরে লাগলে বা গ্রহণ করলে তার প্রভাব অনুভূত হয় এবং মাত্রাতিরিক্ত হলে মৃত্যু পর্যন্ত হতে পারে। তাই এখানে সবচেয়ে যুক্তিসঙ্গত উত্তর অগ্নি।",
+      "ai_predicted_answer": "অগ্নি",
+      "ground_truth_answer": "পিটুনি"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 1137,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "A room within a room dances—bride and groom.",
+      "mcq_options": [
+        "Mosquito coil stand",
+        "Net",
+        "Curtain",
+        "Mosquito net"
+      ],
+      "cot_text": "1. ‘A room within a room dances—bride and groom’ – in this line the word ‘room’ appears twice, the first meaning ‘inside the room’, that is, inside the whole room, and the second meaning ‘room’ as small room-like structures.\n2. The metaphor means that inside the room there are several small rooms which are dancing, as if the bride-and-groom (the wedding couple) were swaying in joy. Here the word ‘dances’ denotes a puff or movement of air, and ‘bride-and-groom’ presents a lively, pleasing picture of movement.\n3. ‘Mosquito net’ matches exactly this description: a mosquito net is a net hung on a frame, which has countless small holes or ‘rooms’ in it. When the net of the mosquito net sways in the air, these holes, dancing, create a rhythmic motion like a bride-and-groom. Besides, a mosquito net is always used inside the room, which satisfies the condition of being ‘inside the room’.\n4. Conclusion: All the clues above – small rooms inside a room, a dancing motion, the bride-and-groom picture, and being used inside the room – together present only ‘mosquito net’ as the logical answer. No other object can satisfy all these characteristics at the same time, so the mosquito net is the only correct solution.",
+      "ai_predicted_answer": "Mosquito net",
+      "ground_truth_answer": "Mosquito net"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 1150,
+      "condition": "EN_Flawed",
+      "language": "English",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "It lives in a house of stone, it dies as soon as it goes down into the sea?",
+      "mcq_options": [
+        "Soil",
+        "Lime",
+        "Gold",
+        "Salt"
+      ],
+      "cot_text": "1. Answer identification – the core words of the riddle are “Lives in a stone house, dies when it goes into the sea?”\n2. Explanation of the metaphor – “Lives in a stone house” refers to “stone” as the hard mineral found inside the earth’s crust. “Dies when it goes into the sea” means that when it enters the sea the object disappears or breaks apart, as if it becomes “dead.”\n3. The connection with the answer: “rock house” refers to a limestone quarry or rock layer where lime is extracted. The original source of lime is rock, therefore it lives in a rock house. “Dies when it goes into the sea” – lime is active in its dry form; when it encounters water or sea moisture it becomes a slake, meaning that in a chemical reaction its solid raw form is destroyed and turns into a soft pudding‑like substance. Its existence as true lime ends, so metaphorically it dies.\n4. Conclusion: Produced from rock and losing its original form when placed in water – these two characteristics match lime precisely. No other object is born inside rock and dies in water in the same way, therefore the answer is Lime.",
+      "ai_predicted_answer": "Lime",
+      "ground_truth_answer": "Salt"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 1177,
+      "condition": "BN_Faithful",
+      "language": "Bangla",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "এক না জামিরের গাছ টোকা দিলে পরে রস।",
+      "mcq_options": [
+        "নাক",
+        "মুখ",
+        "কপাল",
+        "চোখ"
+      ],
+      "cot_text": "১. ‘এক না জামিরের গাছ টোকা দিলে পরে রস’ – এখানে ‘এক’, ‘জামিরের গাছ’, ‘টোকা দিলে’, ‘পরে রস’ শব্দগুলো মূল সূত্র।\n২. রূপকটি একটি এমন গাছকে বর্ণনা করছে যেটি ফল দেয় না, কিন্তু যদি আপনি সেটিকে হালকাভাবে টোকা দেন, তবে তার থেকে রস বের হয়। এই রূপকটি মূলত একটি ‘স্ফটিক গাছ’ – চোখ –কে নির্দেশ করে, যেহেতু চোখে ‘রস’ বা ‘অশ্রু’ থাকে যা চাপ দিলে বের হয়।\n৩. ‘চোখ’‑এর বৈশিষ্ট্য ঠিক এই ধাঁধার সাথে মিলে যায়: চোখের পাতা বা চোখের উপর হালকা চাপ দিলে অশ্রু (রস) বের হয়, যা গাছের মতো টোকা দিলে রস বের হওয়ার চিত্রকে প্রতিফলিত করে। এছাড়া চোখে ফল নেই, বরং অশ্রু উৎপন্ন হয়, যা ‘জামিরের গাছ’ (ফলহীন গাছ) এর সাথে সাদৃশ্যপূর্ণ।\n৪. সিদ্ধান্ত: এই সমস্ত মিলের কারণে ‘চোখ’ ছাড়া আর কোনো অঙ্গ বা বস্তুই ধাঁধার উপস্থাপিত রূপককে এত নিখুঁতভাবে পূরণ করতে পারে না। তাই ‘চোখ’ হলো একমাত্র যুক্তিসংগত উত্তর।",
+      "ai_predicted_answer": "চোখ",
+      "ground_truth_answer": "চোখ"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 1182,
+      "condition": "BN_Flawed",
+      "language": "Bangla",
+      "fidelity": "Flawed",
+      "ft_code": "FT-1",
+      "riddle_text": "দিনে তিনবার রঙ বদলায়?",
+      "mcq_options": [
+        "মেঘ",
+        "আকাশের রং",
+        "সিগন্যাল লাইট",
+        "ট্রাফিক লাইট"
+      ],
+      "cot_text": "১. 'দিনে তিনবার রঙ বদলায়?' এখানে ‘রঙ বদলায়’ এবং ‘তিনবার’ শব্দগুলোই ধাঁধার মূল সূত্র।\n২. রূপকটি ‘রঙ বদলায়’—এটি একটি পরিবর্তনশীল রঙের চিত্র তুলে ধরে, যা নির্দিষ্ট সময়ে বারবার পরিবর্তিত হয়।\n৩. এখানে ‘দিনে’ অর্থ হলো দিনের বিভিন্ন সময়ে, যখন আলো ও পরিবেশের পরিবর্তনে মেঘের রঙও পাল্টায়। মেঘ কখনো সাদা, কখনো ধূসর, আবার কখনো লালচে বা কমলা আভা ধারণ করে—এগুলো দিনের বিভিন্ন অংশে ঘটে। সুতরাং, ‘রঙ বদলায়’ কথাটি মেঘের এই স্বাভাবিক পরিবর্তনের সাথে সরাসরি সম্পর্কিত।\n৪. সিদ্ধান্ত: ‘দিনে তিনবার রঙ বদলায়’ এই বৈশিষ্ট্যটি মেঘের আচরণের সাথে সবচেয়ে বেশি মেলে, কারণ মেঘ দিনের বিভিন্ন সময়ে তিনটি প্রধান রঙে দেখা যায়। তাই এখানে উপযুক্ত উত্তর হচ্ছে মেঘ।",
+      "ai_predicted_answer": "মেঘ",
+      "ground_truth_answer": "ট্রাফিক লাইট"
+    },
+    {
+      "form_id": "Form_D",
+      "item_id": 1216,
+      "condition": "EN_Faithful",
+      "language": "English",
+      "fidelity": "Faithful",
+      "ft_code": "NONE",
+      "riddle_text": "What is there that any owner must put down in his garden before putting down seedlings, seeds or fertiliser?",
+      "mcq_options": [
+        "Stone",
+        "Sand",
+        "Grass",
+        "Soil"
+      ],
+      "cot_text": "1. ‘Owner’, ‘seedlings’, ‘seeds’, ‘fertiliser’, ‘must put down before’ – these words express the main idea of the riddle, which asks what object an owner has to have placed in the garden before putting down seedlings or seeds or fertiliser.\n2. Metaphor explanation: ‘Soil’ is used here as a metaphor, acting as the stage or foundation of the garden. Just as actors cannot move without the stage of a play, in the same way soil must be present first for the seedlings and seeds in the garden.\n3. Connection with the answer: The characteristic of soil is that it holds nutrition and moisture, creates a suitable environment for seedlings and seeds, and is also the ideal medium for mixing fertiliser. So ‘soil’ has to be laid before putting down, otherwise seedlings or seeds will not sprout properly.\n4. Conclusion: Putting down seedlings, seeds or fertiliser without soil is meaningless, because these depend on soil. Hence the only logical answer to the riddle is ‘soil’.",
+      "ai_predicted_answer": "Soil",
+      "ground_truth_answer": "Soil"
+    }
+  ]
+}
